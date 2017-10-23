@@ -1,18 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<xs:schema xmlns:t="http://schemas.ntreev.com/crema/tables/Table1" xmlns="http://schemas.ntreev.com/crema/tables/Table1" elementFormDefault="qualified" targetNamespace="http://schemas.ntreev.com/crema/tables/Table1" version="3.5" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:schema xmlns:t="http://schemas.ntreev.com/crema/tables/StringTable" xmlns="http://schemas.ntreev.com/crema/tables/StringTable" elementFormDefault="qualified" targetNamespace="http://schemas.ntreev.com/crema/tables/StringTable" version="3.5" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:import schemaLocation="../types/StringType.xsd" namespace="http://schemas.ntreev.com/crema/types/StringType" />
   <xs:simpleType name="guid">
     <xs:restriction base="xs:string">
       <xs:pattern value="([0-9a-fA-F]){8}-([0-9a-fA-F]){4}-([0-9a-fA-F]){4}-([0-9a-fA-F]){4}-([0-9a-fA-F]){12}" />
     </xs:restriction>
   </xs:simpleType>
-  <xs:complexType name="Table1.Table">
+  <xs:complexType name="StringTable.Table">
     <xs:annotation>
       <xs:appinfo>
         <TableInfo Creator="admin" />
         <TableInfo CreatedDateTime="2017-10-23T07:16:01.2646706Z" />
         <TableInfo Modifier="admin" />
-        <TableInfo ModifiedDateTime="2017-10-23T07:16:22.1153707Z" />
+        <TableInfo ModifiedDateTime="2017-10-23T08:43:02.0393268Z" />
         <TableInfo ID="c0cab95d-e8db-454e-bfdd-db225b55d79e" />
       </xs:appinfo>
     </xs:annotation>
@@ -72,15 +72,15 @@
   <xs:element name="Content">
     <xs:complexType>
       <xs:sequence>
-        <xs:element minOccurs="0" maxOccurs="unbounded" name="Table1" type="Table1.Table" />
+        <xs:element minOccurs="0" maxOccurs="unbounded" name="StringTable" type="StringTable.Table" />
       </xs:sequence>
       <xs:attribute name="Version" type="xs:string" use="required" />
-      <xs:attribute name="Table1.CreatedDateTime" type="xs:dateTime" use="optional" />
-      <xs:attribute name="Table1.Creator" type="xs:string" use="optional" />
-      <xs:attribute name="Table1.ModifiedDateTime" type="xs:dateTime" use="optional" />
-      <xs:attribute name="Table1.Modifier" type="xs:string" use="optional" />
-      <xs:attribute name="Table1.Count" type="xs:int" use="optional" />
-      <xs:attribute name="Table1.ID" type="xs:string" use="optional" />
+      <xs:attribute name="StringTable.CreatedDateTime" type="xs:dateTime" use="optional" />
+      <xs:attribute name="StringTable.Creator" type="xs:string" use="optional" />
+      <xs:attribute name="StringTable.ModifiedDateTime" type="xs:dateTime" use="optional" />
+      <xs:attribute name="StringTable.Modifier" type="xs:string" use="optional" />
+      <xs:attribute name="StringTable.Count" type="xs:int" use="optional" />
+      <xs:attribute name="StringTable.ID" type="xs:string" use="optional" />
       <xs:attribute name="Creator" type="xs:string" use="optional">
         <xs:annotation>
           <xs:documentation>xml 문서를 생성한 사람의 이름을 설정합니다. 이 값은 선택적입니다.</xs:documentation>
@@ -92,8 +92,8 @@
         </xs:annotation>
       </xs:attribute>
     </xs:complexType>
-    <xs:key name="Table1.Key">
-      <xs:selector xpath="t:Table1" />
+    <xs:key name="StringTable.Key">
+      <xs:selector xpath="t:StringTable" />
       <xs:field xpath="t:Type" />
       <xs:field xpath="t:Name" />
     </xs:key>
