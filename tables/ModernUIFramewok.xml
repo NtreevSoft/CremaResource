@@ -3,106 +3,117 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/ModernUIFramewok StringTable.xsd"
   StringTable.Modifier="admin"
-  StringTable.ModifiedDateTime="2017-10-23T08:47:38.4598194Z"
+  StringTable.ModifiedDateTime="2017-10-23T09:56:52.5411841Z"
   StringTable.Count="11"
   StringTable.ID="b3780d7f-9ca8-45a5-b96c-389dcf25fcdd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/StringTable">
   <StringTable
     Creator="admin"
     CreatedDateTime="2017-10-23T08:47:38.4598194Z"
     Modifier="admin"
-    ModifiedDateTime="2017-10-23T08:47:38.4598194Z">
+    ModifiedDateTime="2017-10-23T09:56:52.5411841Z">
     <Type>Button</Type>
     <Name>Cancel</Name>
     <Value>_Cancel</Value>
+    <ko_KR>취소(_C)</ko_KR>
   </StringTable>
   <StringTable
     Creator="admin"
     CreatedDateTime="2017-10-23T08:47:38.4598194Z"
     Modifier="admin"
-    ModifiedDateTime="2017-10-23T08:47:38.4598194Z">
+    ModifiedDateTime="2017-10-23T09:56:52.5411841Z">
     <Type>Button</Type>
     <Name>Close</Name>
     <Value>_Close</Value>
+    <ko_KR>닫기(_C)</ko_KR>
   </StringTable>
   <StringTable
     Creator="admin"
     CreatedDateTime="2017-10-23T08:47:38.4598194Z"
     Modifier="admin"
-    ModifiedDateTime="2017-10-23T08:47:38.4598194Z">
+    ModifiedDateTime="2017-10-23T09:56:52.5411841Z">
     <Type>Button</Type>
     <Name>Create</Name>
     <Value>Cre_ate</Value>
+    <ko_KR>생성(_O)</ko_KR>
   </StringTable>
   <StringTable
     Creator="admin"
     CreatedDateTime="2017-10-23T08:47:38.4598194Z"
     Modifier="admin"
-    ModifiedDateTime="2017-10-23T08:47:38.4598194Z">
+    ModifiedDateTime="2017-10-23T09:56:52.5411841Z">
     <Type>Button</Type>
     <Name>Delete</Name>
     <Value>_Delete</Value>
+    <ko_KR>삭제(_D)</ko_KR>
   </StringTable>
   <StringTable
     Creator="admin"
     CreatedDateTime="2017-10-23T08:47:38.4598194Z"
     Modifier="admin"
-    ModifiedDateTime="2017-10-23T08:47:38.4598194Z">
+    ModifiedDateTime="2017-10-23T09:56:52.5411841Z">
     <Type>Button</Type>
     <Name>Move</Name>
     <Value>_Move</Value>
+    <ko_KR>이동(_M)</ko_KR>
   </StringTable>
   <StringTable
     Creator="admin"
     CreatedDateTime="2017-10-23T08:47:38.4598194Z"
     Modifier="admin"
-    ModifiedDateTime="2017-10-23T08:47:38.4598194Z">
+    ModifiedDateTime="2017-10-23T09:56:52.5411841Z">
     <Type>Button</Type>
     <Name>No</Name>
     <Value>_No</Value>
+    <ko_KR>아니오(_N)</ko_KR>
   </StringTable>
   <StringTable
     Creator="admin"
     CreatedDateTime="2017-10-23T08:47:38.4598194Z"
     Modifier="admin"
-    ModifiedDateTime="2017-10-23T08:47:38.4598194Z">
+    ModifiedDateTime="2017-10-23T09:56:52.5411841Z">
     <Type>Button</Type>
     <Name>OK</Name>
     <Value>_OK</Value>
+    <ko_KR>확인(_O)</ko_KR>
   </StringTable>
   <StringTable
     Creator="admin"
     CreatedDateTime="2017-10-23T08:47:38.4598194Z"
     Modifier="admin"
-    ModifiedDateTime="2017-10-23T08:47:38.4598194Z">
+    ModifiedDateTime="2017-10-23T09:56:52.5411841Z">
     <Type>Button</Type>
     <Name>Rename</Name>
     <Value>_Rename</Value>
+    <ko_KR>변경(_R)</ko_KR>
   </StringTable>
   <StringTable
     Creator="admin"
     CreatedDateTime="2017-10-23T08:47:38.4598194Z"
     Modifier="admin"
-    ModifiedDateTime="2017-10-23T08:47:38.4598194Z">
+    ModifiedDateTime="2017-10-23T09:56:52.5411841Z">
     <Type>Button</Type>
     <Name>Retry</Name>
     <Value>_Retry</Value>
+    <ko_KR>재시도(_R)</ko_KR>
   </StringTable>
   <StringTable
     Creator="admin"
     CreatedDateTime="2017-10-23T08:47:38.4598194Z"
     Modifier="admin"
-    ModifiedDateTime="2017-10-23T08:47:38.4598194Z">
+    ModifiedDateTime="2017-10-23T09:56:52.5411841Z">
     <Type>Button</Type>
     <Name>Select</Name>
     <Value>_Select</Value>
+    <ko_KR>선택(_S)</ko_KR>
   </StringTable>
   <StringTable
     Creator="admin"
     CreatedDateTime="2017-10-23T08:47:38.4598194Z"
     Modifier="admin"
-    ModifiedDateTime="2017-10-23T08:47:38.4598194Z">
+    ModifiedDateTime="2017-10-23T09:56:52.5411841Z">
     <Type>Button</Type>
     <Name>Yes</Name>
     <Value>_Yes</Value>
+    <ko_KR>예(_Y)</ko_KR>
   </StringTable>
 </Content>
