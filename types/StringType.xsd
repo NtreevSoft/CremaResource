@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:t="http://schemas.ntreev.com/crema/types/StringType" xmlns="http://schemas.ntreev.com/crema/types/StringType" elementFormDefault="qualified" targetNamespace="http://schemas.ntreev.com/crema/types/StringType" version="3.5" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:simpleType name="StringType">
+    <xs:annotation>
+      <xs:appinfo>
+        <TypeInfo Creator="admin" />
+        <TypeInfo CreatedDateTime="2017-10-23T06:51:02.1407151Z" />
+        <TypeInfo Modifier="admin" />
+        <TypeInfo ModifiedDateTime="2017-10-23T06:51:46.3913142Z" />
+        <TypeInfo ID="c8fb7d8f-07c9-49ae-bd2d-9911baf326ae" />
+      </xs:appinfo>
+    </xs:annotation>
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Message">
+        <xs:annotation>
+          <xs:appinfo>
+            <TypeInfo Creator="admin" />
+            <TypeInfo CreatedDateTime="2017-10-23T06:51:13.2767943Z" />
+            <TypeInfo Modifier="admin" />
+            <TypeInfo ModifiedDateTime="2017-10-23T06:51:46.3913142Z" />
+            <TypeInfo ID="e22fe8cd-b8ee-4c69-a4fd-9ff2b03a5f3e" />
+            <TypeInfo Enable="true" />
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:enumeration>
+    </xs:restriction>
+  </xs:simpleType>
+</xs:schema>
