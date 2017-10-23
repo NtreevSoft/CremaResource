@@ -6,19 +6,84 @@
         <TypeInfo Creator="admin" />
         <TypeInfo CreatedDateTime="2017-10-23T06:51:02.1407151Z" />
         <TypeInfo Modifier="admin" />
-        <TypeInfo ModifiedDateTime="2017-10-23T06:51:46.3913142Z" />
+        <TypeInfo ModifiedDateTime="2017-10-23T07:00:38.0000467Z" />
         <TypeInfo ID="c8fb7d8f-07c9-49ae-bd2d-9911baf326ae" />
       </xs:appinfo>
     </xs:annotation>
     <xs:restriction base="xs:string">
-      <xs:enumeration value="Message">
+      <xs:enumeration value="Text">
         <xs:annotation>
           <xs:appinfo>
             <TypeInfo Creator="admin" />
             <TypeInfo CreatedDateTime="2017-10-23T06:51:13.2767943Z" />
             <TypeInfo Modifier="admin" />
-            <TypeInfo ModifiedDateTime="2017-10-23T06:51:46.3913142Z" />
+            <TypeInfo ModifiedDateTime="2017-10-23T07:00:35.1062079Z" />
             <TypeInfo ID="e22fe8cd-b8ee-4c69-a4fd-9ff2b03a5f3e" />
+            <TypeInfo Enable="true" />
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="Title">
+        <xs:annotation>
+          <xs:appinfo>
+            <TypeInfo Value="1" />
+            <TypeInfo Creator="admin" />
+            <TypeInfo CreatedDateTime="2017-10-23T06:59:47.4591407Z" />
+            <TypeInfo Modifier="admin" />
+            <TypeInfo ModifiedDateTime="2017-10-23T06:59:47.4591407Z" />
+            <TypeInfo ID="273460d2-4775-45fd-98a6-b011d6b7a3f4" />
+            <TypeInfo Enable="true" />
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="Label">
+        <xs:annotation>
+          <xs:appinfo>
+            <TypeInfo Value="2" />
+            <TypeInfo Creator="admin" />
+            <TypeInfo CreatedDateTime="2017-10-23T07:00:01.8169765Z" />
+            <TypeInfo Modifier="admin" />
+            <TypeInfo ModifiedDateTime="2017-10-23T07:00:01.8169765Z" />
+            <TypeInfo ID="6a10af21-98d3-49f9-8e6f-13da0301b55f" />
+            <TypeInfo Enable="true" />
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="Button">
+        <xs:annotation>
+          <xs:appinfo>
+            <TypeInfo Value="3" />
+            <TypeInfo Creator="admin" />
+            <TypeInfo CreatedDateTime="2017-10-23T07:00:19.1925232Z" />
+            <TypeInfo Modifier="admin" />
+            <TypeInfo ModifiedDateTime="2017-10-23T07:00:19.1925232Z" />
+            <TypeInfo ID="94b7ab17-82c7-4684-8b6b-cdf653e6a01d" />
+            <TypeInfo Enable="true" />
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="Comment">
+        <xs:annotation>
+          <xs:appinfo>
+            <TypeInfo Value="4" />
+            <TypeInfo Creator="admin" />
+            <TypeInfo CreatedDateTime="2017-10-23T07:00:23.64938Z" />
+            <TypeInfo Modifier="admin" />
+            <TypeInfo ModifiedDateTime="2017-10-23T07:00:23.64938Z" />
+            <TypeInfo ID="94b08344-6e6b-478e-87a1-ebd97cb02aeb" />
+            <TypeInfo Enable="true" />
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="Message">
+        <xs:annotation>
+          <xs:appinfo>
+            <TypeInfo Value="5" />
+            <TypeInfo Creator="admin" />
+            <TypeInfo CreatedDateTime="2017-10-23T07:00:27.4413029Z" />
+            <TypeInfo Modifier="admin" />
+            <TypeInfo ModifiedDateTime="2017-10-23T07:00:38.0000467Z" />
+            <TypeInfo ID="e8e5af99-b4f8-457d-a203-80de0b5e5880" />
             <TypeInfo Enable="true" />
           </xs:appinfo>
         </xs:annotation>
