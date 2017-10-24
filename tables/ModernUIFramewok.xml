@@ -3,8 +3,8 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/ModernUIFramewok StringTable.xsd"
   StringTable.Modifier="admin"
-  StringTable.ModifiedDateTime="2017-10-24T04:18:36.5388413Z"
-  StringTable.Count="11"
+  StringTable.ModifiedDateTime="2017-10-24T04:42:42.3546063Z"
+  StringTable.Count="21"
   StringTable.ID="b3780d7f-9ca8-45a5-b96c-389dcf25fcdd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/StringTable">
   <StringTable
     Creator="admin"
@@ -116,5 +116,105 @@
     <Name>Yes</Name>
     <Value>_Yes</Value>
     <ko_KR>예(_Y)</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-24T04:42:23.5980861Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-24T04:42:42.3546063Z">
+    <Type>Label</Type>
+    <Name>CaseSensitive</Name>
+    <Value>Case sensitive</Value>
+    <ko_KR>대소문자 구분</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-24T04:42:23.5980861Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-24T04:42:42.3546063Z">
+    <Type>Label</Type>
+    <Name>CategoryName</Name>
+    <Value>Folder Name</Value>
+    <ko_KR>폴더 이름</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-24T04:42:23.5980861Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-24T04:42:42.3546063Z">
+    <Type>Label</Type>
+    <Name>CategoryPath</Name>
+    <Value>Folder Path</Value>
+    <ko_KR>폴더 경로</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-24T04:42:23.5980861Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-24T04:42:42.3546063Z">
+    <Type>Label</Type>
+    <Name>Comment</Name>
+    <Value>Comment</Value>
+    <ko_KR>설명</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-24T04:42:23.5980861Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-24T04:42:42.3546063Z">
+    <Type>Label</Type>
+    <Name>CurrentName</Name>
+    <Value>Current Name</Value>
+    <ko_KR>현재 이름</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-24T04:42:23.5980861Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-24T04:42:42.3546063Z">
+    <Type>Label</Type>
+    <Name>CurrentPath</Name>
+    <Value>Current Path</Value>
+    <ko_KR>현재 경로</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-24T04:42:23.5980861Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-24T04:42:42.3546063Z">
+    <Type>Label</Type>
+    <Name>CurrentTargetPath</Name>
+    <Value>Current Folder</Value>
+    <ko_KR>현재 폴더</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-24T04:42:23.5980861Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-24T04:42:42.3546063Z">
+    <Type>Label</Type>
+    <Name>NewName</Name>
+    <Value>New Name</Value>
+    <ko_KR>새 이름</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-24T04:42:23.5980861Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-24T04:42:42.3546063Z">
+    <Type>Label</Type>
+    <Name>TargetPath</Name>
+    <Value>Target Folder</Value>
+    <ko_KR>대상 폴더</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-24T04:42:23.5980861Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-24T04:42:42.3546063Z">
+    <Type>Label</Type>
+    <Name>UseGlobPattern</Name>
+    <Value>Use glob pattern</Value>
+    <ko_KR>Glob 패턴 사용</ko_KR>
   </StringTable>
 </Content>
