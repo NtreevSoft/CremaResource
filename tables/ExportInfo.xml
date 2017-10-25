@@ -3,52 +3,57 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/ExportInfo ExportInfo.xsd"
   ExportInfo.Modifier="admin"
-  ExportInfo.ModifiedDateTime="2017-10-25T07:59:28.3201544Z"
+  ExportInfo.ModifiedDateTime="2017-10-25T08:32:17.6208133Z"
   ExportInfo.Count="5"
   ExportInfo.ID="dea31cbb-0fbd-40b7-9e09-bf11038a3aca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/ExportInfo">
   <ExportInfo
     Creator="admin"
     CreatedDateTime="2017-10-25T04:14:12.2163323Z"
     Modifier="admin"
-    ModifiedDateTime="2017-10-25T07:34:55.6463678Z">
+    ModifiedDateTime="2017-10-25T08:32:17.6208133Z">
     <TableName>ModernUIFramewok</TableName>
     <Path>sub-modules/Ntreev.ModernUI.Framework/Ntreev.ModernUI.Framework/Properties</Path>
     <Name />
+    <ProjectPath>sub-modules/Ntreev.ModernUI.Framework/Ntreev.ModernUI.Framework/Properties</ProjectPath>
   </ExportInfo>
   <ExportInfo
     Creator="admin"
     CreatedDateTime="2017-10-25T04:54:50.2168264Z"
     Modifier="admin"
-    ModifiedDateTime="2017-10-25T07:34:59.8271751Z">
+    ModifiedDateTime="2017-10-25T08:32:17.6208133Z">
     <TableName>ClientSmartSet</TableName>
     <Path>client/Ntreev.Crema.Client.SmartSet/Properties</Path>
     <Name />
+    <ProjectPath>client/Ntreev.Crema.Client.SmartSet/Properties</ProjectPath>
   </ExportInfo>
   <ExportInfo
     Creator="admin"
     CreatedDateTime="2017-10-25T05:56:39.2096651Z"
     Modifier="admin"
-    ModifiedDateTime="2017-10-25T07:35:01.3403778Z">
+    ModifiedDateTime="2017-10-25T08:32:17.6208133Z">
     <TableName>ClientCommon</TableName>
     <Path>client/Ntreev.Crema.Client.Common/Properties</Path>
     <Name />
+    <ProjectPath>client/Ntreev.Crema.Client.Common/Properties</ProjectPath>
   </ExportInfo>
   <ExportInfo
     Creator="admin"
     CreatedDateTime="2017-10-25T06:49:12.8559905Z"
     Modifier="admin"
-    ModifiedDateTime="2017-10-25T07:35:02.3699796Z">
+    ModifiedDateTime="2017-10-25T08:32:17.6208133Z">
     <TableName>ClientTables</TableName>
     <Path>client/Ntreev.Crema.Client.Tables/Properties</Path>
     <Name />
+    <ProjectPath>client/Ntreev.Crema.Client.Tables/Properties</ProjectPath>
   </ExportInfo>
   <ExportInfo
     Creator="admin"
     CreatedDateTime="2017-10-25T07:59:28.3201544Z"
     Modifier="admin"
-    ModifiedDateTime="2017-10-25T07:59:28.3201544Z">
+    ModifiedDateTime="2017-10-25T08:32:17.6208133Z">
     <TableName>CommonPresentation</TableName>
     <Path>common/Ntreev.Crema.Presentation/Properties</Path>
     <Name />
+    <ProjectPath>common/Ntreev.Crema.Presentation/Properties</ProjectPath>
   </ExportInfo>
 </Content>
