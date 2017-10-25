@@ -3,8 +3,8 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/ModernUIFramewok StringTable.xsd"
   StringTable.Modifier="admin"
-  StringTable.ModifiedDateTime="2017-10-25T04:03:40.6166682Z"
-  StringTable.Count="30"
+  StringTable.ModifiedDateTime="2017-10-25T04:19:58.0008965Z"
+  StringTable.Count="37"
   StringTable.ID="b3780d7f-9ca8-45a5-b96c-389dcf25fcdd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/StringTable">
   <StringTable
     Creator="admin"
@@ -306,5 +306,75 @@
     <Name>DeleteNow</Name>
     <Value>Delete Now</Value>
     <ko_KR>지금삭제</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-25T04:18:12.9031923Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-25T04:18:46.2097795Z">
+    <Type>Message</Type>
+    <Name>Deleting</Name>
+    <Value>Deleting.</Value>
+    <ko_KR>삭제중입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-25T04:18:12.9031923Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-25T04:18:49.4996276Z">
+    <Type>Message</Type>
+    <Name>Moving</Name>
+    <Value>Moving.</Value>
+    <ko_KR>이동중입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-25T04:18:12.9031923Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-25T04:18:52.2994253Z">
+    <Type>Message</Type>
+    <Name>CreatingCategory</Name>
+    <Value>Creating Folder.</Value>
+    <ko_KR>폴더를 생성중입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-25T04:18:12.9031923Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-25T04:18:55.7477801Z">
+    <Type>Message</Type>
+    <Name>Renaming</Name>
+    <Value>Renaming.</Value>
+    <ko_KR>이름을 변경중입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-25T04:18:12.9031923Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-25T04:19:58.0008965Z">
+    <Type>Message</Type>
+    <Name>ConfirmToCreate</Name>
+    <Value>Do you want to create it?</Value>
+    <ko_KR>생성 하시겠습니까?</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-25T04:18:12.9031923Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-25T04:19:54.9797304Z">
+    <Type>Message</Type>
+    <Name>ConfirmToDelete</Name>
+    <Value>Do you want to delete it?</Value>
+    <ko_KR>삭제 하시겠습니까?</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-25T04:18:12.9031923Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-25T04:19:49.9922199Z">
+    <Type>Message</Type>
+    <Name>ConfirmToSave</Name>
+    <Value>Do you want to save it?</Value>
+    <ko_KR>저장 하시겠습니까?</ko_KR>
   </StringTable>
 </Content>
