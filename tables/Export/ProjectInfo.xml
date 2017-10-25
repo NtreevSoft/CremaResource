@@ -3,14 +3,16 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/Export/ProjectInfo ProjectInfo.xsd"
   ProjectInfo.Modifier="admin"
-  ProjectInfo.ModifiedDateTime="2017-10-25T08:33:29.9425403Z"
+  ProjectInfo.ModifiedDateTime="2017-10-25T08:34:43.9958704Z"
   ProjectInfo.Count="5"
-  ProjectInfo.ID="dea31cbb-0fbd-40b7-9e09-bf11038a3aca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Export/ProjectInfo">
+  ProjectInfo.ID="dea31cbb-0fbd-40b7-9e09-bf11038a3aca"
+  ProjectInfo.ExportInfo.ID="a9ca9738-2c3f-41a3-b380-98987977e42e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Export/ProjectInfo">
   <ProjectInfo
     Creator="admin"
     CreatedDateTime="2017-10-25T04:14:12.2163323Z"
     Modifier="admin"
-    ModifiedDateTime="2017-10-25T08:33:29.9425403Z">
+    ModifiedDateTime="2017-10-25T08:34:43.9958704Z"
+    RelationID="68a3714c96c4b0550bd811702ea7b880">
     <TableName>ModernUIFramewok</TableName>
     <ProjectPath>sub-modules/Ntreev.ModernUI.Framework/Ntreev.ModernUI.Framework/Ntreev.ModernUI.Framework.csproj</ProjectPath>
     <Name />
@@ -19,7 +21,8 @@
     Creator="admin"
     CreatedDateTime="2017-10-25T04:54:50.2168264Z"
     Modifier="admin"
-    ModifiedDateTime="2017-10-25T08:32:17.6208133Z">
+    ModifiedDateTime="2017-10-25T08:34:43.9958704Z"
+    RelationID="1d3eca7408d2bc840e31b1548e6888cd">
     <TableName>ClientSmartSet</TableName>
     <ProjectPath>client/Ntreev.Crema.Client.SmartSet/Properties</ProjectPath>
     <Name />
@@ -28,7 +31,8 @@
     Creator="admin"
     CreatedDateTime="2017-10-25T05:56:39.2096651Z"
     Modifier="admin"
-    ModifiedDateTime="2017-10-25T08:32:17.6208133Z">
+    ModifiedDateTime="2017-10-25T08:34:43.9958704Z"
+    RelationID="0ebb16c2fb4d208fd547e59fd15fc1ad">
     <TableName>ClientCommon</TableName>
     <ProjectPath>client/Ntreev.Crema.Client.Common/Properties</ProjectPath>
     <Name />
@@ -37,7 +41,8 @@
     Creator="admin"
     CreatedDateTime="2017-10-25T06:49:12.8559905Z"
     Modifier="admin"
-    ModifiedDateTime="2017-10-25T08:32:17.6208133Z">
+    ModifiedDateTime="2017-10-25T08:34:43.9958704Z"
+    RelationID="673852c6622883d16f6efa57f4569574">
     <TableName>ClientTables</TableName>
     <ProjectPath>client/Ntreev.Crema.Client.Tables/Properties</ProjectPath>
     <Name />
@@ -46,7 +51,8 @@
     Creator="admin"
     CreatedDateTime="2017-10-25T07:59:28.3201544Z"
     Modifier="admin"
-    ModifiedDateTime="2017-10-25T08:32:17.6208133Z">
+    ModifiedDateTime="2017-10-25T08:34:43.9958704Z"
+    RelationID="7da292e79bc33619b0598b2013b4e92d">
     <TableName>CommonPresentation</TableName>
     <ProjectPath>common/Ntreev.Crema.Presentation/Properties</ProjectPath>
     <Name />

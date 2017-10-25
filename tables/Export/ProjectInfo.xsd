@@ -5,6 +5,47 @@
       <xs:pattern value="([0-9a-fA-F]){8}-([0-9a-fA-F]){4}-([0-9a-fA-F]){4}-([0-9a-fA-F]){4}-([0-9a-fA-F]){12}" />
     </xs:restriction>
   </xs:simpleType>
+  <xs:complexType name="ProjectInfo.ExportInfo.Table">
+    <xs:annotation>
+      <xs:appinfo>
+        <TableInfo CreatedDateTime="2017-10-25T08:34:43.9802704Z" />
+        <TableInfo Modifier="admin" />
+        <TableInfo ModifiedDateTime="2017-10-25T08:35:20.4375344Z" />
+        <TableInfo ID="a9ca9738-2c3f-41a3-b380-98987977e42e" />
+        <TableInfo CategoryPath="/Export/" />
+      </xs:appinfo>
+    </xs:annotation>
+    <xs:sequence>
+      <xs:element name="TableName" type="xs:string">
+        <xs:annotation>
+          <xs:appinfo>
+            <ColumnInfo Creator="admin" />
+            <ColumnInfo CreatedDateTime="2017-10-25T08:35:02.2167024Z" />
+            <ColumnInfo Modifier="admin" />
+            <ColumnInfo ModifiedDateTime="2017-10-25T08:35:15.1647252Z" />
+            <ColumnInfo ID="ebc4c3d9-660b-4cb6-a2b7-7949b8f2ef5e" />
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:element>
+      <xs:element minOccurs="0" name="FileName" type="xs:string">
+        <xs:annotation>
+          <xs:appinfo>
+            <ColumnInfo Creator="admin" />
+            <ColumnInfo CreatedDateTime="2017-10-25T08:35:20.4375344Z" />
+            <ColumnInfo Modifier="admin" />
+            <ColumnInfo ModifiedDateTime="2017-10-25T08:35:20.4375344Z" />
+            <ColumnInfo ID="5b908227-2057-4bdd-9801-dd49b5aedcd2" />
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:element>
+    </xs:sequence>
+    <xs:attribute default="" name="Creator" type="xs:string" />
+    <xs:attribute default="0001-01-01T00:00:00" name="CreatedDateTime" type="xs:dateTime" />
+    <xs:attribute default="" name="Modifier" type="xs:string" />
+    <xs:attribute default="0001-01-01T00:00:00" name="ModifiedDateTime" type="xs:dateTime" />
+    <xs:attribute default="All" name="Tags" type="xs:string" use="optional" />
+    <xs:attribute default="true" name="Enable" type="xs:boolean" use="optional" />
+  </xs:complexType>
   <xs:complexType name="ProjectInfo.Table">
     <xs:annotation>
       <xs:appinfo>
@@ -48,6 +89,7 @@
           </xs:appinfo>
         </xs:annotation>
       </xs:element>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ExportInfo" type="ProjectInfo.ExportInfo.Table" />
     </xs:sequence>
     <xs:attribute default="" name="Creator" type="xs:string" />
     <xs:attribute default="0001-01-01T00:00:00" name="CreatedDateTime" type="xs:dateTime" />
@@ -55,6 +97,7 @@
     <xs:attribute default="0001-01-01T00:00:00" name="ModifiedDateTime" type="xs:dateTime" />
     <xs:attribute default="All" name="Tags" type="xs:string" use="optional" />
     <xs:attribute default="true" name="Enable" type="xs:boolean" use="optional" />
+    <xs:attribute name="RelationID" type="xs:string" />
   </xs:complexType>
   <xs:element name="Content">
     <xs:complexType>
@@ -68,6 +111,12 @@
       <xs:attribute name="ProjectInfo.Modifier" type="xs:string" use="optional" />
       <xs:attribute name="ProjectInfo.Count" type="xs:int" use="optional" />
       <xs:attribute name="ProjectInfo.ID" type="xs:string" use="optional" />
+      <xs:attribute name="ProjectInfo.ExportInfo.CreatedDateTime" type="xs:dateTime" use="optional" />
+      <xs:attribute name="ProjectInfo.ExportInfo.Creator" type="xs:string" use="optional" />
+      <xs:attribute name="ProjectInfo.ExportInfo.ModifiedDateTime" type="xs:dateTime" use="optional" />
+      <xs:attribute name="ProjectInfo.ExportInfo.Modifier" type="xs:string" use="optional" />
+      <xs:attribute name="ProjectInfo.ExportInfo.Count" type="xs:int" use="optional" />
+      <xs:attribute name="ProjectInfo.ExportInfo.ID" type="xs:string" use="optional" />
       <xs:attribute name="Creator" type="xs:string" use="optional">
         <xs:annotation>
           <xs:documentation>xml 문서를 생성한 사람의 이름을 설정합니다. 이 값은 선택적입니다.</xs:documentation>
@@ -81,6 +130,10 @@
     </xs:complexType>
     <xs:key name="ProjectInfo.Key">
       <xs:selector xpath="t:ProjectInfo" />
+      <xs:field xpath="t:TableName" />
+    </xs:key>
+    <xs:key name="ProjectInfo.ExportInfo.Key">
+      <xs:selector xpath="t:ProjectInfo/t:ExportInfo" />
       <xs:field xpath="t:TableName" />
     </xs:key>
   </xs:element>
