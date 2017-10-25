@@ -3,8 +3,8 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/ExportInfo ExportInfo.xsd"
   ExportInfo.Modifier="admin"
-  ExportInfo.ModifiedDateTime="2017-10-25T04:54:50.2168264Z"
-  ExportInfo.Count="2"
+  ExportInfo.ModifiedDateTime="2017-10-25T05:56:39.2096651Z"
+  ExportInfo.Count="3"
   ExportInfo.ID="dea31cbb-0fbd-40b7-9e09-bf11038a3aca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/ExportInfo">
   <ExportInfo
     Creator="admin"
@@ -22,6 +22,15 @@
     ModifiedDateTime="2017-10-25T04:54:50.2168264Z">
     <TableName>ClientSmartSet</TableName>
     <Path>client/Ntreev.Crema.Client.SmartSet</Path>
+    <Name />
+  </ExportInfo>
+  <ExportInfo
+    Creator="admin"
+    CreatedDateTime="2017-10-25T05:56:39.2096651Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-25T05:56:39.2096651Z">
+    <TableName>ClientCommon</TableName>
+    <Path>client/Ntreev.Crema.Client.Common</Path>
     <Name />
   </ExportInfo>
 </Content>
