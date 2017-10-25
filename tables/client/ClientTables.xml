@@ -3,8 +3,8 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientTables ../Templates/StringTable.xsd"
   StringTable.Modifier="admin"
-  StringTable.ModifiedDateTime="2017-10-25T06:48:50.9762669Z"
-  StringTable.Count="73"
+  StringTable.ModifiedDateTime="2017-10-25T07:31:08.3383686Z"
+  StringTable.Count="74"
   StringTable.ID="c2388943-4951-4ffa-81f9-33946994432d" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="admin"
@@ -735,5 +735,15 @@
     <Name>ViewLog</Name>
     <Value>View Log</Value>
     <ko_KR>로그 보기</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-25T07:30:57.5899497Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-25T07:31:08.3383686Z">
+    <Type>Comment</Type>
+    <Name>EnterWordToFind</Name>
+    <Value>Enter word to find</Value>
+    <ko_KR>찾을 단어를 입력하세요</ko_KR>
   </StringTable>
 </Content>
