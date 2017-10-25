@@ -13,6 +13,6 @@
     ModifiedDateTime="2017-10-25T04:16:29.486808Z">
     <TableName>ModernUIFramewok</TableName>
     <Path>sub-modules/Ntreev.ModernUI.Framework</Path>
-    <Name>Resources</Name>
+    <Name />
   </ExportInfo>
 </Content>

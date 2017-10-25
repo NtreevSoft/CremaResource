@@ -36,13 +36,13 @@
           </xs:appinfo>
         </xs:annotation>
       </xs:element>
-      <xs:element minOccurs="0" name="Name" type="xs:string">
+      <xs:element default="Resources" name="Name" type="xs:string">
         <xs:annotation>
           <xs:appinfo>
             <ColumnInfo Creator="admin" />
             <ColumnInfo CreatedDateTime="2017-10-25T04:15:20.9394109Z" />
             <ColumnInfo Modifier="admin" />
-            <ColumnInfo ModifiedDateTime="2017-10-25T04:15:20.9394109Z" />
+            <ColumnInfo ModifiedDateTime="2017-10-25T04:16:39.7009661Z" />
             <ColumnInfo ID="6355b338-71f4-4d66-938c-32de1a81c433" />
           </xs:appinfo>
         </xs:annotation>
