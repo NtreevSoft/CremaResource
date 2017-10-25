@@ -57,36 +57,36 @@
       </xs:appinfo>
     </xs:annotation>
     <xs:sequence>
+      <xs:element name="ProjectType" xmlns:q1="http://schemas.ntreev.com/crema/types/ProjectType" type="q1:ProjectType">
+        <xs:annotation>
+          <xs:appinfo>
+            <ColumnInfo Creator="admin" />
+            <ColumnInfo CreatedDateTime="2017-10-25T08:40:56.9613255Z" />
+            <ColumnInfo Modifier="admin" />
+            <ColumnInfo ModifiedDateTime="2017-10-25T08:42:23.9002782Z" />
+            <ColumnInfo ID="53fd6271-0121-4f55-be26-7a47e64beebd" />
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:element>
+      <xs:element name="Name" type="xs:string">
+        <xs:annotation>
+          <xs:appinfo>
+            <ColumnInfo Creator="admin" />
+            <ColumnInfo CreatedDateTime="2017-10-25T08:38:54.29831Z" />
+            <ColumnInfo Modifier="admin" />
+            <ColumnInfo ModifiedDateTime="2017-10-25T08:42:24.92988Z" />
+            <ColumnInfo ID="e8680af2-37c8-4719-bc81-6b2296952bc2" />
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:element>
       <xs:element name="ProjectPath" type="xs:string">
         <xs:annotation>
           <xs:appinfo>
             <ColumnInfo Creator="admin" />
             <ColumnInfo CreatedDateTime="2017-10-25T08:25:15.4372718Z" />
             <ColumnInfo Modifier="admin" />
-            <ColumnInfo ModifiedDateTime="2017-10-25T08:35:47.4723819Z" />
+            <ColumnInfo ModifiedDateTime="2017-10-25T08:42:25.6942813Z" />
             <ColumnInfo ID="fd83f5d6-3ae5-4889-8731-6228262ce181" />
-          </xs:appinfo>
-        </xs:annotation>
-      </xs:element>
-      <xs:element minOccurs="0" name="Name" type="xs:string">
-        <xs:annotation>
-          <xs:appinfo>
-            <ColumnInfo Creator="admin" />
-            <ColumnInfo CreatedDateTime="2017-10-25T08:38:54.29831Z" />
-            <ColumnInfo Modifier="admin" />
-            <ColumnInfo ModifiedDateTime="2017-10-25T08:38:54.29831Z" />
-            <ColumnInfo ID="e8680af2-37c8-4719-bc81-6b2296952bc2" />
-          </xs:appinfo>
-        </xs:annotation>
-      </xs:element>
-      <xs:element minOccurs="0" name="ProjectType" xmlns:q1="http://schemas.ntreev.com/crema/types/ProjectType" type="q1:ProjectType">
-        <xs:annotation>
-          <xs:appinfo>
-            <ColumnInfo Creator="admin" />
-            <ColumnInfo CreatedDateTime="2017-10-25T08:40:56.9613255Z" />
-            <ColumnInfo Modifier="admin" />
-            <ColumnInfo ModifiedDateTime="2017-10-25T08:40:56.9613255Z" />
-            <ColumnInfo ID="53fd6271-0121-4f55-be26-7a47e64beebd" />
           </xs:appinfo>
         </xs:annotation>
       </xs:element>
@@ -131,7 +131,8 @@
     </xs:complexType>
     <xs:key name="ProjectInfo.Key">
       <xs:selector xpath="t:ProjectInfo" />
-      <xs:field xpath="t:ProjectPath" />
+      <xs:field xpath="t:ProjectType" />
+      <xs:field xpath="t:Name" />
     </xs:key>
     <xs:key name="ProjectInfo.ExportInfo.Key">
       <xs:selector xpath="t:ProjectInfo/t:ExportInfo" />
