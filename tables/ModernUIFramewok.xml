@@ -3,8 +3,8 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/ModernUIFramewok StringTable.xsd"
   StringTable.Modifier="admin"
-  StringTable.ModifiedDateTime="2017-10-24T04:42:42.3546063Z"
-  StringTable.Count="21"
+  StringTable.ModifiedDateTime="2017-10-25T03:53:28.4455815Z"
+  StringTable.Count="29"
   StringTable.ID="b3780d7f-9ca8-45a5-b96c-389dcf25fcdd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/StringTable">
   <StringTable
     Creator="admin"
@@ -216,5 +216,85 @@
     <Name>UseGlobPattern</Name>
     <Value>Use glob pattern</Value>
     <ko_KR>Glob 패턴 사용</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-25T03:52:09.9978931Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-25T03:52:09.9978931Z">
+    <Type>Title</Type>
+    <Name>Confirm</Name>
+    <Value>Confirm</Value>
+    <ko_KR>확인</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-25T03:52:09.9978931Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-25T03:52:09.9978931Z">
+    <Type>Title</Type>
+    <Name>Delete</Name>
+    <Value>Delete</Value>
+    <ko_KR>삭제</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-25T03:52:09.9978931Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-25T03:52:09.9978931Z">
+    <Type>Title</Type>
+    <Name>EditFilter</Name>
+    <Value>Edit Filter</Value>
+    <ko_KR>필터 편집</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-25T03:52:09.9978931Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-25T03:52:09.9978931Z">
+    <Type>Title</Type>
+    <Name>Move</Name>
+    <Value>Move</Value>
+    <ko_KR>이동</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-25T03:52:09.9978931Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-25T03:52:09.9978931Z">
+    <Type>Title</Type>
+    <Name>NewCategory</Name>
+    <Value>New Folder</Value>
+    <ko_KR>새 폴더 추가</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-25T03:52:09.9978931Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-25T03:52:09.9978931Z">
+    <Type>Title</Type>
+    <Name>Rename</Name>
+    <Value>Rename</Value>
+    <ko_KR>이름 변경</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-25T03:52:09.9978931Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-25T03:52:09.9978931Z">
+    <Type>Title</Type>
+    <Name>SelectColor</Name>
+    <Value>Select Color</Value>
+    <ko_KR>색상 선택</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-25T03:53:17.5621702Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-25T03:53:28.4455815Z">
+    <Type>Comment</Type>
+    <Name>Filter</Name>
+    <Value>type word to search.</Value>
+    <ko_KR>검색어를 입력하세요.</ko_KR>
   </StringTable>
 </Content>
