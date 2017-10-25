@@ -3,8 +3,8 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/StringTable11 StringTable.xsd"
   StringTable.Modifier="admin"
-  StringTable.ModifiedDateTime="2017-10-24T03:56:48.5491753Z"
-  StringTable.Count="2"
+  StringTable.ModifiedDateTime="2017-10-25T01:19:51.2970185Z"
+  StringTable.Count="3"
   StringTable.ID="413cb86b-dda7-4952-8dd4-c392ab490538" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/StringTable">
   <StringTable
     Creator="admin"
@@ -21,5 +21,13 @@
     ModifiedDateTime="2017-10-24T03:56:48.5491753Z">
     <Type>Text</Type>
     <Name>rtytry</Name>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-25T01:19:51.2970185Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-25T01:19:51.2970185Z">
+    <Type>Text</Type>
+    <Name>ppp</Name>
   </StringTable>
 </Content>
