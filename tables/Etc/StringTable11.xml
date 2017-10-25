@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Content
   Version="3.5"
-  xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/Etc/StringTable11 ../StringTable.xsd"
+  xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/Etc/StringTable11 ../Templates/StringTable.xsd"
   StringTable.Modifier="admin"
   StringTable.ModifiedDateTime="2017-10-25T03:53:53.976624Z"
   StringTable.Count="4"
