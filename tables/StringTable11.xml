@@ -2,18 +2,10 @@
 <Content
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/StringTable11 StringTable.xsd"
-  StringTable.Modifier="admin"
-  StringTable.ModifiedDateTime="2017-10-25T02:36:42.9085306Z"
+  StringTable.Modifier="s2quake"
+  StringTable.ModifiedDateTime="2017-10-25T03:27:58.9731561Z"
   StringTable.Count="3"
   StringTable.ID="413cb86b-dda7-4952-8dd4-c392ab490538" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/StringTable">
-  <StringTable
-    Creator="admin"
-    CreatedDateTime="2017-10-25T02:32:11.663747Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-10-25T02:32:11.663747Z">
-    <Type>Text</Type>
-    <Name>qewioroe</Name>
-  </StringTable>
   <StringTable
     Creator="admin"
     CreatedDateTime="2017-10-25T02:32:04.6937182Z"
@@ -25,9 +17,17 @@
   <StringTable
     Creator="admin"
     CreatedDateTime="2017-10-25T02:36:42.9085306Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-10-25T02:36:42.9085306Z">
+    Modifier="s2quake"
+    ModifiedDateTime="2017-10-25T03:27:58.9731561Z">
     <Type>Title</Type>
     <Name>234234</Name>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-25T02:32:11.663747Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2017-10-25T02:53:20.1528549Z">
+    <Type>Text</Type>
+    <Name>qewioroe</Name>
   </StringTable>
 </Content>
