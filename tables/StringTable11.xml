@@ -3,8 +3,8 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/StringTable11 StringTable.xsd"
   StringTable.Modifier="admin"
-  StringTable.ModifiedDateTime="2017-10-25T01:21:09.4110242Z"
-  StringTable.Count="4"
+  StringTable.ModifiedDateTime="2017-10-25T01:35:54.2178976Z"
+  StringTable.Count="9"
   StringTable.ID="413cb86b-dda7-4952-8dd4-c392ab490538" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/StringTable">
   <StringTable
     Creator="admin"
@@ -37,5 +37,45 @@
     ModifiedDateTime="2017-10-25T01:21:09.4110242Z">
     <Type>Text</Type>
     <Name>123</Name>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-25T01:27:20.9119217Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-25T01:27:20.9119217Z">
+    <Type>Label</Type>
+    <Name>ppp</Name>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-25T01:30:07.3140772Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-25T01:30:07.3140772Z">
+    <Type>Label</Type>
+    <Name>ewr</Name>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-25T01:32:54.5893158Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-25T01:32:54.5893158Z">
+    <Type>Text</Type>
+    <Name>werwe</Name>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-25T01:33:14.1003931Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-25T01:33:14.1003931Z">
+    <Type>Label</Type>
+    <Name>qyqwerwqr</Name>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-25T01:35:54.2178976Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-25T01:35:54.2178976Z">
+    <Type>Button</Type>
+    <Name>qwerwqr</Name>
   </StringTable>
 </Content>
