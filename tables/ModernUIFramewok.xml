@@ -3,8 +3,8 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/ModernUIFramewok StringTable.xsd"
   StringTable.Modifier="admin"
-  StringTable.ModifiedDateTime="2017-10-25T04:19:58.0008965Z"
-  StringTable.Count="37"
+  StringTable.ModifiedDateTime="2017-10-25T05:12:59.2819483Z"
+  StringTable.Count="39"
   StringTable.ID="b3780d7f-9ca8-45a5-b96c-389dcf25fcdd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/StringTable">
   <StringTable
     Creator="admin"
@@ -299,6 +299,16 @@
   </StringTable>
   <StringTable
     Creator="admin"
+    CreatedDateTime="2017-10-25T05:12:15.1774127Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-25T05:12:31.8001455Z">
+    <Type>Comment</Type>
+    <Name>TypeText</Name>
+    <Value>type '{0}'</Value>
+    <ko_KR>'{0}'을(를) 입력하세요</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
     CreatedDateTime="2017-10-25T04:02:48.1021914Z"
     Modifier="admin"
     ModifiedDateTime="2017-10-25T04:03:40.6166682Z">
@@ -376,5 +386,15 @@
     <Name>ConfirmToSave</Name>
     <Value>Do you want to save it?</Value>
     <ko_KR>저장 하시겠습니까?</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-25T05:12:59.2819483Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-25T05:12:59.2819483Z">
+    <Type>Message</Type>
+    <Name>Deleted</Name>
+    <Value>Deleted.</Value>
+    <ko_KR>삭제되었습니다.</ko_KR>
   </StringTable>
 </Content>
