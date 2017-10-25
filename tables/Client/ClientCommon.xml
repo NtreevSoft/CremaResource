@@ -3,7 +3,7 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/Client/ClientCommon ../Templates/StringTable.xsd"
   StringTable.Modifier="admin"
-  StringTable.ModifiedDateTime="2017-10-25T05:56:06.4820381Z"
+  StringTable.ModifiedDateTime="2017-10-25T06:16:52.3616489Z"
   StringTable.Count="59"
   StringTable.ID="b7be09cb-3b17-4ea0-8ef3-8f448ff6735d" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
@@ -270,10 +270,10 @@
     Creator="admin"
     CreatedDateTime="2017-10-25T05:55:28.2062057Z"
     Modifier="admin"
-    ModifiedDateTime="2017-10-25T05:55:59.1214861Z">
+    ModifiedDateTime="2017-10-25T06:16:52.3616489Z">
     <Type>Label</Type>
     <Name>Theme</Name>
-    <Value>_Theme</Value>
+    <Value>Th_eme</Value>
     <ko_KR>테마</ko_KR>
   </StringTable>
   <StringTable
