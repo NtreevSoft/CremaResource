@@ -3,8 +3,8 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientTables ../Templates/StringTable.xsd"
   StringTable.Modifier="admin"
-  StringTable.ModifiedDateTime="2017-10-25T08:06:41.5797154Z"
-  StringTable.Count="81"
+  StringTable.ModifiedDateTime="2017-10-25T08:12:41.4567475Z"
+  StringTable.Count="88"
   StringTable.ID="c2388943-4951-4ffa-81f9-33946994432d" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="admin"
@@ -815,5 +815,75 @@
     <Name>TagsUnused</Name>
     <Value>Unused</Value>
     <ko_KR>사용안함</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-25T08:10:28.7629144Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-25T08:10:28.7629144Z">
+    <Type>MenuItem</Type>
+    <Name>CancelContentEditing</Name>
+    <Value>Cancel Content Editing</Value>
+    <ko_KR>내용 편집 취소</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-25T08:10:28.7629144Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-25T08:10:28.7629144Z">
+    <Type>MenuItem</Type>
+    <Name>CancelTemplateEditing</Name>
+    <Value>Cancel Template Editing</Value>
+    <ko_KR>형태 편집 취소</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-25T08:11:13.6285932Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-25T08:11:13.6285932Z">
+    <Type>MenuItem</Type>
+    <Name>EndContentEditing</Name>
+    <Value>End Content Editing</Value>
+    <ko_KR>내용 편집 종료</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-25T08:11:13.6285932Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-25T08:11:13.6285932Z">
+    <Type>MenuItem</Type>
+    <Name>EndTemplateEditing</Name>
+    <Value>End Template Editing</Value>
+    <ko_KR>형태 편집 종료</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-25T08:11:44.6726478Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-25T08:11:44.6726478Z">
+    <Type>MenuItem</Type>
+    <Name>FindAll</Name>
+    <Value>Find All</Value>
+    <ko_KR>모두 찾기</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-25T08:12:23.7663164Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-25T08:12:23.7663164Z">
+    <Type>MenuItem</Type>
+    <Name>Table</Name>
+    <Value>Tabl_e</Value>
+    <ko_KR>테이블(_A)</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-25T08:12:41.4567475Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-25T08:12:41.4567475Z">
+    <Type>MenuItem</Type>
+    <Name>Tags</Name>
+    <Value>Tags</Value>
+    <ko_KR>태그</ko_KR>
   </StringTable>
 </Content>
