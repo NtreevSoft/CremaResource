@@ -9,7 +9,7 @@
     <xs:annotation>
       <xs:appinfo>
         <TableInfo Modifier="admin" />
-        <TableInfo ModifiedDateTime="2017-10-25T04:15:20.9404113Z" />
+        <TableInfo ModifiedDateTime="2017-10-25T08:25:15.4528718Z" />
         <TableInfo ID="dea31cbb-0fbd-40b7-9e09-bf11038a3aca" />
       </xs:appinfo>
     </xs:annotation>
@@ -44,6 +44,17 @@
             <ColumnInfo Modifier="admin" />
             <ColumnInfo ModifiedDateTime="2017-10-25T04:16:39.7009661Z" />
             <ColumnInfo ID="6355b338-71f4-4d66-938c-32de1a81c433" />
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:element>
+      <xs:element minOccurs="0" name="ProjectPath" type="xs:string">
+        <xs:annotation>
+          <xs:appinfo>
+            <ColumnInfo Creator="admin" />
+            <ColumnInfo CreatedDateTime="2017-10-25T08:25:15.4372718Z" />
+            <ColumnInfo Modifier="admin" />
+            <ColumnInfo ModifiedDateTime="2017-10-25T08:25:15.4372718Z" />
+            <ColumnInfo ID="fd83f5d6-3ae5-4889-8731-6228262ce181" />
           </xs:appinfo>
         </xs:annotation>
       </xs:element>
