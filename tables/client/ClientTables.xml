@@ -3,8 +3,8 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientTables ../Templates/StringTable.xsd"
   StringTable.Modifier="admin"
-  StringTable.ModifiedDateTime="2017-10-25T07:31:08.3383686Z"
-  StringTable.Count="74"
+  StringTable.ModifiedDateTime="2017-10-25T07:40:17.443733Z"
+  StringTable.Count="76"
   StringTable.ID="c2388943-4951-4ffa-81f9-33946994432d" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="admin"
@@ -555,6 +555,26 @@
     <Name>Saving</Name>
     <Value>Saving.</Value>
     <ko_KR>저장중입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-25T07:38:22.5651312Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-25T07:38:42.0963655Z">
+    <Type>Message</Type>
+    <Name>LoadingData</Name>
+    <Value>Loading Data</Value>
+    <ko_KR>데이터를 읽어들이는 중입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-25T07:40:14.2613274Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-25T07:40:17.443733Z">
+    <Type>Message</Type>
+    <Name>IsReadOnly</Name>
+    <Value>It's ReadOnly</Value>
+    <ko_KR>읽기 전용입니다.</ko_KR>
   </StringTable>
   <StringTable
     Creator="admin"
