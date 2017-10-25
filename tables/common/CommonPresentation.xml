@@ -3,14 +3,14 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/common/CommonPresentation ../Templates/StringTable.xsd"
   StringTable.Modifier="admin"
-  StringTable.ModifiedDateTime="2017-10-25T07:58:55.638097Z"
+  StringTable.ModifiedDateTime="2017-10-25T23:33:29.5153856Z"
   StringTable.Count="26"
   StringTable.ID="4aa1e076-f245-422b-a66f-de2adf625410" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="admin"
     CreatedDateTime="2017-10-25T07:58:55.638097Z"
     Modifier="admin"
-    ModifiedDateTime="2017-10-25T07:58:55.638097Z">
+    ModifiedDateTime="2017-10-25T23:33:29.5153856Z">
     <Type>Command</Type>
     <Name>AddItemToLeftSide</Name>
     <Value>Add item to left side</Value>
