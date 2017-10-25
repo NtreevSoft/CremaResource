@@ -12,9 +12,8 @@
     Modifier="admin"
     ModifiedDateTime="2017-10-25T08:32:17.6208133Z">
     <TableName>ModernUIFramewok</TableName>
-    <Path>sub-modules/Ntreev.ModernUI.Framework/Ntreev.ModernUI.Framework/Properties</Path>
-    <Name />
     <ProjectPath>sub-modules/Ntreev.ModernUI.Framework/Ntreev.ModernUI.Framework/Properties</ProjectPath>
+    <Name />
   </ExportInfo>
   <ExportInfo
     Creator="admin"
@@ -22,9 +21,8 @@
     Modifier="admin"
     ModifiedDateTime="2017-10-25T08:32:17.6208133Z">
     <TableName>ClientSmartSet</TableName>
-    <Path>client/Ntreev.Crema.Client.SmartSet/Properties</Path>
-    <Name />
     <ProjectPath>client/Ntreev.Crema.Client.SmartSet/Properties</ProjectPath>
+    <Name />
   </ExportInfo>
   <ExportInfo
     Creator="admin"
@@ -32,9 +30,8 @@
     Modifier="admin"
     ModifiedDateTime="2017-10-25T08:32:17.6208133Z">
     <TableName>ClientCommon</TableName>
-    <Path>client/Ntreev.Crema.Client.Common/Properties</Path>
-    <Name />
     <ProjectPath>client/Ntreev.Crema.Client.Common/Properties</ProjectPath>
+    <Name />
   </ExportInfo>
   <ExportInfo
     Creator="admin"
@@ -42,9 +39,8 @@
     Modifier="admin"
     ModifiedDateTime="2017-10-25T08:32:17.6208133Z">
     <TableName>ClientTables</TableName>
-    <Path>client/Ntreev.Crema.Client.Tables/Properties</Path>
-    <Name />
     <ProjectPath>client/Ntreev.Crema.Client.Tables/Properties</ProjectPath>
+    <Name />
   </ExportInfo>
   <ExportInfo
     Creator="admin"
@@ -52,8 +48,7 @@
     Modifier="admin"
     ModifiedDateTime="2017-10-25T08:32:17.6208133Z">
     <TableName>CommonPresentation</TableName>
-    <Path>common/Ntreev.Crema.Presentation/Properties</Path>
-    <Name />
     <ProjectPath>common/Ntreev.Crema.Presentation/Properties</ProjectPath>
+    <Name />
   </ExportInfo>
 </Content>
