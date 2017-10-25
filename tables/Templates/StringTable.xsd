@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<xs:schema xmlns:t="http://schemas.ntreev.com/crema/tables/StringTable" xmlns="http://schemas.ntreev.com/crema/tables/StringTable" elementFormDefault="qualified" targetNamespace="http://schemas.ntreev.com/crema/tables/StringTable" version="3.5" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-  <xs:import schemaLocation="../types/StringType.xsd" namespace="http://schemas.ntreev.com/crema/types/StringType" />
+<xs:schema xmlns:t="http://schemas.ntreev.com/crema/tables/Templates/StringTable" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable" elementFormDefault="qualified" targetNamespace="http://schemas.ntreev.com/crema/tables/Templates/StringTable" version="3.5" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="../../types/StringType.xsd" namespace="http://schemas.ntreev.com/crema/types/StringType" />
   <xs:simpleType name="guid">
     <xs:restriction base="xs:string">
       <xs:pattern value="([0-9a-fA-F]){8}-([0-9a-fA-F]){4}-([0-9a-fA-F]){4}-([0-9a-fA-F]){4}-([0-9a-fA-F]){12}" />
@@ -12,8 +12,9 @@
         <TableInfo Creator="admin" />
         <TableInfo CreatedDateTime="2017-10-23T07:16:01.2646706Z" />
         <TableInfo Modifier="admin" />
-        <TableInfo ModifiedDateTime="2017-10-24T04:40:56.5760699Z" />
+        <TableInfo ModifiedDateTime="2017-10-25T05:30:21.3826061Z" />
         <TableInfo ID="c0cab95d-e8db-454e-bfdd-db225b55d79e" />
+        <TableInfo CategoryPath="/Templates/" />
       </xs:appinfo>
     </xs:annotation>
     <xs:sequence>
