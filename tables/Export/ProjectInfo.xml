@@ -12,49 +12,39 @@
     CreatedDateTime="2017-10-25T04:14:12.2163323Z"
     Modifier="admin"
     ModifiedDateTime="2017-10-25T08:34:43.9958704Z"
-    RelationID="68a3714c96c4b0550bd811702ea7b880">
-    <TableName>ModernUIFramewok</TableName>
+    RelationID="1be12bf899f70ed89c8fca12d709c2b7">
     <ProjectPath>sub-modules/Ntreev.ModernUI.Framework/Ntreev.ModernUI.Framework/Ntreev.ModernUI.Framework.csproj</ProjectPath>
-    <Name />
   </ProjectInfo>
   <ProjectInfo
     Creator="admin"
     CreatedDateTime="2017-10-25T04:54:50.2168264Z"
     Modifier="admin"
     ModifiedDateTime="2017-10-25T08:34:43.9958704Z"
-    RelationID="1d3eca7408d2bc840e31b1548e6888cd">
-    <TableName>ClientSmartSet</TableName>
+    RelationID="0d9be3dd1b93b1f4e9d70fb489257e9a">
     <ProjectPath>client/Ntreev.Crema.Client.SmartSet/Properties</ProjectPath>
-    <Name />
   </ProjectInfo>
   <ProjectInfo
     Creator="admin"
     CreatedDateTime="2017-10-25T05:56:39.2096651Z"
     Modifier="admin"
     ModifiedDateTime="2017-10-25T08:34:43.9958704Z"
-    RelationID="0ebb16c2fb4d208fd547e59fd15fc1ad">
-    <TableName>ClientCommon</TableName>
+    RelationID="2b63edd87b6adbc62a67f72ba6729c45">
     <ProjectPath>client/Ntreev.Crema.Client.Common/Properties</ProjectPath>
-    <Name />
   </ProjectInfo>
   <ProjectInfo
     Creator="admin"
     CreatedDateTime="2017-10-25T06:49:12.8559905Z"
     Modifier="admin"
     ModifiedDateTime="2017-10-25T08:34:43.9958704Z"
-    RelationID="673852c6622883d16f6efa57f4569574">
-    <TableName>ClientTables</TableName>
+    RelationID="4000645526cc7eab95d6c5d1798d8d4a">
     <ProjectPath>client/Ntreev.Crema.Client.Tables/Properties</ProjectPath>
-    <Name />
   </ProjectInfo>
   <ProjectInfo
     Creator="admin"
     CreatedDateTime="2017-10-25T07:59:28.3201544Z"
     Modifier="admin"
     ModifiedDateTime="2017-10-25T08:34:43.9958704Z"
-    RelationID="7da292e79bc33619b0598b2013b4e92d">
-    <TableName>CommonPresentation</TableName>
+    RelationID="890844504c4f92abbf20a513d8d6c79b">
     <ProjectPath>common/Ntreev.Crema.Presentation/Properties</ProjectPath>
-    <Name />
   </ProjectInfo>
 </Content>
