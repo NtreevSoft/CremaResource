@@ -62,18 +62,18 @@
             <ColumnInfo Creator="admin" />
             <ColumnInfo CreatedDateTime="2017-10-25T04:10:42.8835333Z" />
             <ColumnInfo Modifier="admin" />
-            <ColumnInfo ModifiedDateTime="2017-10-25T04:10:56.0095806Z" />
+            <ColumnInfo ModifiedDateTime="2017-10-25T08:35:49.235185Z" />
             <ColumnInfo ID="4819b80e-b28d-4a6e-84a3-03dce3fcf599" />
           </xs:appinfo>
         </xs:annotation>
       </xs:element>
-      <xs:element minOccurs="0" name="ProjectPath" type="xs:string">
+      <xs:element name="ProjectPath" type="xs:string">
         <xs:annotation>
           <xs:appinfo>
             <ColumnInfo Creator="admin" />
             <ColumnInfo CreatedDateTime="2017-10-25T08:25:15.4372718Z" />
             <ColumnInfo Modifier="admin" />
-            <ColumnInfo ModifiedDateTime="2017-10-25T08:32:27.7296311Z" />
+            <ColumnInfo ModifiedDateTime="2017-10-25T08:35:47.4723819Z" />
             <ColumnInfo ID="fd83f5d6-3ae5-4889-8731-6228262ce181" />
           </xs:appinfo>
         </xs:annotation>
@@ -130,7 +130,7 @@
     </xs:complexType>
     <xs:key name="ProjectInfo.Key">
       <xs:selector xpath="t:ProjectInfo" />
-      <xs:field xpath="t:TableName" />
+      <xs:field xpath="t:ProjectPath" />
     </xs:key>
     <xs:key name="ProjectInfo.ExportInfo.Key">
       <xs:selector xpath="t:ProjectInfo/t:ExportInfo" />
