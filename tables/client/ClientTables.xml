@@ -3,8 +3,8 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientTables ../Templates/StringTable.xsd"
   StringTable.Modifier="admin"
-  StringTable.ModifiedDateTime="2017-10-25T07:40:17.443733Z"
-  StringTable.Count="76"
+  StringTable.ModifiedDateTime="2017-10-25T08:06:41.5797154Z"
+  StringTable.Count="81"
   StringTable.ID="c2388943-4951-4ffa-81f9-33946994432d" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="admin"
@@ -280,11 +280,21 @@
     Creator="admin"
     CreatedDateTime="2017-10-25T06:48:50.9762669Z"
     Modifier="admin"
-    ModifiedDateTime="2017-10-25T06:48:50.9762669Z">
+    ModifiedDateTime="2017-10-25T08:04:34.954293Z">
     <Type>Label</Type>
     <Name>UseTemplate</Name>
     <Value>Use Template</Value>
     <ko_KR>부모 템플릿 사용</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-25T08:04:16.15626Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-25T08:04:32.9730895Z">
+    <Type>MenuItem</Type>
+    <Name>QuickFind</Name>
+    <Value>Quick _Find</Value>
+    <ko_KR>빠른 찾기(_F)</ko_KR>
   </StringTable>
   <StringTable
     Creator="admin"
@@ -765,5 +775,45 @@
     <Name>EnterWordToFind</Name>
     <Value>Enter word to find</Value>
     <ko_KR>찾을 단어를 입력하세요</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-25T08:06:41.5797154Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-25T08:06:41.5797154Z">
+    <Type>MenuItem</Type>
+    <Name>TagsAll</Name>
+    <Value>All</Value>
+    <ko_KR>모두</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-25T08:06:41.5797154Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-25T08:06:41.5797154Z">
+    <Type>MenuItem</Type>
+    <Name>TagsClient</Name>
+    <Value>Client</Value>
+    <ko_KR>클라이언트</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-25T08:06:41.5797154Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-25T08:06:41.5797154Z">
+    <Type>MenuItem</Type>
+    <Name>TagsServer</Name>
+    <Value>Server</Value>
+    <ko_KR>서버</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-25T08:06:41.5797154Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-25T08:06:41.5797154Z">
+    <Type>MenuItem</Type>
+    <Name>TagsUnused</Name>
+    <Value>Unused</Value>
+    <ko_KR>사용안함</ko_KR>
   </StringTable>
 </Content>
