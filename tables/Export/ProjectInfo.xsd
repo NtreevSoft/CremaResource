@@ -50,7 +50,7 @@
     <xs:annotation>
       <xs:appinfo>
         <TableInfo Modifier="admin" />
-        <TableInfo ModifiedDateTime="2017-10-25T08:35:59.5312031Z" />
+        <TableInfo ModifiedDateTime="2017-10-25T08:38:54.29831Z" />
         <TableInfo ID="dea31cbb-0fbd-40b7-9e09-bf11038a3aca" />
         <TableInfo CategoryPath="/Export/" />
       </xs:appinfo>
@@ -64,6 +64,17 @@
             <ColumnInfo Modifier="admin" />
             <ColumnInfo ModifiedDateTime="2017-10-25T08:35:47.4723819Z" />
             <ColumnInfo ID="fd83f5d6-3ae5-4889-8731-6228262ce181" />
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:element>
+      <xs:element minOccurs="0" name="Name" type="xs:string">
+        <xs:annotation>
+          <xs:appinfo>
+            <ColumnInfo Creator="admin" />
+            <ColumnInfo CreatedDateTime="2017-10-25T08:38:54.29831Z" />
+            <ColumnInfo Modifier="admin" />
+            <ColumnInfo ModifiedDateTime="2017-10-25T08:38:54.29831Z" />
+            <ColumnInfo ID="e8680af2-37c8-4719-bc81-6b2296952bc2" />
           </xs:appinfo>
         </xs:annotation>
       </xs:element>
