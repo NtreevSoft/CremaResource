@@ -3,8 +3,8 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientTables ../Templates/StringTable.xsd"
   StringTable.Modifier="admin"
-  StringTable.ModifiedDateTime="2017-10-25T08:12:41.4567475Z"
-  StringTable.Count="88"
+  StringTable.ModifiedDateTime="2017-10-25T08:19:49.4434992Z"
+  StringTable.Count="90"
   StringTable.ID="c2388943-4951-4ffa-81f9-33946994432d" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="admin"
@@ -885,5 +885,25 @@
     <Name>Tags</Name>
     <Value>Tags</Value>
     <ko_KR>태그</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-25T08:16:53.3503899Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-25T08:19:46.448294Z">
+    <Type>Message</Type>
+    <Name>ConfirmToCancelContentEditing</Name>
+    <Value>Cancel editing the contents. Items that are not saved will disappear. Would you like to go on?</Value>
+    <ko_KR>내용 편집을 취소합니다. 저장되지 않은 항목은 사라집니다. 계속하시겠습니까?</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-25T08:18:35.85817Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-25T08:19:49.4434992Z">
+    <Type>Message</Type>
+    <Name>ConfirmToEndContentEditing</Name>
+    <Value>Finishes the contents of the contents. Would you like to go on?</Value>
+    <ko_KR>내용 편집을 종료합니다. 계속하시겠습니까?</ko_KR>
   </StringTable>
 </Content>
