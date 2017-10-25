@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<xs:schema xmlns:t="http://schemas.ntreev.com/crema/tables/ProjectInfo" xmlns="http://schemas.ntreev.com/crema/tables/ProjectInfo" elementFormDefault="qualified" targetNamespace="http://schemas.ntreev.com/crema/tables/ProjectInfo" version="3.5" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:schema xmlns:t="http://schemas.ntreev.com/crema/tables/Export/ProjectInfo" xmlns="http://schemas.ntreev.com/crema/tables/Export/ProjectInfo" elementFormDefault="qualified" targetNamespace="http://schemas.ntreev.com/crema/tables/Export/ProjectInfo" version="3.5" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:simpleType name="guid">
     <xs:restriction base="xs:string">
       <xs:pattern value="([0-9a-fA-F]){8}-([0-9a-fA-F]){4}-([0-9a-fA-F]){4}-([0-9a-fA-F]){4}-([0-9a-fA-F]){12}" />
@@ -9,8 +9,9 @@
     <xs:annotation>
       <xs:appinfo>
         <TableInfo Modifier="admin" />
-        <TableInfo ModifiedDateTime="2017-10-25T08:34:26.7578401Z" />
+        <TableInfo ModifiedDateTime="2017-10-25T08:34:39.8150631Z" />
         <TableInfo ID="dea31cbb-0fbd-40b7-9e09-bf11038a3aca" />
+        <TableInfo CategoryPath="/Export/" />
       </xs:appinfo>
     </xs:annotation>
     <xs:sequence>

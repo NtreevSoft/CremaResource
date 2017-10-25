@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Content
   Version="3.5"
-  xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/ProjectInfo ProjectInfo.xsd"
+  xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/Export/ProjectInfo ProjectInfo.xsd"
   ProjectInfo.Modifier="admin"
   ProjectInfo.ModifiedDateTime="2017-10-25T08:33:29.9425403Z"
   ProjectInfo.Count="5"
-  ProjectInfo.ID="dea31cbb-0fbd-40b7-9e09-bf11038a3aca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/ProjectInfo">
+  ProjectInfo.ID="dea31cbb-0fbd-40b7-9e09-bf11038a3aca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Export/ProjectInfo">
   <ProjectInfo
     Creator="admin"
     CreatedDateTime="2017-10-25T04:14:12.2163323Z"
