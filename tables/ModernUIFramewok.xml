@@ -5,7 +5,7 @@
   StringTable.Modifier="admin"
   StringTable.ModifiedDateTime="2017-10-25T05:12:59.2819483Z"
   StringTable.Count="39"
-  StringTable.ID="b3780d7f-9ca8-45a5-b96c-389dcf25fcdd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/StringTable">
+  StringTable.ID="b3780d7f-9ca8-45a5-b96c-389dcf25fcdd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="admin"
     CreatedDateTime="2017-10-23T08:47:38.4598194Z"
