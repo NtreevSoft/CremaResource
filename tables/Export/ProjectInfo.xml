@@ -3,7 +3,7 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/Export/ProjectInfo ProjectInfo.xsd"
   ProjectInfo.Modifier="admin"
-  ProjectInfo.ModifiedDateTime="2017-10-25T08:42:05.5390459Z"
+  ProjectInfo.ModifiedDateTime="2017-10-26T01:38:09.3229232Z"
   ProjectInfo.Count="5"
   ProjectInfo.ID="dea31cbb-0fbd-40b7-9e09-bf11038a3aca"
   ProjectInfo.ExportInfo.Modifier="admin"
@@ -32,40 +32,40 @@
     Creator="admin"
     CreatedDateTime="2017-10-25T04:54:50.2168264Z"
     Modifier="admin"
-    ModifiedDateTime="2017-10-25T08:41:59.2678349Z"
+    ModifiedDateTime="2017-10-26T01:37:47.6232851Z"
     RelationID="415f7e9d783caab07d757277ad1004f5">
     <ProjectType>Client</ProjectType>
     <Name>Ntreev.Crema.Client.SmartSet</Name>
-    <ProjectPath>client/Ntreev.Crema.Client.SmartSet/Properties</ProjectPath>
+    <ProjectPath>client/Ntreev.Crema.Client.SmartSet/Ntreev.Crema.Client.SmartSet.csproj</ProjectPath>
   </ProjectInfo>
   <ProjectInfo
     Creator="admin"
     CreatedDateTime="2017-10-25T05:56:39.2096651Z"
     Modifier="admin"
-    ModifiedDateTime="2017-10-25T08:42:01.030638Z"
+    ModifiedDateTime="2017-10-26T01:37:55.6884992Z"
     RelationID="12335022f6c40f80a1d60fed1216fee2">
     <ProjectType>Client</ProjectType>
     <Name>Ntreev.Crema.Client.Common</Name>
-    <ProjectPath>client/Ntreev.Crema.Client.Common/Properties</ProjectPath>
+    <ProjectPath>client/Ntreev.Crema.Client.Common/Ntreev.Crema.Client.Common.csproj</ProjectPath>
   </ProjectInfo>
   <ProjectInfo
     Creator="admin"
     CreatedDateTime="2017-10-25T06:49:12.8559905Z"
     Modifier="admin"
-    ModifiedDateTime="2017-10-25T08:42:02.7778411Z"
+    ModifiedDateTime="2017-10-26T01:38:03.0673122Z"
     RelationID="e9bf26bd43c00da6d59b2991e893384e">
     <ProjectType>Client</ProjectType>
     <Name>Ntreev.Crema.Client.Tables</Name>
-    <ProjectPath>client/Ntreev.Crema.Client.Tables/Properties</ProjectPath>
+    <ProjectPath>client/Ntreev.Crema.Client.Tables/Ntreev.Crema.Client.Tables.csproj</ProjectPath>
   </ProjectInfo>
   <ProjectInfo
     Creator="admin"
     CreatedDateTime="2017-10-25T07:59:28.3201544Z"
     Modifier="admin"
-    ModifiedDateTime="2017-10-25T08:42:05.5390459Z"
+    ModifiedDateTime="2017-10-26T01:38:09.3229232Z"
     RelationID="43739410bb3bdaa77399dc0ddf1660a2">
     <ProjectType>Common</ProjectType>
     <Name>Ntreev.Crema.Presentation</Name>
-    <ProjectPath>common/Ntreev.Crema.Presentation/Properties</ProjectPath>
+    <ProjectPath>common/Ntreev.Crema.Presentation/Ntreev.Crema.Presentation.csproj</ProjectPath>
   </ProjectInfo>
 </Content>
