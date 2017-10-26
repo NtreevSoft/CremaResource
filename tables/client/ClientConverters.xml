@@ -3,7 +3,7 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientConverters ../Templates/StringTable.xsd"
   StringTable.Modifier="admin"
-  StringTable.ModifiedDateTime="2017-10-26T07:09:42.7274641Z"
+  StringTable.ModifiedDateTime="2017-10-26T07:28:02.1861952Z"
   StringTable.Count="22"
   StringTable.ID="c2ac3ca4-710a-467a-a224-d2c777e779cb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
@@ -90,9 +90,9 @@
     Creator="admin"
     CreatedDateTime="2017-10-26T06:58:28.2446794Z"
     Modifier="admin"
-    ModifiedDateTime="2017-10-26T07:08:43.47856Z">
+    ModifiedDateTime="2017-10-26T07:28:02.1861952Z">
     <Type>Message</Type>
-    <Name>Imporing</Name>
+    <Name>Importing</Name>
     <Value>Importing.</Value>
     <ko_KR>가져오는 중입니다.</ko_KR>
   </StringTable>
