@@ -17,25 +17,25 @@
       </xs:appinfo>
     </xs:annotation>
     <xs:sequence>
+      <xs:element name="FileName" type="xs:string">
+        <xs:annotation>
+          <xs:appinfo>
+            <ColumnInfo Creator="admin" />
+            <ColumnInfo CreatedDateTime="2017-10-25T08:35:20.4375344Z" />
+            <ColumnInfo Modifier="admin" />
+            <ColumnInfo ModifiedDateTime="2017-10-26T04:56:53.4222667Z" />
+            <ColumnInfo ID="5b908227-2057-4bdd-9801-dd49b5aedcd2" />
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:element>
       <xs:element name="TableName" type="xs:string">
         <xs:annotation>
           <xs:appinfo>
             <ColumnInfo Creator="admin" />
             <ColumnInfo CreatedDateTime="2017-10-25T08:35:02.2167024Z" />
             <ColumnInfo Modifier="admin" />
-            <ColumnInfo ModifiedDateTime="2017-10-25T08:35:15.1647252Z" />
+            <ColumnInfo ModifiedDateTime="2017-10-26T04:56:54.8886693Z" />
             <ColumnInfo ID="ebc4c3d9-660b-4cb6-a2b7-7949b8f2ef5e" />
-          </xs:appinfo>
-        </xs:annotation>
-      </xs:element>
-      <xs:element minOccurs="0" name="FileName" type="xs:string">
-        <xs:annotation>
-          <xs:appinfo>
-            <ColumnInfo Creator="admin" />
-            <ColumnInfo CreatedDateTime="2017-10-25T08:35:20.4375344Z" />
-            <ColumnInfo Modifier="admin" />
-            <ColumnInfo ModifiedDateTime="2017-10-25T08:35:20.4375344Z" />
-            <ColumnInfo ID="5b908227-2057-4bdd-9801-dd49b5aedcd2" />
           </xs:appinfo>
         </xs:annotation>
       </xs:element>
@@ -136,7 +136,7 @@
     </xs:key>
     <xs:key name="ProjectInfo.ExportInfo.Key">
       <xs:selector xpath="t:ProjectInfo/t:ExportInfo" />
-      <xs:field xpath="t:TableName" />
+      <xs:field xpath="t:FileName" />
     </xs:key>
   </xs:element>
 </xs:schema>

@@ -24,8 +24,8 @@
       CreatedDateTime="2017-10-25T09:14:10.0832262Z"
       Modifier="admin"
       ModifiedDateTime="2017-10-25T09:14:10.0832262Z">
-      <TableName>ModernUIFramework</TableName>
       <FileName>Resources.resx</FileName>
+      <TableName>ModernUIFramework</TableName>
     </ExportInfo>
   </ProjectInfo>
   <ProjectInfo
