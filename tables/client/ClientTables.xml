@@ -3,8 +3,8 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientTables ../Templates/StringTable.xsd"
   StringTable.Modifier="admin"
-  StringTable.ModifiedDateTime="2017-10-25T08:19:49.4434992Z"
-  StringTable.Count="90"
+  StringTable.ModifiedDateTime="2017-10-26T09:04:42.4011827Z"
+  StringTable.Count="94"
   StringTable.ID="c2388943-4951-4ffa-81f9-33946994432d" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="admin"
@@ -905,5 +905,45 @@
     <Name>ConfirmToEndContentEditing</Name>
     <Value>Finishes the contents of the contents. Would you like to go on?</Value>
     <ko_KR>내용 편집을 종료합니다. 계속하시겠습니까?</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-26T09:03:37.3022684Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-26T09:03:37.3022684Z">
+    <Type>Title</Type>
+    <Name>AccessInfo</Name>
+    <Value>Access Information</Value>
+    <ko_KR>보안 정보</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-26T09:03:37.3022684Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-26T09:03:37.3022684Z">
+    <Type>Title</Type>
+    <Name>LockInfo</Name>
+    <Value>Lock Info</Value>
+    <ko_KR>잠금 정보</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-26T09:03:50.8430922Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-26T09:03:58.3779054Z">
+    <Type>Title</Type>
+    <Name>BaseTable</Name>
+    <Value>Base Table</Value>
+    <ko_KR>기본 테이블</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-26T09:04:29.6715604Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-26T09:04:42.4011827Z">
+    <Type>Title</Type>
+    <Name>DerivedTable</Name>
+    <Value>Derived Tables</Value>
+    <ko_KR>파생된 테이블들</ko_KR>
   </StringTable>
 </Content>
