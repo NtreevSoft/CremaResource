@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<xs:schema xmlns:t="http://schemas.ntreev.com/crema/tables/Export/ProjectInfo" xmlns="http://schemas.ntreev.com/crema/tables/Export/ProjectInfo" elementFormDefault="qualified" targetNamespace="http://schemas.ntreev.com/crema/tables/Export/ProjectInfo" version="3.5" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:schema xmlns:t="http://schemas.ntreev.com/crema/tables/Templates/ProjectInfo" xmlns="http://schemas.ntreev.com/crema/tables/Templates/ProjectInfo" elementFormDefault="qualified" targetNamespace="http://schemas.ntreev.com/crema/tables/Templates/ProjectInfo" version="3.5" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:import schemaLocation="../../types/ProjectType.xsd" namespace="http://schemas.ntreev.com/crema/types/ProjectType" />
   <xs:simpleType name="guid">
     <xs:restriction base="xs:string">
@@ -10,10 +10,9 @@
     <xs:annotation>
       <xs:appinfo>
         <TableInfo CreatedDateTime="2017-10-25T08:34:43.9802704Z" />
-        <TableInfo Modifier="admin" />
-        <TableInfo ModifiedDateTime="2017-10-26T06:21:11.8559514Z" />
+        <TableInfo ModifiedDateTime="2017-10-26T08:06:01.8025991Z" />
         <TableInfo ID="a9ca9738-2c3f-41a3-b380-98987977e42e" />
-        <TableInfo CategoryPath="/Export/" />
+        <TableInfo CategoryPath="/Templates/" />
       </xs:appinfo>
     </xs:annotation>
     <xs:sequence>
@@ -63,9 +62,9 @@
     <xs:annotation>
       <xs:appinfo>
         <TableInfo Modifier="admin" />
-        <TableInfo ModifiedDateTime="2017-10-25T08:40:56.9613255Z" />
+        <TableInfo ModifiedDateTime="2017-10-26T08:06:01.8181991Z" />
         <TableInfo ID="dea31cbb-0fbd-40b7-9e09-bf11038a3aca" />
-        <TableInfo CategoryPath="/Export/" />
+        <TableInfo CategoryPath="/Templates/" />
       </xs:appinfo>
     </xs:annotation>
     <xs:sequence>

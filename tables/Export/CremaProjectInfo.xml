@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Content
   Version="3.5"
-  xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/Export/CremaProjectInfo ProjectInfo.xsd"
+  xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/Export/CremaProjectInfo ../Templates/ProjectInfo.xsd"
   ProjectInfo.Modifier="admin"
   ProjectInfo.ModifiedDateTime="2017-10-26T07:19:22.1436818Z"
   ProjectInfo.Count="6"
@@ -9,7 +9,7 @@
   ProjectInfo.ExportInfo.Modifier="admin"
   ProjectInfo.ExportInfo.ModifiedDateTime="2017-10-26T07:19:41.612516Z"
   ProjectInfo.ExportInfo.Count="4"
-  ProjectInfo.ExportInfo.ID="2cd3f6ff-1a21-47d4-907b-f1339bb7ffa8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Export/ProjectInfo">
+  ProjectInfo.ExportInfo.ID="2cd3f6ff-1a21-47d4-907b-f1339bb7ffa8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/ProjectInfo">
   <ProjectInfo
     Creator="admin"
     CreatedDateTime="2017-10-25T04:54:50.2168264Z"
