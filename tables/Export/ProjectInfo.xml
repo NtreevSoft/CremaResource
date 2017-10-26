@@ -7,8 +7,8 @@
   ProjectInfo.Count="5"
   ProjectInfo.ID="dea31cbb-0fbd-40b7-9e09-bf11038a3aca"
   ProjectInfo.ExportInfo.Modifier="admin"
-  ProjectInfo.ExportInfo.ModifiedDateTime="2017-10-26T06:21:28.0643799Z"
-  ProjectInfo.ExportInfo.Count="1"
+  ProjectInfo.ExportInfo.ModifiedDateTime="2017-10-26T06:22:23.2728768Z"
+  ProjectInfo.ExportInfo.Count="2"
   ProjectInfo.ExportInfo.ID="a9ca9738-2c3f-41a3-b380-98987977e42e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Export/ProjectInfo">
   <ProjectInfo
     Creator="admin"
@@ -38,6 +38,15 @@
     <ProjectType>Client</ProjectType>
     <Name>Ntreev.Crema.Client.SmartSet</Name>
     <ProjectPath>client/Ntreev.Crema.Client.SmartSet/Ntreev.Crema.Client.SmartSet.csproj</ProjectPath>
+    <ExportInfo
+      Creator="admin"
+      CreatedDateTime="2017-10-26T06:22:23.2728768Z"
+      Modifier="admin"
+      ModifiedDateTime="2017-10-26T06:22:23.2728768Z">
+      <ID>1</ID>
+      <FileName>Properties/Resources.resx</FileName>
+      <TableName>ClientSmartSet</TableName>
+    </ExportInfo>
   </ProjectInfo>
   <ProjectInfo
     Creator="admin"
