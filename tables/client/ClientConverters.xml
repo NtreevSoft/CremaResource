@@ -3,8 +3,8 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientConverters ../Templates/StringTable.xsd"
   StringTable.Modifier="admin"
-  StringTable.ModifiedDateTime="2017-10-26T07:28:02.1861952Z"
-  StringTable.Count="22"
+  StringTable.ModifiedDateTime="2017-10-26T07:49:57.7989059Z"
+  StringTable.Count="27"
   StringTable.ID="c2ac3ca4-710a-467a-a224-d2c777e779cb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="admin"
@@ -130,11 +130,11 @@
     Creator="admin"
     CreatedDateTime="2017-10-26T06:59:47.711219Z"
     Modifier="admin"
-    ModifiedDateTime="2017-10-26T07:04:29.5101139Z">
+    ModifiedDateTime="2017-10-26T07:30:17.9220336Z">
     <Type>Label</Type>
     <Name>ExportingType</Name>
-    <Value>Type</Value>
-    <ko_KR>타입</ko_KR>
+    <Value>_Type</Value>
+    <ko_KR>타입(T)</ko_KR>
   </StringTable>
   <StringTable
     Creator="admin"
@@ -160,11 +160,11 @@
     Creator="admin"
     CreatedDateTime="2017-10-26T07:01:19.9853811Z"
     Modifier="admin"
-    ModifiedDateTime="2017-10-26T07:04:27.6381107Z">
+    ModifiedDateTime="2017-10-26T07:30:19.6380366Z">
     <Type>Label</Type>
     <Name>ImportingType</Name>
-    <Value>Type</Value>
-    <ko_KR>타입</ko_KR>
+    <Value>_Type</Value>
+    <ko_KR>타입(T)</ko_KR>
   </StringTable>
   <StringTable
     Creator="admin"
@@ -225,5 +225,55 @@
     <Name>Import</Name>
     <Value>_Import</Value>
     <ko_KR>가져오기(_I)</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-26T07:33:21.9867569Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-26T07:33:35.714781Z">
+    <Type>Label</Type>
+    <Name>Path</Name>
+    <Value>_Path</Value>
+    <ko_KR>경로(_P)</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-26T07:34:24.3556664Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-26T07:35:16.9589588Z">
+    <Type>Label</Type>
+    <Name>ExportByFolder</Name>
+    <Value>Export by folder</Value>
+    <ko_KR>폴더별로 나눠서 출력하기</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-26T07:35:39.9377992Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-26T07:36:49.9507222Z">
+    <Type>Label</Type>
+    <Name>OmitAttribute</Name>
+    <Value>Omit Tags and Enabled</Value>
+    <ko_KR>태그 및 사용 여부 제외</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-26T07:35:52.0122204Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-26T07:37:01.6195426Z">
+    <Type>Label</Type>
+    <Name>OmitSignatureDate</Name>
+    <Value>Omit Creation and Modification Info</Value>
+    <ko_KR>생성 및 변경 정보 제외</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-26T07:49:43.5404809Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-26T07:49:57.7989059Z">
+    <Type>Label</Type>
+    <Name>SelectAll</Name>
+    <Value>Select _All</Value>
+    <ko_KR>전체선택(_A)</ko_KR>
   </StringTable>
 </Content>
