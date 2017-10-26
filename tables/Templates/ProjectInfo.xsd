@@ -28,13 +28,13 @@
           </xs:appinfo>
         </xs:annotation>
       </xs:element>
-      <xs:element name="FileName" type="xs:string">
+      <xs:element default="Properties/Resources.resx" name="FileName" type="xs:string">
         <xs:annotation>
           <xs:appinfo>
             <ColumnInfo Creator="admin" />
             <ColumnInfo CreatedDateTime="2017-10-25T08:35:20.4375344Z" />
             <ColumnInfo Modifier="admin" />
-            <ColumnInfo ModifiedDateTime="2017-10-26T06:21:42.6036054Z" />
+            <ColumnInfo ModifiedDateTime="2017-10-26T08:42:54.0424847Z" />
             <ColumnInfo ID="5b908227-2057-4bdd-9801-dd49b5aedcd2" />
           </xs:appinfo>
         </xs:annotation>

@@ -25,7 +25,7 @@
       Modifier="admin"
       ModifiedDateTime="2017-10-26T06:22:23.2728768Z">
       <ID>1</ID>
-      <FileName>Properties/Resources.resx</FileName>
+      <FileName />
       <TableName>ClientSmartSet</TableName>
     </ExportInfo>
   </ProjectInfo>
@@ -44,7 +44,7 @@
       Modifier="admin"
       ModifiedDateTime="2017-10-26T06:24:39.0243153Z">
       <ID>2</ID>
-      <FileName>Properties/Resources.resx</FileName>
+      <FileName />
       <TableName>ClientCommon</TableName>
     </ExportInfo>
   </ProjectInfo>
@@ -83,7 +83,7 @@
       Modifier="admin"
       ModifiedDateTime="2017-10-26T06:21:28.0643799Z">
       <ID>0</ID>
-      <FileName>Properties/Resources.resx</FileName>
+      <FileName />
       <TableName>ModernUIFramework</TableName>
     </ExportInfo>
   </ProjectInfo>
@@ -102,7 +102,7 @@
       Modifier="admin"
       ModifiedDateTime="2017-10-26T07:19:41.612516Z">
       <ID>3</ID>
-      <FileName>Properties/Resources.resx</FileName>
+      <FileName />
       <TableName>ClientConverters</TableName>
     </ExportInfo>
   </ProjectInfo>
