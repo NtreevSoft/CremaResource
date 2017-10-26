@@ -17,13 +17,25 @@
       </xs:appinfo>
     </xs:annotation>
     <xs:sequence>
+      <xs:element name="ID" type="xs:int">
+        <xs:annotation>
+          <xs:appinfo>
+            <ColumnInfo Creator="admin" />
+            <ColumnInfo CreatedDateTime="2017-10-26T06:21:11.8559514Z" />
+            <ColumnInfo Modifier="admin" />
+            <ColumnInfo ModifiedDateTime="2017-10-26T06:21:41.9328042Z" />
+            <ColumnInfo AutoIncrement="true" />
+            <ColumnInfo ID="2bc9175c-512b-4f9d-8545-f73e21760840" />
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:element>
       <xs:element name="FileName" type="xs:string">
         <xs:annotation>
           <xs:appinfo>
             <ColumnInfo Creator="admin" />
             <ColumnInfo CreatedDateTime="2017-10-25T08:35:20.4375344Z" />
             <ColumnInfo Modifier="admin" />
-            <ColumnInfo ModifiedDateTime="2017-10-26T06:20:27.9262743Z" />
+            <ColumnInfo ModifiedDateTime="2017-10-26T06:21:42.6036054Z" />
             <ColumnInfo ID="5b908227-2057-4bdd-9801-dd49b5aedcd2" />
           </xs:appinfo>
         </xs:annotation>
@@ -36,18 +48,6 @@
             <ColumnInfo Modifier="admin" />
             <ColumnInfo ModifiedDateTime="2017-10-26T06:20:29.0650763Z" />
             <ColumnInfo ID="ebc4c3d9-660b-4cb6-a2b7-7949b8f2ef5e" />
-          </xs:appinfo>
-        </xs:annotation>
-      </xs:element>
-      <xs:element minOccurs="0" name="ID" type="xs:int">
-        <xs:annotation>
-          <xs:appinfo>
-            <ColumnInfo Creator="admin" />
-            <ColumnInfo CreatedDateTime="2017-10-26T06:21:11.8559514Z" />
-            <ColumnInfo Modifier="admin" />
-            <ColumnInfo ModifiedDateTime="2017-10-26T06:21:11.8559514Z" />
-            <ColumnInfo AutoIncrement="true" />
-            <ColumnInfo ID="2bc9175c-512b-4f9d-8545-f73e21760840" />
           </xs:appinfo>
         </xs:annotation>
       </xs:element>
@@ -148,7 +148,7 @@
     </xs:key>
     <xs:key name="ProjectInfo.ExportInfo.Key">
       <xs:selector xpath="t:ProjectInfo/t:ExportInfo" />
-      <xs:field xpath="t:FileName" />
+      <xs:field xpath="t:ID" />
     </xs:key>
   </xs:element>
 </xs:schema>
