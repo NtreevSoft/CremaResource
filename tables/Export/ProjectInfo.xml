@@ -7,7 +7,7 @@
   ProjectInfo.Count="5"
   ProjectInfo.ID="dea31cbb-0fbd-40b7-9e09-bf11038a3aca"
   ProjectInfo.ExportInfo.Modifier="admin"
-  ProjectInfo.ExportInfo.ModifiedDateTime="2017-10-26T06:20:50.9831147Z"
+  ProjectInfo.ExportInfo.ModifiedDateTime="2017-10-26T06:21:28.0643799Z"
   ProjectInfo.ExportInfo.Count="1"
   ProjectInfo.ExportInfo.ID="a9ca9738-2c3f-41a3-b380-98987977e42e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Export/ProjectInfo">
   <ProjectInfo
@@ -23,9 +23,10 @@
       Creator="admin"
       CreatedDateTime="2017-10-26T06:20:50.9831147Z"
       Modifier="admin"
-      ModifiedDateTime="2017-10-26T06:20:50.9831147Z">
+      ModifiedDateTime="2017-10-26T06:21:28.0643799Z">
       <FileName>Properties/Resources.resx</FileName>
       <TableName>ModernUIFramework</TableName>
+      <ID>0</ID>
     </ExportInfo>
   </ProjectInfo>
   <ProjectInfo
