@@ -3,12 +3,12 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/Export/ProjectInfo ProjectInfo.xsd"
   ProjectInfo.Modifier="admin"
-  ProjectInfo.ModifiedDateTime="2017-10-26T06:34:38.4709682Z"
-  ProjectInfo.Count="5"
+  ProjectInfo.ModifiedDateTime="2017-10-26T07:19:22.1436818Z"
+  ProjectInfo.Count="6"
   ProjectInfo.ID="dea31cbb-0fbd-40b7-9e09-bf11038a3aca"
   ProjectInfo.ExportInfo.Modifier="admin"
-  ProjectInfo.ExportInfo.ModifiedDateTime="2017-10-26T06:24:39.0243153Z"
-  ProjectInfo.ExportInfo.Count="3"
+  ProjectInfo.ExportInfo.ModifiedDateTime="2017-10-26T07:19:41.612516Z"
+  ProjectInfo.ExportInfo.Count="4"
   ProjectInfo.ExportInfo.ID="a9ca9738-2c3f-41a3-b380-98987977e42e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Export/ProjectInfo">
   <ProjectInfo
     Creator="admin"
@@ -85,6 +85,25 @@
       <ID>0</ID>
       <FileName>Properties/Resources.resx</FileName>
       <TableName>ModernUIFramework</TableName>
+    </ExportInfo>
+  </ProjectInfo>
+  <ProjectInfo
+    Creator="admin"
+    CreatedDateTime="2017-10-26T07:19:22.1436818Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-26T07:19:22.1436818Z"
+    RelationID="d033476fdf69a1f39f78e8a9e9006262">
+    <ProjectType>Client</ProjectType>
+    <Name>Ntreev.Crema.Client.Converters</Name>
+    <ProjectPath>client/Ntreev.Crema.Client.Converters/Ntreev.Crema.Client.Converters.csproj</ProjectPath>
+    <ExportInfo
+      Creator="admin"
+      CreatedDateTime="2017-10-26T07:19:41.612516Z"
+      Modifier="admin"
+      ModifiedDateTime="2017-10-26T07:19:41.612516Z">
+      <ID>3</ID>
+      <FileName>Properties/Resources.resx</FileName>
+      <TableName>ClientConverters</TableName>
     </ExportInfo>
   </ProjectInfo>
 </Content>
