@@ -3,8 +3,8 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientTables ../Templates/StringTable.xsd"
   StringTable.Modifier="admin"
-  StringTable.ModifiedDateTime="2017-10-26T09:04:42.4011827Z"
-  StringTable.Count="94"
+  StringTable.ModifiedDateTime="2017-10-26T09:07:17.964656Z"
+  StringTable.Count="95"
   StringTable.ID="c2388943-4951-4ffa-81f9-33946994432d" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="admin"
@@ -945,5 +945,15 @@
     <Name>DerivedTable</Name>
     <Value>Derived Tables</Value>
     <ko_KR>파생된 테이블들</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-26T09:07:06.9354366Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-26T09:07:17.964656Z">
+    <Type>Title</Type>
+    <Name>TablesBeingUsed</Name>
+    <Value>Tables being used</Value>
+    <ko_KR>사용되고 있는 테이블들</ko_KR>
   </StringTable>
 </Content>
