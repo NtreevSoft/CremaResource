@@ -11,7 +11,7 @@
       <xs:appinfo>
         <TableInfo CreatedDateTime="2017-10-25T08:34:43.9802704Z" />
         <TableInfo Modifier="admin" />
-        <TableInfo ModifiedDateTime="2017-10-26T06:14:44.2264706Z" />
+        <TableInfo ModifiedDateTime="2017-10-26T06:17:55.8416071Z" />
         <TableInfo ID="a9ca9738-2c3f-41a3-b380-98987977e42e" />
         <TableInfo CategoryPath="/Export/" />
       </xs:appinfo>
@@ -36,17 +36,6 @@
             <ColumnInfo Modifier="admin" />
             <ColumnInfo ModifiedDateTime="2017-10-26T05:24:57.0240238Z" />
             <ColumnInfo ID="ebc4c3d9-660b-4cb6-a2b7-7949b8f2ef5e" />
-          </xs:appinfo>
-        </xs:annotation>
-      </xs:element>
-      <xs:element minOccurs="0" name="ID" type="xs:int">
-        <xs:annotation>
-          <xs:appinfo>
-            <ColumnInfo Creator="admin" />
-            <ColumnInfo CreatedDateTime="2017-10-26T06:14:44.0548703Z" />
-            <ColumnInfo Modifier="admin" />
-            <ColumnInfo ModifiedDateTime="2017-10-26T06:14:44.0548703Z" />
-            <ColumnInfo ID="9db8e992-904e-4c47-8d88-e0e8a85d6935" />
           </xs:appinfo>
         </xs:annotation>
       </xs:element>
