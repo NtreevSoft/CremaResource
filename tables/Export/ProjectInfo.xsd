@@ -23,7 +23,7 @@
             <ColumnInfo Creator="admin" />
             <ColumnInfo CreatedDateTime="2017-10-25T08:35:20.4375344Z" />
             <ColumnInfo Modifier="admin" />
-            <ColumnInfo ModifiedDateTime="2017-10-26T05:24:50.4408123Z" />
+            <ColumnInfo ModifiedDateTime="2017-10-26T05:24:56.5092229Z" />
             <ColumnInfo ID="5b908227-2057-4bdd-9801-dd49b5aedcd2" />
           </xs:appinfo>
         </xs:annotation>
@@ -34,7 +34,7 @@
             <ColumnInfo Creator="admin" />
             <ColumnInfo CreatedDateTime="2017-10-25T08:35:02.2167024Z" />
             <ColumnInfo Modifier="admin" />
-            <ColumnInfo ModifiedDateTime="2017-10-26T05:24:51.0960134Z" />
+            <ColumnInfo ModifiedDateTime="2017-10-26T05:24:57.0240238Z" />
             <ColumnInfo ID="ebc4c3d9-660b-4cb6-a2b7-7949b8f2ef5e" />
           </xs:appinfo>
         </xs:annotation>
@@ -136,7 +136,7 @@
     </xs:key>
     <xs:key name="ProjectInfo.ExportInfo.Key">
       <xs:selector xpath="t:ProjectInfo/t:ExportInfo" />
-      <xs:field xpath="t:TableName" />
+      <xs:field xpath="t:FileName" />
     </xs:key>
   </xs:element>
 </xs:schema>
