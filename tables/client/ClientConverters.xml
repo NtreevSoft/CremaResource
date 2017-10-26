@@ -2,4 +2,228 @@
 <Content
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientConverters ../Templates/StringTable.xsd"
-  StringTable.ID="c2ac3ca4-710a-467a-a224-d2c777e779cb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable" />
+  StringTable.Modifier="admin"
+  StringTable.ModifiedDateTime="2017-10-26T07:09:42.7274641Z"
+  StringTable.Count="22"
+  StringTable.ID="c2ac3ca4-710a-467a-a224-d2c777e779cb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-26T06:54:43.8694853Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-26T06:54:57.3167089Z">
+    <Type>Title</Type>
+    <Name>Export</Name>
+    <Value>Export</Value>
+    <ko_KR>내보내기</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-26T06:57:58.5266272Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-26T07:04:40.8825339Z">
+    <Type>Title</Type>
+    <Name>Import</Name>
+    <Value>Import</Value>
+    <ko_KR>가져오기</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-26T06:55:19.8275485Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-26T07:09:25.8794345Z">
+    <Type>Message</Type>
+    <Name>ReceivingData</Name>
+    <Value>Receiving Data.</Value>
+    <ko_KR>데이터를 가져오고 있습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-26T06:55:27.0191611Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-26T07:09:29.7638413Z">
+    <Type>Message</Type>
+    <Name>ExportingData</Name>
+    <Value>Exporting Data.</Value>
+    <ko_KR>데이터를 내보내고 있습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-26T06:56:13.8660434Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-26T07:09:37.0958542Z">
+    <Type>Message</Type>
+    <Name>ReceivingDataFormat</Name>
+    <Value>Receiving Data : {0}</Value>
+    <ko_KR>데이터를 가져오고 있습니다. : {0}</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-26T06:56:20.9328558Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-26T07:09:42.7274641Z">
+    <Type>Message</Type>
+    <Name>ExportingDataFormat</Name>
+    <Value>Exporting Data : {0}</Value>
+    <ko_KR>데이터를 내보내고 있습니다. : {0}</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-26T06:56:36.8136837Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-26T07:09:06.9410012Z">
+    <Type>Message</Type>
+    <Name>Exported</Name>
+    <Value>Exported.</Value>
+    <ko_KR>내보내기를 완료했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-26T06:57:20.22856Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-26T07:09:02.4481933Z">
+    <Type>Message</Type>
+    <Name>Canceling</Name>
+    <Value>Canceling.</Value>
+    <ko_KR>취소하는 중입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-26T06:58:28.2446794Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-26T07:08:43.47856Z">
+    <Type>Message</Type>
+    <Name>Imporing</Name>
+    <Value>Importing.</Value>
+    <ko_KR>가져오는 중입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-26T06:58:33.3146883Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-26T07:08:37.5661496Z">
+    <Type>Message</Type>
+    <Name>Imported</Name>
+    <Value>Imported.</Value>
+    <ko_KR>가져오기를 완료했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-26T07:02:28.1575008Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-26T07:08:15.8041114Z">
+    <Type>Message</Type>
+    <Name>NoneTablesToExport</Name>
+    <Value>No tables can be exported.</Value>
+    <ko_KR>내보낼 수 있는 테이블이 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-26T06:59:34.4355957Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-26T07:07:57.5988794Z">
+    <Type>Label</Type>
+    <Name>ExportingInformation</Name>
+    <Value>Exporting Information</Value>
+    <ko_KR>내보내기 정보</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-26T06:59:47.711219Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-26T07:04:29.5101139Z">
+    <Type>Label</Type>
+    <Name>ExportingType</Name>
+    <Value>Type</Value>
+    <ko_KR>타입</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-26T07:00:25.0888846Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-26T07:04:12.3500838Z">
+    <Type>Label</Type>
+    <Name>Comment</Name>
+    <Value>Comment</Value>
+    <ko_KR>설명</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-26T07:01:01.140548Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-26T07:07:51.3744685Z">
+    <Type>Label</Type>
+    <Name>ImportingImformation</Name>
+    <Value>Importing Information</Value>
+    <ko_KR>가져오기 정보</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-26T07:01:19.9853811Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-26T07:04:27.6381107Z">
+    <Type>Label</Type>
+    <Name>ImportingType</Name>
+    <Value>Type</Value>
+    <ko_KR>타입</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-26T07:00:04.4812484Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-26T07:07:10.8455973Z">
+    <Type>Button</Type>
+    <Name>Export</Name>
+    <Value>_Export</Value>
+    <ko_KR>내보내기(_E)</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-26T07:00:10.0348582Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-26T07:07:15.8220061Z">
+    <Type>Button</Type>
+    <Name>Cancel</Name>
+    <Value>_Cancel</Value>
+    <ko_KR>취소(_C)</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-26T07:01:36.0222092Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-26T07:07:13.7784025Z">
+    <Type>Button</Type>
+    <Name>Import</Name>
+    <Value>_Import</Value>
+    <ko_KR>가져오기(_I)</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-26T07:00:47.1005233Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-26T07:07:42.8568535Z">
+    <Type>Comment</Type>
+    <Name>CommentForImporting</Name>
+    <Value>Enter a comment for the import.</Value>
+    <ko_KR>가져오기에 대한 설명을 입력하세요.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-26T07:02:08.907067Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-26T07:03:52.1480483Z">
+    <Type>MenuItem</Type>
+    <Name>Export</Name>
+    <Value>_Export</Value>
+    <ko_KR>내보내기(_E)</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-26T07:02:48.2503361Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-26T07:03:56.3912558Z">
+    <Type>MenuItem</Type>
+    <Name>Import</Name>
+    <Value>_Import</Value>
+    <ko_KR>가져오기(_I)</ko_KR>
+  </StringTable>
+</Content>
