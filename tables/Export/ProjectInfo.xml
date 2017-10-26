@@ -3,28 +3,28 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/Export/ProjectInfo ProjectInfo.xsd"
   ProjectInfo.Modifier="admin"
-  ProjectInfo.ModifiedDateTime="2017-10-26T01:38:09.3229232Z"
+  ProjectInfo.ModifiedDateTime="2017-10-26T05:36:23.5188296Z"
   ProjectInfo.Count="5"
   ProjectInfo.ID="dea31cbb-0fbd-40b7-9e09-bf11038a3aca"
   ProjectInfo.ExportInfo.Modifier="admin"
-  ProjectInfo.ExportInfo.ModifiedDateTime="2017-10-25T09:14:10.0832262Z"
+  ProjectInfo.ExportInfo.ModifiedDateTime="2017-10-26T05:36:02.0375919Z"
   ProjectInfo.ExportInfo.Count="1"
   ProjectInfo.ExportInfo.ID="a9ca9738-2c3f-41a3-b380-98987977e42e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Export/ProjectInfo">
   <ProjectInfo
     Creator="admin"
     CreatedDateTime="2017-10-25T04:14:12.2163323Z"
     Modifier="admin"
-    ModifiedDateTime="2017-10-25T08:41:56.8186306Z"
+    ModifiedDateTime="2017-10-26T05:36:23.5188296Z"
     RelationID="87ec3c57e41e0c1e70b5df0fc86b0b47">
     <ProjectType>SubModule</ProjectType>
     <Name>Ntreev.ModernUI.Framework</Name>
     <ProjectPath>sub-modules/Ntreev.ModernUI.Framework/Ntreev.ModernUI.Framework/Ntreev.ModernUI.Framework.csproj</ProjectPath>
     <ExportInfo
       Creator="admin"
-      CreatedDateTime="2017-10-25T09:14:10.0832262Z"
+      CreatedDateTime="2017-10-26T05:35:50.4779716Z"
       Modifier="admin"
-      ModifiedDateTime="2017-10-25T09:14:10.0832262Z">
-      <FileName>Resources.resx</FileName>
+      ModifiedDateTime="2017-10-26T05:36:02.0375919Z">
+      <FileName>Properties/Resources.resx</FileName>
       <TableName>ModernUIFramework</TableName>
     </ExportInfo>
   </ProjectInfo>
