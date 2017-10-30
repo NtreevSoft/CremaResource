@@ -3,8 +3,8 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientTables ../Templates/StringTable.xsd"
   StringTable.Modifier="admin"
-  StringTable.ModifiedDateTime="2017-10-30T04:36:14.1992295Z"
-  StringTable.Count="99"
+  StringTable.ModifiedDateTime="2017-10-30T07:41:47.2211836Z"
+  StringTable.Count="101"
   StringTable.ID="c2388943-4951-4ffa-81f9-33946994432d" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="admin"
@@ -995,5 +995,25 @@
     <Name>Owner</Name>
     <Value>Owner</Value>
     <ko_KR>소유자</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-30T07:41:41.6831739Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-30T07:41:41.6831739Z">
+    <Type>Label</Type>
+    <Name>FindWhat</Name>
+    <Value>find what</Value>
+    <ko_KR>찾을 내용</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-30T07:41:47.2211836Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-30T07:41:47.2211836Z">
+    <Type>Label</Type>
+    <Name>LookIn</Name>
+    <Value>looking</Value>
+    <ko_KR>찾는 위치</ko_KR>
   </StringTable>
 </Content>
