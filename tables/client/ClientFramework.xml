@@ -3,8 +3,8 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientFramework ../Templates/StringTable.xsd"
   StringTable.Modifier="admin"
-  StringTable.ModifiedDateTime="2017-10-30T01:00:21.2468789Z"
-  StringTable.Count="14"
+  StringTable.ModifiedDateTime="2017-10-30T02:08:47.9384919Z"
+  StringTable.Count="15"
   StringTable.ID="8dfd183d-9139-4459-ac00-1b1e3a551b36" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="admin"
@@ -145,5 +145,15 @@
     <Name>Comment</Name>
     <Value>Comment</Value>
     <ko_KR>설명</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-30T02:07:03.8863091Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-30T02:08:47.9384919Z">
+    <Type>Exception</Type>
+    <Name>ColumnRangeExceeded</Name>
+    <Value>The range of columns to paste has been exceeded.</Value>
+    <ko_KR>붙여넣기 대상 열의 범위가 초과되었습니다.</ko_KR>
   </StringTable>
 </Content>
