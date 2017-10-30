@@ -3,8 +3,8 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientTables ../Templates/StringTable.xsd"
   StringTable.Modifier="admin"
-  StringTable.ModifiedDateTime="2017-10-26T09:07:17.964656Z"
-  StringTable.Count="95"
+  StringTable.ModifiedDateTime="2017-10-30T04:27:50.4119447Z"
+  StringTable.Count="96"
   StringTable.ID="c2388943-4951-4ffa-81f9-33946994432d" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="admin"
@@ -885,6 +885,16 @@
     <Name>Tags</Name>
     <Value>Tags</Value>
     <ko_KR>태그</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-30T04:27:27.9167052Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-30T04:27:50.4119447Z">
+    <Type>MenuItem</Type>
+    <Name>SelectInTableBrowser</Name>
+    <Value>Select in table browser...</Value>
+    <ko_KR>테이블 브라우저에서 보기(_V)...</ko_KR>
   </StringTable>
   <StringTable
     Creator="admin"
