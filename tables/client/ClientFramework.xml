@@ -3,8 +3,8 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientFramework ../Templates/StringTable.xsd"
   StringTable.Modifier="admin"
-  StringTable.ModifiedDateTime="2017-10-30T00:47:27.7975204Z"
-  StringTable.Count="8"
+  StringTable.ModifiedDateTime="2017-10-30T00:53:40.2325745Z"
+  StringTable.Count="13"
   StringTable.ID="8dfd183d-9139-4459-ac00-1b1e3a551b36" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="admin"
@@ -85,5 +85,55 @@
     <Name>Locking</Name>
     <Value>Lock setting is in progress</Value>
     <ko_KR>잠금을 설정중입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-30T00:49:53.7981768Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-30T00:52:25.5396433Z">
+    <Type>Label</Type>
+    <Name>AccessView1</Name>
+    <Value>User or group to invite</Value>
+    <ko_KR>초대할 사용자 또는 그룹</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-30T00:50:50.3794762Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-30T00:51:32.6711505Z">
+    <Type>Label</Type>
+    <Name>AccessView2</Name>
+    <Value>Users or Groups with Access Permissions</Value>
+    <ko_KR>접근 권한이 있는 사용자 또는 그룹</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-30T00:51:45.7439734Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-30T00:51:56.336392Z">
+    <Type>Button</Type>
+    <Name>Close</Name>
+    <Value>_Close</Value>
+    <ko_KR>닫기(_C)</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-30T00:53:17.3785344Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-30T00:53:26.9569512Z">
+    <Type>Button</Type>
+    <Name>Lock</Name>
+    <Value>_Lock</Value>
+    <ko_KR>잠금(_L)</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-30T00:53:40.2325745Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-30T00:53:40.2325745Z">
+    <Type>Label</Type>
+    <Name>Comment</Name>
+    <Value>Comment</Value>
+    <ko_KR>설명</ko_KR>
   </StringTable>
 </Content>
