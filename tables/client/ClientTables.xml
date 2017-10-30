@@ -3,8 +3,8 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientTables ../Templates/StringTable.xsd"
   StringTable.Modifier="admin"
-  StringTable.ModifiedDateTime="2017-10-30T07:42:55.7053039Z"
-  StringTable.Count="104"
+  StringTable.ModifiedDateTime="2017-10-30T07:43:21.6169494Z"
+  StringTable.Count="105"
   StringTable.ID="c2388943-4951-4ffa-81f9-33946994432d" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="admin"
@@ -1045,5 +1045,15 @@
     <Name>Column</Name>
     <Value>Column</Value>
     <ko_KR>열</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-30T07:43:21.6169494Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-30T07:43:21.6169494Z">
+    <Type>Label</Type>
+    <Name>Value</Name>
+    <Value>Value</Value>
+    <ko_KR>값</ko_KR>
   </StringTable>
 </Content>
