@@ -3,12 +3,12 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/Export/CremaProjectInfo ../Templates/ProjectInfo.xsd"
   ProjectInfo.Modifier="admin"
-  ProjectInfo.ModifiedDateTime="2017-10-26T08:58:13.8513003Z"
-  ProjectInfo.Count="7"
+  ProjectInfo.ModifiedDateTime="2017-10-30T00:33:27.814045Z"
+  ProjectInfo.Count="8"
   ProjectInfo.ID="0ae69c7a-8041-43f1-b45b-741382ef30ea"
   ProjectInfo.ExportInfo.Modifier="admin"
-  ProjectInfo.ExportInfo.ModifiedDateTime="2017-10-26T08:58:22.3221151Z"
-  ProjectInfo.ExportInfo.Count="7"
+  ProjectInfo.ExportInfo.ModifiedDateTime="2017-10-30T00:33:37.2988617Z"
+  ProjectInfo.ExportInfo.Count="8"
   ProjectInfo.ExportInfo.ID="2cd3f6ff-1a21-47d4-907b-f1339bb7ffa8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/ProjectInfo">
   <ProjectInfo
     Creator="admin"
@@ -141,6 +141,25 @@
       <ID>6</ID>
       <FileName />
       <TableName>ClientTypes</TableName>
+    </ExportInfo>
+  </ProjectInfo>
+  <ProjectInfo
+    Creator="admin"
+    CreatedDateTime="2017-10-30T00:33:27.814045Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-30T00:33:27.814045Z"
+    RelationID="e6d11746991707aed6074138a306d52f">
+    <ProjectType>Client</ProjectType>
+    <Name>Ntreev.Crema.Client.Framework</Name>
+    <ProjectPath>client/Ntreev.Crema.Client.Framework/Ntreev.Crema.Client.Framework.csproj</ProjectPath>
+    <ExportInfo
+      Creator="admin"
+      CreatedDateTime="2017-10-30T00:33:37.2988617Z"
+      Modifier="admin"
+      ModifiedDateTime="2017-10-30T00:33:37.2988617Z">
+      <ID>7</ID>
+      <FileName />
+      <TableName>ClientFramework</TableName>
     </ExportInfo>
   </ProjectInfo>
 </Content>
