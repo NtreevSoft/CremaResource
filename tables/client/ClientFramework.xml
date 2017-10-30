@@ -3,8 +3,8 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientFramework ../Templates/StringTable.xsd"
   StringTable.Modifier="admin"
-  StringTable.ModifiedDateTime="2017-10-30T00:53:40.2325745Z"
-  StringTable.Count="13"
+  StringTable.ModifiedDateTime="2017-10-30T01:00:21.2468789Z"
+  StringTable.Count="14"
   StringTable.ID="8dfd183d-9139-4459-ac00-1b1e3a551b36" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="admin"
@@ -25,6 +25,16 @@
     <Name>ConfirmToDeleteSelectedRows_Format</Name>
     <Value>Do you want to delete selected {0} rows?</Value>
     <ko_KR>택된 {0}개의 행을 삭제하시겠습니까?</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-30T01:00:18.0644733Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-30T01:00:21.2468789Z">
+    <Type>Message</Type>
+    <Name>ConfirmToDeleteRow</Name>
+    <Value>Do you want to delete row?</Value>
+    <ko_KR>행을 삭제하시겠습니까?</ko_KR>
   </StringTable>
   <StringTable
     Creator="admin"
