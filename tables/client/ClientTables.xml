@@ -3,8 +3,8 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientTables ../Templates/StringTable.xsd"
   StringTable.Modifier="admin"
-  StringTable.ModifiedDateTime="2017-10-30T07:41:47.2211836Z"
-  StringTable.Count="101"
+  StringTable.ModifiedDateTime="2017-10-30T07:42:14.1468309Z"
+  StringTable.Count="102"
   StringTable.ID="c2388943-4951-4ffa-81f9-33946994432d" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="admin"
@@ -1015,5 +1015,15 @@
     <Name>LookIn</Name>
     <Value>looking</Value>
     <ko_KR>찾는 위치</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-30T07:42:14.1468309Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-30T07:42:14.1468309Z">
+    <Type>Button</Type>
+    <Name>FindAll</Name>
+    <Value>_Find All</Value>
+    <ko_KR>모두 찾기(_A)</ko_KR>
   </StringTable>
 </Content>
