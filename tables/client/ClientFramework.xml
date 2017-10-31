@@ -2,155 +2,126 @@
 <Content
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientFramework ../Templates/StringTable.xsd"
-  StringTable.Modifier="admin"
-  StringTable.ModifiedDateTime="2017-10-30T02:08:47.9384919Z"
+  Creator="admin"
+  CreatedDateTime="2017-10-23T07:16:01.2646706Z"
+  StringTable.ModifiedDateTime="2017-10-31T06:48:14.5756759Z"
   StringTable.Count="15"
-  StringTable.ID="8dfd183d-9139-4459-ac00-1b1e3a551b36" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
+  StringTable.ID="c0cab95d-e8db-454e-bfdd-db225b55d79e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
-    Creator="admin"
-    CreatedDateTime="2017-10-30T00:15:02.7861041Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-10-30T00:23:06.074953Z">
+    CreatedDateTime="2017-10-31T06:48:14.5746752Z"
+    ModifiedDateTime="2017-10-31T06:48:14.5746752Z">
     <Type>Message</Type>
     <Name>ConfirmToResetSelectedFields</Name>
     <Value>Do you want to reset selected fields?</Value>
     <ko_KR>선택된 필드의 값을 초기화 하시겠습니까?</ko_KR>
   </StringTable>
   <StringTable
-    Creator="admin"
-    CreatedDateTime="2017-10-30T00:15:14.8137253Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-10-30T00:23:06.074953Z">
+    CreatedDateTime="2017-10-31T06:48:14.5746752Z"
+    ModifiedDateTime="2017-10-31T06:48:14.5746752Z">
     <Type>Message</Type>
     <Name>ConfirmToDeleteSelectedRows_Format</Name>
     <Value>Do you want to delete selected {0} rows?</Value>
     <ko_KR>택된 {0}개의 행을 삭제하시겠습니까?</ko_KR>
   </StringTable>
   <StringTable
-    Creator="admin"
-    CreatedDateTime="2017-10-30T01:00:18.0644733Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-10-30T01:00:21.2468789Z">
+    CreatedDateTime="2017-10-31T06:48:14.5746752Z"
+    ModifiedDateTime="2017-10-31T06:48:14.5746752Z">
     <Type>Message</Type>
     <Name>ConfirmToDeleteRow</Name>
     <Value>Do you want to delete row?</Value>
     <ko_KR>행을 삭제하시겠습니까?</ko_KR>
   </StringTable>
   <StringTable
-    Creator="admin"
-    CreatedDateTime="2017-10-30T00:18:25.4460601Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-10-30T00:23:04.1873497Z">
+    CreatedDateTime="2017-10-31T06:48:14.5746752Z"
+    ModifiedDateTime="2017-10-31T06:48:14.5746752Z">
     <Type>Message</Type>
     <Name>ConfirmToResetField</Name>
     <Value>Do you want to reset field?</Value>
     <ko_KR>필드의 값을 초기화하시겠습니까?</ko_KR>
   </StringTable>
   <StringTable
-    Creator="admin"
-    CreatedDateTime="2017-10-30T00:20:07.7822398Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-10-30T00:21:24.4563745Z">
+    CreatedDateTime="2017-10-31T06:48:14.5746752Z"
+    ModifiedDateTime="2017-10-31T06:48:14.5746752Z">
     <Type>Exception</Type>
     <Name>CannotSelectComplexRanges</Name>
     <Value>Selection of complex ranges is not possible.</Value>
     <ko_KR>복합적 범위의 선택은 불가능합니다.</ko_KR>
   </StringTable>
   <StringTable
-    Creator="admin"
-    CreatedDateTime="2017-10-30T00:22:07.4812501Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-10-30T00:22:23.6428785Z">
+    CreatedDateTime="2017-10-31T06:48:14.5751757Z"
+    ModifiedDateTime="2017-10-31T06:48:14.5751757Z">
     <Type>Exception</Type>
     <Name>ItsReadOnly_Format</Name>
     <Value>'{0}' is read only.</Value>
     <ko_KR>'{0}'은(는) 읽기 전용입니다.</ko_KR>
   </StringTable>
   <StringTable
-    Creator="admin"
-    CreatedDateTime="2017-10-30T00:27:18.0309955Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-10-30T00:27:18.0309955Z">
+    CreatedDateTime="2017-10-31T06:48:14.5751757Z"
+    ModifiedDateTime="2017-10-31T06:48:14.5751757Z">
     <Type>Title</Type>
     <Name>SettingAuthority</Name>
     <Value>Setting Authority</Value>
     <ko_KR>권한 설정</ko_KR>
   </StringTable>
   <StringTable
-    Creator="admin"
-    CreatedDateTime="2017-10-30T00:28:00.1666695Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-10-30T00:28:00.1666695Z">
+    CreatedDateTime="2017-10-31T06:48:14.5751757Z"
+    ModifiedDateTime="2017-10-31T06:48:14.5751757Z">
     <Type>Title</Type>
     <Name>SettingLock</Name>
     <Value>Setting Lock</Value>
     <ko_KR>잠금 설정</ko_KR>
   </StringTable>
   <StringTable
-    Creator="admin"
-    CreatedDateTime="2017-10-30T00:28:15.5794966Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-10-30T00:47:27.7975204Z">
+    CreatedDateTime="2017-10-31T06:48:14.5751757Z"
+    ModifiedDateTime="2017-10-31T06:48:14.5751757Z">
     <Type>Message</Type>
     <Name>Locking</Name>
     <Value>Lock setting is in progress</Value>
     <ko_KR>잠금을 설정중입니다.</ko_KR>
   </StringTable>
   <StringTable
-    Creator="admin"
-    CreatedDateTime="2017-10-30T00:49:53.7981768Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-10-30T00:52:25.5396433Z">
+    CreatedDateTime="2017-10-31T06:48:14.5751757Z"
+    ModifiedDateTime="2017-10-31T06:48:14.5751757Z">
     <Type>Label</Type>
     <Name>AccessView1</Name>
     <Value>User or group to invite</Value>
     <ko_KR>초대할 사용자 또는 그룹</ko_KR>
   </StringTable>
   <StringTable
-    Creator="admin"
-    CreatedDateTime="2017-10-30T00:50:50.3794762Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-10-30T00:51:32.6711505Z">
+    CreatedDateTime="2017-10-31T06:48:14.5751757Z"
+    ModifiedDateTime="2017-10-31T06:48:14.5751757Z">
     <Type>Label</Type>
     <Name>AccessView2</Name>
     <Value>Users or Groups with Access Permissions</Value>
     <ko_KR>접근 권한이 있는 사용자 또는 그룹</ko_KR>
   </StringTable>
   <StringTable
-    Creator="admin"
-    CreatedDateTime="2017-10-30T00:51:45.7439734Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-10-30T00:51:56.336392Z">
+    CreatedDateTime="2017-10-31T06:48:14.5756759Z"
+    ModifiedDateTime="2017-10-31T06:48:14.5756759Z">
     <Type>Button</Type>
     <Name>Close</Name>
     <Value>_Close</Value>
     <ko_KR>닫기(_C)</ko_KR>
   </StringTable>
   <StringTable
-    Creator="admin"
-    CreatedDateTime="2017-10-30T00:53:17.3785344Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-10-30T00:53:26.9569512Z">
+    CreatedDateTime="2017-10-31T06:48:14.5756759Z"
+    ModifiedDateTime="2017-10-31T06:48:14.5756759Z">
     <Type>Button</Type>
     <Name>Lock</Name>
     <Value>_Lock</Value>
     <ko_KR>잠금(_L)</ko_KR>
   </StringTable>
   <StringTable
-    Creator="admin"
-    CreatedDateTime="2017-10-30T00:53:40.2325745Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-10-30T00:53:40.2325745Z">
+    CreatedDateTime="2017-10-31T06:48:14.5756759Z"
+    ModifiedDateTime="2017-10-31T06:48:14.5756759Z">
     <Type>Label</Type>
     <Name>Comment</Name>
     <Value>Comment</Value>
     <ko_KR>설명</ko_KR>
   </StringTable>
   <StringTable
-    Creator="admin"
-    CreatedDateTime="2017-10-30T02:07:03.8863091Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-10-30T02:08:47.9384919Z">
+    CreatedDateTime="2017-10-31T06:48:14.5756759Z"
+    ModifiedDateTime="2017-10-31T06:48:14.5756759Z">
     <Type>Exception</Type>
     <Name>ColumnRangeExceeded</Name>
     <Value>The range of columns to paste has been exceeded.</Value>

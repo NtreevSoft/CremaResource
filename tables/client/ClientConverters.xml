@@ -2,275 +2,222 @@
 <Content
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientConverters ../Templates/StringTable.xsd"
-  StringTable.Modifier="admin"
-  StringTable.ModifiedDateTime="2017-10-26T07:49:57.7989059Z"
+  Creator="admin"
+  CreatedDateTime="2017-10-23T07:16:01.2646706Z"
+  StringTable.ModifiedDateTime="2017-10-31T06:48:14.5741756Z"
   StringTable.Count="27"
-  StringTable.ID="c2ac3ca4-710a-467a-a224-d2c777e779cb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
+  StringTable.ID="c0cab95d-e8db-454e-bfdd-db225b55d79e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
-    Creator="admin"
-    CreatedDateTime="2017-10-26T06:54:43.8694853Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-10-26T06:54:57.3167089Z">
+    CreatedDateTime="2017-10-31T06:48:14.5716731Z"
+    ModifiedDateTime="2017-10-31T06:48:14.5716731Z">
     <Type>Title</Type>
     <Name>Export</Name>
     <Value>Export</Value>
     <ko_KR>내보내기</ko_KR>
   </StringTable>
   <StringTable
-    Creator="admin"
-    CreatedDateTime="2017-10-26T06:57:58.5266272Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-10-26T07:04:40.8825339Z">
+    CreatedDateTime="2017-10-31T06:48:14.5716731Z"
+    ModifiedDateTime="2017-10-31T06:48:14.5716731Z">
     <Type>Title</Type>
     <Name>Import</Name>
     <Value>Import</Value>
     <ko_KR>가져오기</ko_KR>
   </StringTable>
   <StringTable
-    Creator="admin"
-    CreatedDateTime="2017-10-26T06:55:19.8275485Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-10-26T07:09:25.8794345Z">
+    CreatedDateTime="2017-10-31T06:48:14.5716731Z"
+    ModifiedDateTime="2017-10-31T06:48:14.5716731Z">
     <Type>Message</Type>
     <Name>ReceivingData</Name>
     <Value>Receiving Data.</Value>
     <ko_KR>데이터를 가져오고 있습니다.</ko_KR>
   </StringTable>
   <StringTable
-    Creator="admin"
-    CreatedDateTime="2017-10-26T06:55:27.0191611Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-10-26T07:09:29.7638413Z">
+    CreatedDateTime="2017-10-31T06:48:14.5716731Z"
+    ModifiedDateTime="2017-10-31T06:48:14.5716731Z">
     <Type>Message</Type>
     <Name>ExportingData</Name>
     <Value>Exporting Data.</Value>
     <ko_KR>데이터를 내보내고 있습니다.</ko_KR>
   </StringTable>
   <StringTable
-    Creator="admin"
-    CreatedDateTime="2017-10-26T06:56:13.8660434Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-10-26T07:09:37.0958542Z">
+    CreatedDateTime="2017-10-31T06:48:14.5721745Z"
+    ModifiedDateTime="2017-10-31T06:48:14.5721745Z">
     <Type>Message</Type>
     <Name>ReceivingDataFormat</Name>
     <Value>Receiving Data : {0}</Value>
     <ko_KR>데이터를 가져오고 있습니다. : {0}</ko_KR>
   </StringTable>
   <StringTable
-    Creator="admin"
-    CreatedDateTime="2017-10-26T06:56:20.9328558Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-10-26T07:09:42.7274641Z">
+    CreatedDateTime="2017-10-31T06:48:14.5721745Z"
+    ModifiedDateTime="2017-10-31T06:48:14.5721745Z">
     <Type>Message</Type>
     <Name>ExportingDataFormat</Name>
     <Value>Exporting Data : {0}</Value>
     <ko_KR>데이터를 내보내고 있습니다. : {0}</ko_KR>
   </StringTable>
   <StringTable
-    Creator="admin"
-    CreatedDateTime="2017-10-26T06:56:36.8136837Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-10-26T07:09:06.9410012Z">
+    CreatedDateTime="2017-10-31T06:48:14.5721745Z"
+    ModifiedDateTime="2017-10-31T06:48:14.5721745Z">
     <Type>Message</Type>
     <Name>Exported</Name>
     <Value>Exported.</Value>
     <ko_KR>내보내기를 완료했습니다.</ko_KR>
   </StringTable>
   <StringTable
-    Creator="admin"
-    CreatedDateTime="2017-10-26T06:57:20.22856Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-10-26T07:09:02.4481933Z">
+    CreatedDateTime="2017-10-31T06:48:14.5721745Z"
+    ModifiedDateTime="2017-10-31T06:48:14.5721745Z">
     <Type>Message</Type>
     <Name>Canceling</Name>
     <Value>Canceling.</Value>
     <ko_KR>취소하는 중입니다.</ko_KR>
   </StringTable>
   <StringTable
-    Creator="admin"
-    CreatedDateTime="2017-10-26T06:58:28.2446794Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-10-26T07:28:02.1861952Z">
+    CreatedDateTime="2017-10-31T06:48:14.5721745Z"
+    ModifiedDateTime="2017-10-31T06:48:14.5721745Z">
     <Type>Message</Type>
     <Name>Importing</Name>
     <Value>Importing.</Value>
     <ko_KR>가져오는 중입니다.</ko_KR>
   </StringTable>
   <StringTable
-    Creator="admin"
-    CreatedDateTime="2017-10-26T06:58:33.3146883Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-10-26T07:08:37.5661496Z">
+    CreatedDateTime="2017-10-31T06:48:14.5726747Z"
+    ModifiedDateTime="2017-10-31T06:48:14.5726747Z">
     <Type>Message</Type>
     <Name>Imported</Name>
     <Value>Imported.</Value>
     <ko_KR>가져오기를 완료했습니다.</ko_KR>
   </StringTable>
   <StringTable
-    Creator="admin"
-    CreatedDateTime="2017-10-26T07:02:28.1575008Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-10-26T07:08:15.8041114Z">
+    CreatedDateTime="2017-10-31T06:48:14.5726747Z"
+    ModifiedDateTime="2017-10-31T06:48:14.5726747Z">
     <Type>Message</Type>
     <Name>NoneTablesToExport</Name>
     <Value>No tables can be exported.</Value>
     <ko_KR>내보낼 수 있는 테이블이 없습니다.</ko_KR>
   </StringTable>
   <StringTable
-    Creator="admin"
-    CreatedDateTime="2017-10-26T06:59:34.4355957Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-10-26T07:07:57.5988794Z">
+    CreatedDateTime="2017-10-31T06:48:14.5726747Z"
+    ModifiedDateTime="2017-10-31T06:48:14.5726747Z">
     <Type>Label</Type>
     <Name>ExportingInformation</Name>
     <Value>Exporting Information</Value>
     <ko_KR>내보내기 정보</ko_KR>
   </StringTable>
   <StringTable
-    Creator="admin"
-    CreatedDateTime="2017-10-26T06:59:47.711219Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-10-26T07:30:17.9220336Z">
+    CreatedDateTime="2017-10-31T06:48:14.5726747Z"
+    ModifiedDateTime="2017-10-31T06:48:14.5726747Z">
     <Type>Label</Type>
     <Name>ExportingType</Name>
     <Value>_Type</Value>
     <ko_KR>타입(T)</ko_KR>
   </StringTable>
   <StringTable
-    Creator="admin"
-    CreatedDateTime="2017-10-26T07:00:25.0888846Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-10-26T07:04:12.3500838Z">
+    CreatedDateTime="2017-10-31T06:48:14.5726747Z"
+    ModifiedDateTime="2017-10-31T06:48:14.5726747Z">
     <Type>Label</Type>
     <Name>Comment</Name>
     <Value>Comment</Value>
     <ko_KR>설명</ko_KR>
   </StringTable>
   <StringTable
-    Creator="admin"
-    CreatedDateTime="2017-10-26T07:01:01.140548Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-10-26T07:07:51.3744685Z">
+    CreatedDateTime="2017-10-31T06:48:14.5731749Z"
+    ModifiedDateTime="2017-10-31T06:48:14.5731749Z">
     <Type>Label</Type>
     <Name>ImportingImformation</Name>
     <Value>Importing Information</Value>
     <ko_KR>가져오기 정보</ko_KR>
   </StringTable>
   <StringTable
-    Creator="admin"
-    CreatedDateTime="2017-10-26T07:01:19.9853811Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-10-26T07:30:19.6380366Z">
+    CreatedDateTime="2017-10-31T06:48:14.5731749Z"
+    ModifiedDateTime="2017-10-31T06:48:14.5731749Z">
     <Type>Label</Type>
     <Name>ImportingType</Name>
     <Value>_Type</Value>
     <ko_KR>타입(T)</ko_KR>
   </StringTable>
   <StringTable
-    Creator="admin"
-    CreatedDateTime="2017-10-26T07:00:04.4812484Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-10-26T07:07:10.8455973Z">
+    CreatedDateTime="2017-10-31T06:48:14.5731749Z"
+    ModifiedDateTime="2017-10-31T06:48:14.5731749Z">
     <Type>Button</Type>
     <Name>Export</Name>
     <Value>_Export</Value>
     <ko_KR>내보내기(_E)</ko_KR>
   </StringTable>
   <StringTable
-    Creator="admin"
-    CreatedDateTime="2017-10-26T07:00:10.0348582Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-10-26T07:07:15.8220061Z">
+    CreatedDateTime="2017-10-31T06:48:14.5731749Z"
+    ModifiedDateTime="2017-10-31T06:48:14.5731749Z">
     <Type>Button</Type>
     <Name>Cancel</Name>
     <Value>_Cancel</Value>
     <ko_KR>취소(_C)</ko_KR>
   </StringTable>
   <StringTable
-    Creator="admin"
-    CreatedDateTime="2017-10-26T07:01:36.0222092Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-10-26T07:07:13.7784025Z">
+    CreatedDateTime="2017-10-31T06:48:14.5731749Z"
+    ModifiedDateTime="2017-10-31T06:48:14.5731749Z">
     <Type>Button</Type>
     <Name>Import</Name>
     <Value>_Import</Value>
     <ko_KR>가져오기(_I)</ko_KR>
   </StringTable>
   <StringTable
-    Creator="admin"
-    CreatedDateTime="2017-10-26T07:00:47.1005233Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-10-26T07:07:42.8568535Z">
+    CreatedDateTime="2017-10-31T06:48:14.5736754Z"
+    ModifiedDateTime="2017-10-31T06:48:14.5736754Z">
     <Type>Comment</Type>
     <Name>CommentForImporting</Name>
     <Value>Enter a comment for the import.</Value>
     <ko_KR>가져오기에 대한 설명을 입력하세요.</ko_KR>
   </StringTable>
   <StringTable
-    Creator="admin"
-    CreatedDateTime="2017-10-26T07:02:08.907067Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-10-26T07:03:52.1480483Z">
+    CreatedDateTime="2017-10-31T06:48:14.5736754Z"
+    ModifiedDateTime="2017-10-31T06:48:14.5736754Z">
     <Type>MenuItem</Type>
     <Name>Export</Name>
     <Value>_Export</Value>
     <ko_KR>내보내기(_E)</ko_KR>
   </StringTable>
   <StringTable
-    Creator="admin"
-    CreatedDateTime="2017-10-26T07:02:48.2503361Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-10-26T07:03:56.3912558Z">
+    CreatedDateTime="2017-10-31T06:48:14.5736754Z"
+    ModifiedDateTime="2017-10-31T06:48:14.5736754Z">
     <Type>MenuItem</Type>
     <Name>Import</Name>
     <Value>_Import</Value>
     <ko_KR>가져오기(_I)</ko_KR>
   </StringTable>
   <StringTable
-    Creator="admin"
-    CreatedDateTime="2017-10-26T07:33:21.9867569Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-10-26T07:33:35.714781Z">
+    CreatedDateTime="2017-10-31T06:48:14.5736754Z"
+    ModifiedDateTime="2017-10-31T06:48:14.5736754Z">
     <Type>Label</Type>
     <Name>Path</Name>
     <Value>_Path</Value>
     <ko_KR>경로(_P)</ko_KR>
   </StringTable>
   <StringTable
-    Creator="admin"
-    CreatedDateTime="2017-10-26T07:34:24.3556664Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-10-26T07:35:16.9589588Z">
+    CreatedDateTime="2017-10-31T06:48:14.5736754Z"
+    ModifiedDateTime="2017-10-31T06:48:14.5736754Z">
     <Type>Label</Type>
     <Name>ExportByFolder</Name>
     <Value>Export by folder</Value>
     <ko_KR>폴더별로 나눠서 출력하기</ko_KR>
   </StringTable>
   <StringTable
-    Creator="admin"
-    CreatedDateTime="2017-10-26T07:35:39.9377992Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-10-26T07:36:49.9507222Z">
+    CreatedDateTime="2017-10-31T06:48:14.5736754Z"
+    ModifiedDateTime="2017-10-31T06:48:14.5736754Z">
     <Type>Label</Type>
     <Name>OmitAttribute</Name>
     <Value>Omit Tags and Enabled</Value>
     <ko_KR>태그 및 사용 여부 제외</ko_KR>
   </StringTable>
   <StringTable
-    Creator="admin"
-    CreatedDateTime="2017-10-26T07:35:52.0122204Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-10-26T07:37:01.6195426Z">
+    CreatedDateTime="2017-10-31T06:48:14.5741756Z"
+    ModifiedDateTime="2017-10-31T06:48:14.5741756Z">
     <Type>Label</Type>
     <Name>OmitSignatureDate</Name>
     <Value>Omit Creation and Modification Info</Value>
     <ko_KR>생성 및 변경 정보 제외</ko_KR>
   </StringTable>
   <StringTable
-    Creator="admin"
-    CreatedDateTime="2017-10-26T07:49:43.5404809Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-10-26T07:49:57.7989059Z">
+    CreatedDateTime="2017-10-31T06:48:14.5741756Z"
+    ModifiedDateTime="2017-10-31T06:48:14.5741756Z">
     <Type>Label</Type>
     <Name>SelectAll</Name>
     <Value>Select _All</Value>
