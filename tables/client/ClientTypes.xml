@@ -3,7 +3,7 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientTypes ../Templates/StringTable.xsd"
   StringTable.Modifier="admin"
-  StringTable.ModifiedDateTime="2017-10-31T00:29:10.3541464Z"
+  StringTable.ModifiedDateTime="2017-10-31T00:58:50.6136733Z"
   StringTable.Count="77"
   StringTable.ID="c2110707-663a-4aea-963b-3a4b05fbe485" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
@@ -15,16 +15,6 @@
     <Name>Change</Name>
     <Value>Chang_e</Value>
     <ko_KR>변경(_S)</ko_KR>
-  </StringTable>
-  <StringTable
-    Creator="admin"
-    CreatedDateTime="2017-10-26T08:46:48.0272957Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-10-26T08:47:05.3277261Z">
-    <Type>Button</Type>
-    <Name>Close</Name>
-    <Value>_Close</Value>
-    <ko_KR>닫기(_C)</ko_KR>
   </StringTable>
   <StringTable
     Creator="admin"
@@ -315,6 +305,16 @@
     <Name>Copy</Name>
     <Value>_Copy Type...</Value>
     <ko_KR>타입 복사(_V)...</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-10-26T08:46:48.0272957Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-10-31T00:58:50.6136733Z">
+    <Type>Button</Type>
+    <Name>Close</Name>
+    <Value>_Close</Value>
+    <ko_KR>닫기(_C)</ko_KR>
   </StringTable>
   <StringTable
     Creator="admin"
