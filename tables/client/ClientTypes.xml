@@ -3,14 +3,14 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientTypes ../Templates/StringTable.xsd"
   StringTable.Modifier="admin"
-  StringTable.ModifiedDateTime="2017-10-30T23:48:05.5342172Z"
+  StringTable.ModifiedDateTime="2017-10-31T00:29:10.3541464Z"
   StringTable.Count="77"
   StringTable.ID="c2110707-663a-4aea-963b-3a4b05fbe485" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="admin"
     CreatedDateTime="2017-10-26T08:46:48.0272957Z"
     Modifier="admin"
-    ModifiedDateTime="2017-10-26T08:47:02.5665212Z">
+    ModifiedDateTime="2017-10-31T00:29:10.3541464Z">
     <Type>Button</Type>
     <Name>Change</Name>
     <Value>Chang_e</Value>
