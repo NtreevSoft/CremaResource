@@ -80,13 +80,13 @@
           </xs:appinfo>
         </xs:annotation>
       </xs:element>
-      <xs:element minOccurs="0" name="ProjectType" xmlns:q2="http://schemas.ntreev.com/crema/types/ProjectType" type="q2:ProjectType">
+      <xs:element name="ProjectType" xmlns:q2="http://schemas.ntreev.com/crema/types/ProjectType" type="q2:ProjectType">
         <xs:annotation>
           <xs:appinfo>
             <ColumnInfo Creator="admin" />
             <ColumnInfo CreatedDateTime="2017-11-01T08:22:24.7337264Z" />
             <ColumnInfo Modifier="admin" />
-            <ColumnInfo ModifiedDateTime="2017-11-01T08:22:28.3373327Z" />
+            <ColumnInfo ModifiedDateTime="2017-11-01T08:23:24.3338315Z" />
             <ColumnInfo ID="5c395fed-1fa0-4b1b-bca6-ac53fec0c950" />
           </xs:appinfo>
         </xs:annotation>
@@ -156,6 +156,7 @@
       <xs:selector xpath="t:ProjectInfo" />
       <xs:field xpath="t:KindType" />
       <xs:field xpath="t:Name" />
+      <xs:field xpath="t:ProjectType" />
     </xs:key>
     <xs:key name="ProjectInfo.ExportInfo.Key">
       <xs:selector xpath="t:ProjectInfo/t:ExportInfo" />

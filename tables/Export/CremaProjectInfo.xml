@@ -3,25 +3,26 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/Export/CremaProjectInfo ../Templates/ProjectInfo.xsd"
   ProjectInfo.Modifier="admin"
-  ProjectInfo.ModifiedDateTime="2017-11-01T08:23:17.0330187Z"
+  ProjectInfo.ModifiedDateTime="2017-11-01T08:23:24.3494315Z"
   ProjectInfo.Count="11"
   ProjectInfo.ID="dea31cbb-0fbd-40b7-9e09-bf11038a3aca"
   ProjectInfo.ExportInfo.Modifier="admin"
-  ProjectInfo.ExportInfo.ModifiedDateTime="2017-11-01T00:02:12.0102575Z"
+  ProjectInfo.ExportInfo.ModifiedDateTime="2017-11-01T08:23:24.3494315Z"
   ProjectInfo.ExportInfo.Count="10"
   ProjectInfo.ExportInfo.ID="a9ca9738-2c3f-41a3-b380-98987977e42e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/ProjectInfo">
   <ProjectInfo
     CreatedDateTime="2017-10-31T06:53:14.4082187Z"
     Modifier="admin"
-    ModifiedDateTime="2017-11-01T08:23:08.8068039Z"
-    RelationID="415f7e9d783caab07d757277ad1004f5">
+    ModifiedDateTime="2017-11-01T08:23:24.3494315Z"
+    RelationID="3690c9391151acd7057703cafb821469">
     <KindType>Client</KindType>
     <ProjectType>Library</ProjectType>
     <Name>Ntreev.Crema.Client.SmartSet</Name>
     <ProjectPath>client/Ntreev.Crema.Client.SmartSet/Ntreev.Crema.Client.SmartSet.csproj</ProjectPath>
     <ExportInfo
       CreatedDateTime="2017-10-31T06:53:14.4142228Z"
-      ModifiedDateTime="2017-10-31T06:53:14.4142228Z">
+      Modifier="admin"
+      ModifiedDateTime="2017-11-01T08:23:24.3494315Z">
       <ID>1</ID>
       <FileName />
       <TableName>ClientSmartSet</TableName>
@@ -30,15 +31,16 @@
   <ProjectInfo
     CreatedDateTime="2017-10-31T06:53:14.4082187Z"
     Modifier="admin"
-    ModifiedDateTime="2017-11-01T08:23:09.4776051Z"
-    RelationID="12335022f6c40f80a1d60fed1216fee2">
+    ModifiedDateTime="2017-11-01T08:23:24.3494315Z"
+    RelationID="e2d4fa01e336f756ad160c2cf7aa4711">
     <KindType>Client</KindType>
     <ProjectType>Library</ProjectType>
     <Name>Ntreev.Crema.Client.Common</Name>
     <ProjectPath>client/Ntreev.Crema.Client.Common/Ntreev.Crema.Client.Common.csproj</ProjectPath>
     <ExportInfo
       CreatedDateTime="2017-10-31T06:53:14.4152229Z"
-      ModifiedDateTime="2017-10-31T06:53:14.4152229Z">
+      Modifier="admin"
+      ModifiedDateTime="2017-11-01T08:23:24.3494315Z">
       <ID>2</ID>
       <FileName />
       <TableName>ClientCommon</TableName>
@@ -47,15 +49,16 @@
   <ProjectInfo
     CreatedDateTime="2017-10-31T06:53:14.4082187Z"
     Modifier="admin"
-    ModifiedDateTime="2017-11-01T08:23:09.8988059Z"
-    RelationID="e9bf26bd43c00da6d59b2991e893384e">
+    ModifiedDateTime="2017-11-01T08:23:24.3494315Z"
+    RelationID="e40206356bd63d3228d0c0facb669e62">
     <KindType>Client</KindType>
     <ProjectType>Library</ProjectType>
     <Name>Ntreev.Crema.Client.Tables</Name>
     <ProjectPath>client/Ntreev.Crema.Client.Tables/Ntreev.Crema.Client.Tables.csproj</ProjectPath>
     <ExportInfo
       CreatedDateTime="2017-10-31T06:53:14.4152229Z"
-      ModifiedDateTime="2017-10-31T06:53:14.4152229Z">
+      Modifier="admin"
+      ModifiedDateTime="2017-11-01T08:23:24.3494315Z">
       <ID>4</ID>
       <FileName />
       <TableName>ClientTables</TableName>
@@ -64,15 +67,16 @@
   <ProjectInfo
     CreatedDateTime="2017-10-31T06:53:14.4092194Z"
     Modifier="admin"
-    ModifiedDateTime="2017-11-01T08:23:10.2888065Z"
-    RelationID="43739410bb3bdaa77399dc0ddf1660a2">
+    ModifiedDateTime="2017-11-01T08:23:24.3494315Z"
+    RelationID="428ca329fea347e1a0505168bd8f4c63">
     <KindType>Common</KindType>
     <ProjectType>Library</ProjectType>
     <Name>Ntreev.Crema.Presentation</Name>
     <ProjectPath>common/Ntreev.Crema.Presentation/Ntreev.Crema.Presentation.csproj</ProjectPath>
     <ExportInfo
       CreatedDateTime="2017-10-31T06:53:14.4162251Z"
-      ModifiedDateTime="2017-10-31T06:53:14.4162251Z">
+      Modifier="admin"
+      ModifiedDateTime="2017-11-01T08:23:24.3494315Z">
       <ID>5</ID>
       <FileName />
       <TableName>CommonPresentation</TableName>
@@ -81,15 +85,16 @@
   <ProjectInfo
     CreatedDateTime="2017-10-31T06:53:14.4092194Z"
     Modifier="admin"
-    ModifiedDateTime="2017-11-01T08:23:10.6682075Z"
-    RelationID="87ec3c57e41e0c1e70b5df0fc86b0b47">
+    ModifiedDateTime="2017-11-01T08:23:24.3494315Z"
+    RelationID="0be414facb2c5e43ee76a909bfff3ae6">
     <KindType>SubModule</KindType>
     <ProjectType>Library</ProjectType>
     <Name>Ntreev.ModernUI.Framework</Name>
     <ProjectPath>sub-modules/Ntreev.ModernUI.Framework/Ntreev.ModernUI.Framework/Ntreev.ModernUI.Framework.csproj</ProjectPath>
     <ExportInfo
       CreatedDateTime="2017-10-31T06:53:14.4162251Z"
-      ModifiedDateTime="2017-10-31T06:53:14.4162251Z">
+      Modifier="admin"
+      ModifiedDateTime="2017-11-01T08:23:24.3494315Z">
       <ID>0</ID>
       <FileName />
       <TableName>ModernUIFramework</TableName>
@@ -98,15 +103,16 @@
   <ProjectInfo
     CreatedDateTime="2017-10-31T06:53:14.4092194Z"
     Modifier="admin"
-    ModifiedDateTime="2017-11-01T08:23:11.1830084Z"
-    RelationID="d033476fdf69a1f39f78e8a9e9006262">
+    ModifiedDateTime="2017-11-01T08:23:24.3494315Z"
+    RelationID="f9b4fbf403945fc41e028283ad40d269">
     <KindType>Client</KindType>
     <ProjectType>Library</ProjectType>
     <Name>Ntreev.Crema.Client.Converters</Name>
     <ProjectPath>client/Ntreev.Crema.Client.Converters/Ntreev.Crema.Client.Converters.csproj</ProjectPath>
     <ExportInfo
       CreatedDateTime="2017-10-31T06:53:14.4162251Z"
-      ModifiedDateTime="2017-10-31T06:53:14.4162251Z">
+      Modifier="admin"
+      ModifiedDateTime="2017-11-01T08:23:24.3494315Z">
       <ID>3</ID>
       <FileName />
       <TableName>ClientConverters</TableName>
@@ -115,15 +121,16 @@
   <ProjectInfo
     CreatedDateTime="2017-10-31T06:53:14.4092194Z"
     Modifier="admin"
-    ModifiedDateTime="2017-11-01T08:23:11.6354092Z"
-    RelationID="7db47cc536bb01b0be5d91233da11ea1">
+    ModifiedDateTime="2017-11-01T08:23:24.3494315Z"
+    RelationID="0a934bc15cada78ddeb879533d760798">
     <KindType>Client</KindType>
     <ProjectType>Library</ProjectType>
     <Name>Ntreev.Crema.Client.Types</Name>
     <ProjectPath>client/Ntreev.Crema.Client.Types/Ntreev.Crema.Client.Types.csproj</ProjectPath>
     <ExportInfo
       CreatedDateTime="2017-10-31T06:53:14.4162251Z"
-      ModifiedDateTime="2017-10-31T06:53:14.4162251Z">
+      Modifier="admin"
+      ModifiedDateTime="2017-11-01T08:23:24.3494315Z">
       <ID>6</ID>
       <FileName />
       <TableName>ClientTypes</TableName>
@@ -132,15 +139,16 @@
   <ProjectInfo
     CreatedDateTime="2017-10-31T06:53:14.4092194Z"
     Modifier="admin"
-    ModifiedDateTime="2017-11-01T08:23:12.1346101Z"
-    RelationID="e6d11746991707aed6074138a306d52f">
+    ModifiedDateTime="2017-11-01T08:23:24.3494315Z"
+    RelationID="2734b8cfd24dbc1c4cbcc18d3fd402fb">
     <KindType>Client</KindType>
     <ProjectType>Library</ProjectType>
     <Name>Ntreev.Crema.Client.Framework</Name>
     <ProjectPath>client/Ntreev.Crema.Client.Framework/Ntreev.Crema.Client.Framework.csproj</ProjectPath>
     <ExportInfo
       CreatedDateTime="2017-10-31T06:53:14.4162251Z"
-      ModifiedDateTime="2017-10-31T06:53:14.4162251Z">
+      Modifier="admin"
+      ModifiedDateTime="2017-11-01T08:23:24.3494315Z">
       <ID>7</ID>
       <FileName />
       <TableName>ClientFramework</TableName>
@@ -150,8 +158,8 @@
     Creator="admin"
     CreatedDateTime="2017-10-31T23:56:07.2660169Z"
     Modifier="admin"
-    ModifiedDateTime="2017-11-01T08:23:12.665011Z"
-    RelationID="e6e45179544e5a3dce1d8cf66c9f3ca1">
+    ModifiedDateTime="2017-11-01T08:23:24.3494315Z"
+    RelationID="ef17faf8b3476143b61de6c27549dcaf">
     <KindType>Client</KindType>
     <ProjectType>Library</ProjectType>
     <Name>Ntreev.Crema.Client.Console</Name>
@@ -160,7 +168,7 @@
       Creator="admin"
       CreatedDateTime="2017-10-31T23:56:16.0488323Z"
       Modifier="admin"
-      ModifiedDateTime="2017-10-31T23:56:16.0488323Z">
+      ModifiedDateTime="2017-11-01T08:23:24.3494315Z">
       <ID>8</ID>
       <FileName />
       <TableName>ClientConsole</TableName>
@@ -170,8 +178,8 @@
     Creator="admin"
     CreatedDateTime="2017-11-01T00:02:04.3818441Z"
     Modifier="admin"
-    ModifiedDateTime="2017-11-01T08:23:13.3202121Z"
-    RelationID="11bf5e7007cab6e9d8966a78b25686a2">
+    ModifiedDateTime="2017-11-01T08:23:24.3494315Z"
+    RelationID="37042365abfe9182b5e576b463c8e3be">
     <KindType>Client</KindType>
     <ProjectType>Library</ProjectType>
     <Name>Ntreev.Crema.Client.Differences</Name>
@@ -180,7 +188,7 @@
       Creator="admin"
       CreatedDateTime="2017-11-01T00:02:12.0102575Z"
       Modifier="admin"
-      ModifiedDateTime="2017-11-01T00:02:12.0102575Z">
+      ModifiedDateTime="2017-11-01T08:23:24.3494315Z">
       <ID>9</ID>
       <FileName />
       <TableName>ClientDifferences</TableName>
@@ -190,8 +198,8 @@
     Creator="admin"
     CreatedDateTime="2017-11-01T08:16:40.0885196Z"
     Modifier="admin"
-    ModifiedDateTime="2017-11-01T08:23:17.0330187Z"
-    RelationID="b64fa04d19c6a7a4431370871eba9675">
+    ModifiedDateTime="2017-11-01T08:23:24.3494315Z"
+    RelationID="56076ca6bf50315d854ae1652cd30339">
     <KindType>Client</KindType>
     <ProjectType>Executable</ProjectType>
     <Name>Ntreev.Crema.ApplicationHost</Name>
