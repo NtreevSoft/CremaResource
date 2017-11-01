@@ -3,8 +3,8 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientDifferences ../Templates/StringTable.xsd"
   StringTable.Modifier="admin"
-  StringTable.ModifiedDateTime="2017-11-01T01:42:22.8880151Z"
-  StringTable.Count="22"
+  StringTable.ModifiedDateTime="2017-11-01T07:51:52.0132988Z"
+  StringTable.Count="23"
   StringTable.ID="867b99c7-414f-4ca7-90a1-8c5ac83b0518" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="admin"
@@ -188,16 +188,6 @@
   </StringTable>
   <StringTable
     Creator="admin"
-    CreatedDateTime="2017-11-01T01:32:42.145795Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-11-01T01:42:22.8880151Z">
-    <Type>MenuItem</Type>
-    <Name>CompareWithPreviousResivision</Name>
-    <Value>Compare With Previous Resivision...</Value>
-    <ko_KR>이전 리비전과 비교하기...</ko_KR>
-  </StringTable>
-  <StringTable
-    Creator="admin"
     CreatedDateTime="2017-11-01T01:33:07.9950404Z"
     Modifier="admin"
     ModifiedDateTime="2017-11-01T01:34:21.8455701Z">
@@ -225,5 +215,25 @@
     <Name>TypeInfo</Name>
     <Value>Type Information</Value>
     <ko_KR>타입 정보</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T01:32:42.145795Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T07:51:52.0132988Z">
+    <Type>MenuItem</Type>
+    <Name>CompareWithPreviousResivision</Name>
+    <Value>Compare With Previous Resivision...</Value>
+    <ko_KR>이전 리비전과 비교하기...</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T07:51:24.1954498Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T07:51:32.6360647Z">
+    <Type>MenuItem</Type>
+    <Name>CompareWithRecentRevision</Name>
+    <Value>Compare With Recent Revision...</Value>
+    <ko_KR>최근 리비전과 비교하기...</ko_KR>
   </StringTable>
 </Content>
