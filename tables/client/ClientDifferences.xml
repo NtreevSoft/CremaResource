@@ -2,4 +2,18 @@
 <Content
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientDifferences ../Templates/StringTable.xsd"
-  StringTable.ID="867b99c7-414f-4ca7-90a1-8c5ac83b0518" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable" />
+  StringTable.Modifier="admin"
+  StringTable.ModifiedDateTime="2017-11-01T00:01:38.4701986Z"
+  StringTable.Count="1"
+  StringTable.ID="867b99c7-414f-4ca7-90a1-8c5ac83b0518" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-01T00:01:28.6733814Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T00:01:38.4701986Z">
+    <Type>Title</Type>
+    <Name>Difference</Name>
+    <Value>Difference</Value>
+    <ko_KR>비교</ko_KR>
+  </StringTable>
+</Content>
