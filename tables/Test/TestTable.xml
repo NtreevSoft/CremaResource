@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Content
+  Version="3.5"
+  xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/Test/TestTable TestTable.xsd"
+  TestTable.ID="dad7bbc9-8072-4fae-ade5-aa154dc90bf1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Test/TestTable" />
