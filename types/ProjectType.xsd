@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<xs:schema xmlns:t="http://schemas.ntreev.com/crema/types/LibraryType" xmlns="http://schemas.ntreev.com/crema/types/LibraryType" elementFormDefault="qualified" targetNamespace="http://schemas.ntreev.com/crema/types/LibraryType" version="3.5" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-  <xs:simpleType name="LibraryType">
+<xs:schema xmlns:t="http://schemas.ntreev.com/crema/types/ProjectType" xmlns="http://schemas.ntreev.com/crema/types/ProjectType" elementFormDefault="qualified" targetNamespace="http://schemas.ntreev.com/crema/types/ProjectType" version="3.5" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:simpleType name="ProjectType">
     <xs:annotation>
       <xs:appinfo>
         <TypeInfo Creator="admin" />
