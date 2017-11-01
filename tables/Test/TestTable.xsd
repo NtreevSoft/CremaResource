@@ -9,7 +9,7 @@
     <xs:annotation>
       <xs:appinfo>
         <TableInfo Modifier="admin" />
-        <TableInfo ModifiedDateTime="2017-11-01T02:38:09.3434928Z" />
+        <TableInfo ModifiedDateTime="2017-11-01T04:10:41.2216441Z" />
         <TableInfo ID="dad7bbc9-8072-4fae-ade5-aa154dc90bf1" />
         <TableInfo CategoryPath="/Test/" />
       </xs:appinfo>
@@ -46,6 +46,17 @@
             <ColumnInfo Modifier="admin" />
             <ColumnInfo ModifiedDateTime="2017-11-01T02:38:09.3434928Z" />
             <ColumnInfo ID="3cb52d1b-82ae-44b3-9fc0-b21495ad0b87" />
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:element>
+      <xs:element minOccurs="0" name="TimePicker" type="xs:duration">
+        <xs:annotation>
+          <xs:appinfo>
+            <ColumnInfo Creator="admin" />
+            <ColumnInfo CreatedDateTime="2017-11-01T04:10:41.2216441Z" />
+            <ColumnInfo Modifier="admin" />
+            <ColumnInfo ModifiedDateTime="2017-11-01T04:10:41.2216441Z" />
+            <ColumnInfo ID="5491e847-49a2-47bf-bf6a-291249355fcc" />
           </xs:appinfo>
         </xs:annotation>
       </xs:element>
