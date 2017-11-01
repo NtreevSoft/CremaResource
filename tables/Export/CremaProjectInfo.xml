@@ -3,7 +3,7 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/Export/CremaProjectInfo ../Templates/ProjectInfo.xsd"
   ProjectInfo.Modifier="admin"
-  ProjectInfo.ModifiedDateTime="2017-11-01T08:33:19.5674812Z"
+  ProjectInfo.ModifiedDateTime="2017-11-01T08:33:26.5406935Z"
   ProjectInfo.Count="11"
   ProjectInfo.ID="dea31cbb-0fbd-40b7-9e09-bf11038a3aca"
   ProjectInfo.ExportInfo.Modifier="admin"
@@ -13,12 +13,12 @@
   <ProjectInfo
     CreatedDateTime="2017-10-31T06:53:14.4082187Z"
     Modifier="admin"
-    ModifiedDateTime="2017-11-01T08:33:19.5674812Z"
+    ModifiedDateTime="2017-11-01T08:33:26.5406935Z"
     RelationID="3690c9391151acd7057703cafb821469">
     <KindType>Client</KindType>
     <ProjectType>Library</ProjectType>
     <Name>Ntreev.Crema.Client.SmartSet</Name>
-    <ProjectPath>client/Ntreev.Crema.Client.SmartSet/Ntreev.Crema.Client.SmartSet.csproj1</ProjectPath>
+    <ProjectPath>client/Ntreev.Crema.Client.SmartSet/Ntreev.Crema.Client.SmartSet.csproj</ProjectPath>
     <ExportInfo
       CreatedDateTime="2017-10-31T06:53:14.4142228Z"
       Modifier="admin"
