@@ -8,8 +8,6 @@
   <xs:complexType name="TestTable.Table">
     <xs:annotation>
       <xs:appinfo>
-        <TableInfo Creator="admin" />
-        <TableInfo CreatedDateTime="2017-11-01T02:37:33.3698296Z" />
         <TableInfo Modifier="admin" />
         <TableInfo ModifiedDateTime="2017-11-01T02:38:09.3434928Z" />
         <TableInfo ID="dad7bbc9-8072-4fae-ade5-aa154dc90bf1" />
