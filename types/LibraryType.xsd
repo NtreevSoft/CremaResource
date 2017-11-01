@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:t="http://schemas.ntreev.com/crema/types/LibraryType" xmlns="http://schemas.ntreev.com/crema/types/LibraryType" elementFormDefault="qualified" targetNamespace="http://schemas.ntreev.com/crema/types/LibraryType" version="3.5" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:simpleType name="LibraryType">
+    <xs:annotation>
+      <xs:appinfo>
+        <TypeInfo Creator="admin" />
+        <TypeInfo CreatedDateTime="2017-11-01T08:18:26.0519062Z" />
+        <TypeInfo Modifier="admin" />
+        <TypeInfo ModifiedDateTime="2017-11-01T08:19:07.6133794Z" />
+        <TypeInfo ID="d2ca88ae-62b4-496f-809c-df8e785751c0" />
+      </xs:appinfo>
+    </xs:annotation>
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Library">
+        <xs:annotation>
+          <xs:appinfo>
+            <TypeInfo Creator="admin" />
+            <TypeInfo CreatedDateTime="2017-11-01T08:19:07.6133794Z" />
+            <TypeInfo Modifier="admin" />
+            <TypeInfo ModifiedDateTime="2017-11-01T08:19:07.6133794Z" />
+            <TypeInfo ID="12dd8dd9-1e29-40de-819d-3f2a6494759f" />
+            <TypeInfo Enable="true" />
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:enumeration>
+    </xs:restriction>
+  </xs:simpleType>
+</xs:schema>
