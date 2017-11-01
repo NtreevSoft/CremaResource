@@ -3,7 +3,7 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/Export/CremaProjectInfo ../Templates/ProjectInfo.xsd"
   ProjectInfo.Modifier="admin"
-  ProjectInfo.ModifiedDateTime="2017-11-01T08:16:40.0885196Z"
+  ProjectInfo.ModifiedDateTime="2017-11-01T08:19:56.5868657Z"
   ProjectInfo.Count="11"
   ProjectInfo.ID="dea31cbb-0fbd-40b7-9e09-bf11038a3aca"
   ProjectInfo.ExportInfo.Modifier="admin"
@@ -172,9 +172,9 @@
     Creator="admin"
     CreatedDateTime="2017-11-01T08:16:40.0885196Z"
     Modifier="admin"
-    ModifiedDateTime="2017-11-01T08:16:40.0885196Z"
-    RelationID="2da06f6db7abcadc65e166d60b3a1483">
-    <ProjectType>Executable</ProjectType>
+    ModifiedDateTime="2017-11-01T08:19:56.5868657Z"
+    RelationID="b64fa04d19c6a7a4431370871eba9675">
+    <ProjectType>Client</ProjectType>
     <Name>Ntreev.Crema.ApplicationHost</Name>
     <ProjectPath>client/Ntreev.Crema.Ntreev.Crema.ApplicationHost/Ntreev.Crema.ApplicationHost.csproj</ProjectPath>
   </ProjectInfo>
