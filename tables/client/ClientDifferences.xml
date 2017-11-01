@@ -3,8 +3,8 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientDifferences ../Templates/StringTable.xsd"
   StringTable.Modifier="admin"
-  StringTable.ModifiedDateTime="2017-11-01T07:54:45.0160035Z"
-  StringTable.Count="24"
+  StringTable.ModifiedDateTime="2017-11-01T07:58:20.3605835Z"
+  StringTable.Count="23"
   StringTable.ID="867b99c7-414f-4ca7-90a1-8c5ac83b0518" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="admin"
@@ -230,18 +230,10 @@
     Creator="admin"
     CreatedDateTime="2017-11-01T07:51:24.1954498Z"
     Modifier="admin"
-    ModifiedDateTime="2017-11-01T07:51:32.6360647Z">
+    ModifiedDateTime="2017-11-01T07:58:20.3605835Z">
     <Type>MenuItem</Type>
-    <Name>CompareWithRecentRevision</Name>
-    <Value>Compare With Recent Revision...</Value>
+    <Name>CompareWithLatestRevision</Name>
+    <Value>Compare With Latest Revision...</Value>
     <ko_KR>최근 리비전과 비교하기...</ko_KR>
-  </StringTable>
-  <StringTable
-    Creator="admin"
-    CreatedDateTime="2017-11-01T07:54:45.0160035Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-11-01T07:54:45.0160035Z">
-    <Type>MenuItem</Type>
-    <Name>ShowChanges</Name>
   </StringTable>
 </Content>
