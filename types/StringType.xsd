@@ -6,7 +6,7 @@
         <TypeInfo Creator="admin" />
         <TypeInfo CreatedDateTime="2017-10-23T06:51:02.1407151Z" />
         <TypeInfo Modifier="admin" />
-        <TypeInfo ModifiedDateTime="2017-10-25T07:54:19.7516124Z" />
+        <TypeInfo ModifiedDateTime="2017-11-01T07:27:01.0102731Z" />
         <TypeInfo ID="c8fb7d8f-07c9-49ae-bd2d-9911baf326ae" />
       </xs:appinfo>
     </xs:annotation>
@@ -136,6 +136,19 @@
             <TypeInfo Modifier="admin" />
             <TypeInfo ModifiedDateTime="2017-10-25T07:54:19.7516124Z" />
             <TypeInfo ID="80223c14-5813-43e2-af57-64f586a7d950" />
+            <TypeInfo Enable="true" />
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="Summary">
+        <xs:annotation>
+          <xs:appinfo>
+            <TypeInfo Value="10" />
+            <TypeInfo Creator="admin" />
+            <TypeInfo CreatedDateTime="2017-11-01T07:27:01.0102731Z" />
+            <TypeInfo Modifier="admin" />
+            <TypeInfo ModifiedDateTime="2017-11-01T07:27:01.0102731Z" />
+            <TypeInfo ID="47eb2c68-3c36-4bf6-806b-e053e7983edf" />
             <TypeInfo Enable="true" />
           </xs:appinfo>
         </xs:annotation>
