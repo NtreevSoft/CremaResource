@@ -3,7 +3,7 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/Templates/ProjectInfo ProjectInfo.xsd"
   ProjectInfo.Modifier="admin"
-  ProjectInfo.ModifiedDateTime="2017-10-31T23:53:46.2885692Z"
+  ProjectInfo.ModifiedDateTime="2017-11-01T08:22:24.7493264Z"
   ProjectInfo.Count="7"
   ProjectInfo.ID="dea31cbb-0fbd-40b7-9e09-bf11038a3aca"
   ProjectInfo.ExportInfo.Modifier="admin"
@@ -12,9 +12,10 @@
   ProjectInfo.ExportInfo.ID="a9ca9738-2c3f-41a3-b380-98987977e42e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/ProjectInfo">
   <ProjectInfo
     CreatedDateTime="2017-10-31T06:53:14.4202267Z"
-    ModifiedDateTime="2017-10-31T06:53:14.4202267Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T08:22:24.7493264Z"
     RelationID="415f7e9d783caab07d757277ad1004f5">
-    <ProjectType>Client</ProjectType>
+    <KindType>Client</KindType>
     <Name>Ntreev.Crema.Client.SmartSet</Name>
     <ProjectPath>client/Ntreev.Crema.Client.SmartSet/Ntreev.Crema.Client.SmartSet.csproj</ProjectPath>
     <ExportInfo
@@ -27,9 +28,10 @@
   </ProjectInfo>
   <ProjectInfo
     CreatedDateTime="2017-10-31T06:53:14.4202267Z"
-    ModifiedDateTime="2017-10-31T06:53:14.4202267Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T08:22:24.7493264Z"
     RelationID="12335022f6c40f80a1d60fed1216fee2">
-    <ProjectType>Client</ProjectType>
+    <KindType>Client</KindType>
     <Name>Ntreev.Crema.Client.Common</Name>
     <ProjectPath>client/Ntreev.Crema.Client.Common/Ntreev.Crema.Client.Common.csproj</ProjectPath>
     <ExportInfo
@@ -42,25 +44,28 @@
   </ProjectInfo>
   <ProjectInfo
     CreatedDateTime="2017-10-31T06:53:14.4212452Z"
-    ModifiedDateTime="2017-10-31T06:53:14.4212452Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T08:22:24.7493264Z"
     RelationID="e9bf26bd43c00da6d59b2991e893384e">
-    <ProjectType>Client</ProjectType>
+    <KindType>Client</KindType>
     <Name>Ntreev.Crema.Client.Tables</Name>
     <ProjectPath>client/Ntreev.Crema.Client.Tables/Ntreev.Crema.Client.Tables.csproj</ProjectPath>
   </ProjectInfo>
   <ProjectInfo
     CreatedDateTime="2017-10-31T06:53:14.4212452Z"
-    ModifiedDateTime="2017-10-31T06:53:14.4212452Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T08:22:24.7493264Z"
     RelationID="43739410bb3bdaa77399dc0ddf1660a2">
-    <ProjectType>Common</ProjectType>
+    <KindType>Common</KindType>
     <Name>Ntreev.Crema.Presentation</Name>
     <ProjectPath>common/Ntreev.Crema.Presentation/Ntreev.Crema.Presentation.csproj</ProjectPath>
   </ProjectInfo>
   <ProjectInfo
     CreatedDateTime="2017-10-31T06:53:14.4212452Z"
-    ModifiedDateTime="2017-10-31T06:53:14.4212452Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T08:22:24.7493264Z"
     RelationID="87ec3c57e41e0c1e70b5df0fc86b0b47">
-    <ProjectType>SubModule</ProjectType>
+    <KindType>SubModule</KindType>
     <Name>Ntreev.ModernUI.Framework</Name>
     <ProjectPath>sub-modules/Ntreev.ModernUI.Framework/Ntreev.ModernUI.Framework/Ntreev.ModernUI.Framework.csproj</ProjectPath>
     <ExportInfo
@@ -73,9 +78,10 @@
   </ProjectInfo>
   <ProjectInfo
     CreatedDateTime="2017-10-31T06:53:14.4212452Z"
-    ModifiedDateTime="2017-10-31T06:53:14.4212452Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-01T08:22:24.7493264Z"
     RelationID="d033476fdf69a1f39f78e8a9e9006262">
-    <ProjectType>Client</ProjectType>
+    <KindType>Client</KindType>
     <Name>Ntreev.Crema.Client.Converters</Name>
     <ProjectPath>client/Ntreev.Crema.Client.Converters/Ntreev.Crema.Client.Converters.csproj</ProjectPath>
     <ExportInfo
@@ -90,9 +96,9 @@
     Creator="admin"
     CreatedDateTime="2017-10-31T23:53:46.2885692Z"
     Modifier="admin"
-    ModifiedDateTime="2017-10-31T23:53:46.2885692Z"
+    ModifiedDateTime="2017-11-01T08:22:24.7493264Z"
     RelationID="e6e45179544e5a3dce1d8cf66c9f3ca1">
-    <ProjectType>Client</ProjectType>
+    <KindType>Client</KindType>
     <Name>Ntreev.Crema.Client.Console</Name>
     <ProjectPath>client/Ntreev.Crema.Client.Console/Ntreev.Crema.Client.Console.csproj</ProjectPath>
     <ExportInfo

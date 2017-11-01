@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <xs:schema xmlns:t="http://schemas.ntreev.com/crema/tables/Templates/ProjectInfo" xmlns="http://schemas.ntreev.com/crema/tables/Templates/ProjectInfo" elementFormDefault="qualified" targetNamespace="http://schemas.ntreev.com/crema/tables/Templates/ProjectInfo" version="3.5" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:import schemaLocation="../../types/KindType.xsd" namespace="http://schemas.ntreev.com/crema/types/KindType" />
+  <xs:import schemaLocation="../../types/ProjectType.xsd" namespace="http://schemas.ntreev.com/crema/types/ProjectType" />
   <xs:simpleType name="guid">
     <xs:restriction base="xs:string">
       <xs:pattern value="([0-9a-fA-F]){8}-([0-9a-fA-F]){4}-([0-9a-fA-F]){4}-([0-9a-fA-F]){4}-([0-9a-fA-F]){12}" />
@@ -62,20 +63,31 @@
     <xs:annotation>
       <xs:appinfo>
         <TableInfo Modifier="admin" />
-        <TableInfo ModifiedDateTime="2017-10-26T08:06:01.8181991Z" />
+        <TableInfo ModifiedDateTime="2017-11-01T08:22:24.7493264Z" />
         <TableInfo ID="dea31cbb-0fbd-40b7-9e09-bf11038a3aca" />
         <TableInfo CategoryPath="/Templates/" />
       </xs:appinfo>
     </xs:annotation>
     <xs:sequence>
-      <xs:element name="ProjectType" xmlns:q1="http://schemas.ntreev.com/crema/types/KindType" type="q1:KindType">
+      <xs:element name="KindType" xmlns:q1="http://schemas.ntreev.com/crema/types/KindType" type="q1:KindType">
         <xs:annotation>
           <xs:appinfo>
             <ColumnInfo Creator="admin" />
             <ColumnInfo CreatedDateTime="2017-10-25T08:40:56.9613255Z" />
             <ColumnInfo Modifier="admin" />
-            <ColumnInfo ModifiedDateTime="2017-10-25T08:42:23.9002782Z" />
+            <ColumnInfo ModifiedDateTime="2017-11-01T08:22:11.472703Z" />
             <ColumnInfo ID="53fd6271-0121-4f55-be26-7a47e64beebd" />
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:element>
+      <xs:element minOccurs="0" name="ProjectType" xmlns:q2="http://schemas.ntreev.com/crema/types/ProjectType" type="q2:ProjectType">
+        <xs:annotation>
+          <xs:appinfo>
+            <ColumnInfo Creator="admin" />
+            <ColumnInfo CreatedDateTime="2017-11-01T08:22:24.7337264Z" />
+            <ColumnInfo Modifier="admin" />
+            <ColumnInfo ModifiedDateTime="2017-11-01T08:22:28.3373327Z" />
+            <ColumnInfo ID="5c395fed-1fa0-4b1b-bca6-ac53fec0c950" />
           </xs:appinfo>
         </xs:annotation>
       </xs:element>
@@ -142,7 +154,7 @@
     </xs:complexType>
     <xs:key name="ProjectInfo.Key">
       <xs:selector xpath="t:ProjectInfo" />
-      <xs:field xpath="t:ProjectType" />
+      <xs:field xpath="t:KindType" />
       <xs:field xpath="t:Name" />
     </xs:key>
     <xs:key name="ProjectInfo.ExportInfo.Key">
