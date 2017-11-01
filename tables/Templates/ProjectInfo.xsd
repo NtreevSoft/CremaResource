@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <xs:schema xmlns:t="http://schemas.ntreev.com/crema/tables/Templates/ProjectInfo" xmlns="http://schemas.ntreev.com/crema/tables/Templates/ProjectInfo" elementFormDefault="qualified" targetNamespace="http://schemas.ntreev.com/crema/tables/Templates/ProjectInfo" version="3.5" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-  <xs:import schemaLocation="../../types/ProjectType.xsd" namespace="http://schemas.ntreev.com/crema/types/ProjectType" />
+  <xs:import schemaLocation="../../types/KindType.xsd" namespace="http://schemas.ntreev.com/crema/types/KindType" />
   <xs:simpleType name="guid">
     <xs:restriction base="xs:string">
       <xs:pattern value="([0-9a-fA-F]){8}-([0-9a-fA-F]){4}-([0-9a-fA-F]){4}-([0-9a-fA-F]){4}-([0-9a-fA-F]){12}" />
@@ -68,7 +68,7 @@
       </xs:appinfo>
     </xs:annotation>
     <xs:sequence>
-      <xs:element name="ProjectType" xmlns:q1="http://schemas.ntreev.com/crema/types/ProjectType" type="q1:ProjectType">
+      <xs:element name="ProjectType" xmlns:q1="http://schemas.ntreev.com/crema/types/KindType" type="q1:KindType">
         <xs:annotation>
           <xs:appinfo>
             <ColumnInfo Creator="admin" />
