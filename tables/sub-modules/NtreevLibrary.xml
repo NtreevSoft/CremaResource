@@ -2,4 +2,168 @@
 <Content
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/sub-modules/NtreevLibrary ../Templates/StringTable.xsd"
-  StringTable.ID="9dc4a8e9-25e1-4529-9244-fcecc4d9c031" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable" />
+  StringTable.Modifier="admin"
+  StringTable.ModifiedDateTime="2017-11-07T00:30:25.165936Z"
+  StringTable.Count="16"
+  StringTable.ID="9dc4a8e9-25e1-4529-9244-fcecc4d9c031" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-06T23:48:25.3943089Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-07T00:20:09.894855Z">
+    <Type>Exception</Type>
+    <Name>AlreadyRegisteredProperty_Format</Name>
+    <Value>Property '{0}' is already registered.</Value>
+    <ko_KR>'{0}' 속성은 이미 등록되어 있습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-06T23:49:46.6412517Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-07T00:20:03.3584435Z">
+    <Type>Exception</Type>
+    <Name>NotFoundProperty_Format</Name>
+    <Value>Property '{0}' does not exist.</Value>
+    <ko_KR>'{0}' 속성은 존재하지 않습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-06T23:52:46.9795686Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-07T00:19:51.720823Z">
+    <Type>Exception</Type>
+    <Name>InvalidPropertyType_Format</Name>
+    <Value>Type '{0}' can not be used as property.</Value>
+    <ko_KR>'{0}' 속성은 사용할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-06T23:54:05.9157072Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-07T00:19:37.2283976Z">
+    <Type>Exception</Type>
+    <Name>UndefinedValue_Format</Name>
+    <Value>Value '{0}' is not defined.</Value>
+    <ko_KR>'{0}' 값은 정의되어 있지 않습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-06T23:58:06.5325299Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-06T23:58:37.827185Z">
+    <Type>Exception</Type>
+    <Name>NotFoundDirectory_Format</Name>
+    <Value>Path '{0}' could not be found.</Value>
+    <ko_KR>'{0}' 경로를 찾을 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-06T23:59:10.4312422Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-06T23:59:19.9160589Z">
+    <Type>Exception</Type>
+    <Name>NotIncludedParentPath</Name>
+    <Value>The path to the file does not include the parent path.</Value>
+    <ko_KR>파일 경로에 부모 경로가 포함되어 있지 않습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-07T00:00:05.5939392Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-07T00:00:15.5467566Z">
+    <Type>Exception</Type>
+    <Name>InvalidPath</Name>
+    <Value>Invalid path.</Value>
+    <ko_KR>잘못된 경로입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-07T00:21:58.1756452Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-07T00:22:50.8891378Z">
+    <Type>Exception</Type>
+    <Name>InvalidPath_Format</Name>
+    <Value>'{0}' is invalid path.</Value>
+    <ko_KR>'{0}' 은(는) 잘못된 경로입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-07T00:01:17.8532661Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-07T00:01:30.5984885Z">
+    <Type>Exception</Type>
+    <Name>CyclicDependency </Name>
+    <Value>Cyclic dependency found.</Value>
+    <ko_KR>주기적 종속성을 발견했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-07T00:18:11.1152463Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-07T00:19:25.512777Z">
+    <Type>Exception</Type>
+    <Name>NotSupportedType_Format</Name>
+    <Value>Type '{0} is not supported.</Value>
+    <ko_KR>'{0}' 타입은 지원되지 않습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-07T00:20:59.1295415Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-07T00:21:14.3083682Z">
+    <Type>Exception</Type>
+    <Name>Between0and1</Name>
+    <Value>Values between 0 and 1 must be used.</Value>
+    <ko_KR>0 과 1사이의 값을 사용해야 합니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-07T00:24:26.5339059Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-07T00:24:50.2459475Z">
+    <Type>Exception</Type>
+    <Name>InvalidName</Name>
+    <Value>Name can not include special characters \ / : * ? &lt; &gt; | etc.</Value>
+    <ko_KR>이름에 특수문자 \ / : * ? " &lt; &gt; | 등은 포함될 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-07T00:25:24.8156083Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-07T00:26:17.5447009Z">
+    <Type>Exception</Type>
+    <Name>AlreadyExistedItem_Format</Name>
+    <Value>Item '{0}' is already registered.</Value>
+    <ko_KR>'{0}' 항목은 이미 존재합니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-07T00:26:59.3995744Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-07T00:27:13.392799Z">
+    <Type>Exception</Type>
+    <Name>SameItemInParent</Name>
+    <Value>Item with same name exists in parent folder.</Value>
+    <ko_KR>부모 폴더에 이름이 같은 항목이 존재합니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-07T00:27:44.0780529Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-07T00:27:56.651675Z">
+    <Type>Exception</Type>
+    <Name>SameFolderInParent</Name>
+    <Value>Folder with same name exists in parent folder.</Value>
+    <ko_KR>부모 폴더에 이름이 같은 폴더가 존재합니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-07T00:28:15.5755083Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-07T00:30:25.165936Z">
+    <Type>Exception</Type>
+    <Name>NotFoundFolder_Format</Name>
+    <Value>Folder '{0}' could not be found.</Value>
+    <ko_KR>'{0}' 폴더를 찾을 수 없습니다.</ko_KR>
+  </StringTable>
+</Content>
