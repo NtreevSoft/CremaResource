@@ -3,7 +3,7 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/sub-modules/NtreevLibrary ../Templates/StringTable.xsd"
   StringTable.Modifier="admin"
-  StringTable.ModifiedDateTime="2017-11-07T00:47:18.2719159Z"
+  StringTable.ModifiedDateTime="2017-11-07T01:59:03.60648Z"
   StringTable.Count="17"
   StringTable.ID="9dc4a8e9-25e1-4529-9244-fcecc4d9c031" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
@@ -90,9 +90,9 @@
     Creator="admin"
     CreatedDateTime="2017-11-07T00:01:17.8532661Z"
     Modifier="admin"
-    ModifiedDateTime="2017-11-07T00:01:30.5984885Z">
+    ModifiedDateTime="2017-11-07T01:59:03.60648Z">
     <Type>Exception</Type>
-    <Name>CyclicDependency </Name>
+    <Name>CyclicDependency</Name>
     <Value>Cyclic dependency found.</Value>
     <ko_KR>주기적 종속성을 발견했습니다.</ko_KR>
   </StringTable>
