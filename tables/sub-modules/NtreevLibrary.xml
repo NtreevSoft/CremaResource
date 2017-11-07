@@ -3,8 +3,8 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/sub-modules/NtreevLibrary ../Templates/StringTable.xsd"
   StringTable.Modifier="admin"
-  StringTable.ModifiedDateTime="2017-11-07T00:30:25.165936Z"
-  StringTable.Count="16"
+  StringTable.ModifiedDateTime="2017-11-07T00:47:18.2719159Z"
+  StringTable.Count="17"
   StringTable.ID="9dc4a8e9-25e1-4529-9244-fcecc4d9c031" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="admin"
@@ -165,5 +165,15 @@
     <Name>NotFoundFolder_Format</Name>
     <Value>Folder '{0}' could not be found.</Value>
     <ko_KR>'{0}' 폴더를 찾을 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-07T00:47:00.5814848Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-07T00:47:18.2719159Z">
+    <Type>Exception</Type>
+    <Name>IndestructibleObject</Name>
+    <Value>Indestructible Object</Value>
+    <ko_KR>삭제할 수 없습니다.</ko_KR>
   </StringTable>
 </Content>
