@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Content
   Version="3.5"
-  xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/Templates/test StringTable.xsd"
+  xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/Templates/test1 StringTable.xsd"
   StringTable.ID="20d0797f-9f02-4ecd-b37b-5c03368f4ca3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable" />
