@@ -3,8 +3,8 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/sub-modules/NtreevLibrary ../Templates/StringTable.xsd"
   StringTable.Modifier="admin"
-  StringTable.ModifiedDateTime="2017-11-07T02:11:10.0579562Z"
-  StringTable.Count="22"
+  StringTable.ModifiedDateTime="2017-11-07T02:21:17.0610227Z"
+  StringTable.Count="25"
   StringTable.ID="9dc4a8e9-25e1-4529-9244-fcecc4d9c031" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="admin"
@@ -225,5 +225,35 @@
     <Name>InvalidName_Format</Name>
     <Value>'{0}' is invalid name</Value>
     <ko_KR>'{0}' 은(는) 잘못된 이름입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-07T02:15:32.313017Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-07T02:15:40.7214318Z">
+    <Type>Exception</Type>
+    <Name>ChildFolderCannotBeSetAsParent</Name>
+    <Value>Child folders in folders can not be set as parents.</Value>
+    <ko_KR>폴더의 하위 폴더는 부모로 설정할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-07T02:16:27.9427147Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-07T02:19:26.5494285Z">
+    <Type>Exception</Type>
+    <Name>UnnamedFolderCannotHaveParent</Name>
+    <Value>A folder without a name can not be set up by a parent folder.</Value>
+    <ko_KR>이름이 없는 폴더는 부모 폴더를 설정할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-07T02:20:42.4903619Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-07T02:21:17.0610227Z">
+    <Type>Exception</Type>
+    <Name>CannotBeSetItSelfAsParent</Name>
+    <Value>Unable to set self to parent folder.</Value>
+    <ko_KR>자기 자신을 부모 폴더로 설정할 수 없습니다.</ko_KR>
   </StringTable>
 </Content>
