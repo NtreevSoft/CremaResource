@@ -3,8 +3,8 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/sub-modules/NtreevLibrary ../Templates/StringTable.xsd"
   StringTable.Modifier="admin"
-  StringTable.ModifiedDateTime="2017-11-07T02:08:00.7662237Z"
-  StringTable.Count="20"
+  StringTable.ModifiedDateTime="2017-11-07T02:11:10.0579562Z"
+  StringTable.Count="22"
   StringTable.ID="9dc4a8e9-25e1-4529-9244-fcecc4d9c031" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="admin"
@@ -205,5 +205,25 @@
     <Name>NotFoundItem_Format</Name>
     <Value>Item '{0}' could not be found.</Value>
     <ko_KR>'{0}' 항목을 찾을 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-07T02:09:32.1989843Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-07T02:10:04.5690412Z">
+    <Type>Exception</Type>
+    <Name>UniqueObjectCannotRename</Name>
+    <Value>You can not rename objects whose unique name property is set.</Value>
+    <ko_KR>고유 이름 속성이 설정된 객체는 이름을 변경할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-07T02:10:45.8155136Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-07T02:11:10.0579562Z">
+    <Type>Exception</Type>
+    <Name>InvalidName_Format</Name>
+    <Value>'{0}' is invalid name</Value>
+    <ko_KR>'{0}' 은(는) 잘못된 이름입니다.</ko_KR>
   </StringTable>
 </Content>
