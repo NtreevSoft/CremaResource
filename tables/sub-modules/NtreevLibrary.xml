@@ -3,8 +3,8 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/sub-modules/NtreevLibrary ../Templates/StringTable.xsd"
   StringTable.Modifier="admin"
-  StringTable.ModifiedDateTime="2017-11-07T01:59:03.60648Z"
-  StringTable.Count="17"
+  StringTable.ModifiedDateTime="2017-11-07T02:05:08.8363216Z"
+  StringTable.Count="19"
   StringTable.ID="9dc4a8e9-25e1-4529-9244-fcecc4d9c031" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="admin"
@@ -120,7 +120,7 @@
     Creator="admin"
     CreatedDateTime="2017-11-07T00:24:26.5339059Z"
     Modifier="admin"
-    ModifiedDateTime="2017-11-07T00:24:50.2459475Z">
+    ModifiedDateTime="2017-11-07T02:03:52.5989877Z">
     <Type>Exception</Type>
     <Name>InvalidName</Name>
     <Value>Name can not include special characters \ / : * ? &lt; &gt; | etc.</Value>
@@ -175,5 +175,25 @@
     <Name>IndestructibleObject</Name>
     <Value>Indestructible Object</Value>
     <ko_KR>삭제할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-07T02:00:22.1068179Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-07T02:00:25.6480241Z">
+    <Type>Message</Type>
+    <Name>Completed</Name>
+    <Value>Completed.</Value>
+    <ko_KR>완료되었습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-07T02:04:45.3582803Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-07T02:05:08.8363216Z">
+    <Type>Exception</Type>
+    <Name>EmptyStringCannotBeUsedAsName</Name>
+    <Value>Empty string can not be used as a name.</Value>
+    <ko_KR>빈 문자열을 이름으로 사용할 수 없습니다.</ko_KR>
   </StringTable>
 </Content>
