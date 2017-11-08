@@ -3,8 +3,8 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/common/CommonServiceModel ../Templates/StringTable.xsd"
   StringTable.Modifier="admin"
-  StringTable.ModifiedDateTime="2017-11-08T02:44:57.853115Z"
-  StringTable.Count="8"
+  StringTable.ModifiedDateTime="2017-11-08T02:52:48.9155426Z"
+  StringTable.Count="12"
   StringTable.ID="418e3414-59d5-4a57-91ae-aa363608998e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="admin"
@@ -85,5 +85,43 @@
     <Name>UserNotFound_Format</Name>
     <Value>Could not find UserID "{0}".</Value>
     <ko_KR>"{0}" 사용자 아이디를 찾을 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-08T02:50:38.4193133Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T02:50:59.6987508Z">
+    <Type>Exception</Type>
+    <Name>AlreadyPublic</Name>
+    <Value>It is already set to public.</Value>
+    <ko_KR>이미 공개 사용으로 설정되어 있습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-08T02:51:11.242771Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T02:51:22.4747908Z">
+    <Type>Exception</Type>
+    <Name>AlreadyPrivate</Name>
+    <Value>It is already set to private.</Value>
+    <ko_KR>이미 개인 사용으로 설정되어 있습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-08T02:51:49.2600378Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T02:52:12.706879Z">
+    <Type>Exception</Type>
+    <Name>InvalidIDorPath</Name>
+    <Value>Invalid ID or invalid path.</Value>
+    <ko_KR>잘못된 아이디이거나 잘못된 경로입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-08T02:52:48.9155426Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-08T02:52:48.9155426Z">
+    <Type>Exception</Type>
+    <Name>CannotAddToPrivate</Name>
   </StringTable>
 </Content>
