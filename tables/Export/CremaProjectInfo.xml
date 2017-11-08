@@ -7,8 +7,8 @@
   ProjectInfo.Count="13"
   ProjectInfo.ID="dea31cbb-0fbd-40b7-9e09-bf11038a3aca"
   ProjectInfo.ExportInfo.Modifier="admin"
-  ProjectInfo.ExportInfo.ModifiedDateTime="2017-11-08T02:00:24.1686175Z"
-  ProjectInfo.ExportInfo.Count="13"
+  ProjectInfo.ExportInfo.ModifiedDateTime="2017-11-08T02:45:29.3807704Z"
+  ProjectInfo.ExportInfo.Count="14"
   ProjectInfo.ExportInfo.ID="a9ca9738-2c3f-41a3-b380-98987977e42e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/ProjectInfo">
   <ProjectInfo
     CreatedDateTime="2017-10-31T06:53:14.4082187Z"
@@ -252,6 +252,15 @@
       <ID>12</ID>
       <FileName>Properties/EventResources.resx</FileName>
       <TableName>CommonServiceModel_Event</TableName>
+    </ExportInfo>
+    <ExportInfo
+      Creator="admin"
+      CreatedDateTime="2017-11-08T02:45:29.3807704Z"
+      Modifier="admin"
+      ModifiedDateTime="2017-11-08T02:45:29.3807704Z">
+      <ID>13</ID>
+      <FileName />
+      <TableName>CommonServiceModel</TableName>
     </ExportInfo>
   </ProjectInfo>
 </Content>
