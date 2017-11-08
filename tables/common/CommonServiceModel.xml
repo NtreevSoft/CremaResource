@@ -3,17 +3,17 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/common/CommonServiceModel ../Templates/StringTable.xsd"
   StringTable.Modifier="admin"
-  StringTable.ModifiedDateTime="2017-11-08T04:25:50.0273479Z"
+  StringTable.ModifiedDateTime="2017-11-08T05:40:16.8845957Z"
   StringTable.Count="21"
   StringTable.ID="418e3414-59d5-4a57-91ae-aa363608998e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="admin"
     CreatedDateTime="2017-11-08T02:44:57.853115Z"
     Modifier="admin"
-    ModifiedDateTime="2017-11-08T02:44:57.853115Z">
+    ModifiedDateTime="2017-11-08T05:40:16.8845957Z">
     <Type>Exception</Type>
     <Name>CannotRename</Name>
-    <Value>Could not rename to same name</Value>
+    <Value>Could not rename to same name.</Value>
     <ko_KR>같은 이름으로 변경할 수 없습니다.</ko_KR>
   </StringTable>
   <StringTable
@@ -200,10 +200,10 @@
     Creator="admin"
     CreatedDateTime="2017-11-08T04:20:55.6996308Z"
     Modifier="admin"
-    ModifiedDateTime="2017-11-08T04:24:18.5019871Z">
+    ModifiedDateTime="2017-11-08T05:40:12.3917878Z">
     <Type>Exception</Type>
     <Name>CannotSetTemplateItself</Name>
-    <Value>Cannot to set itself as template</Value>
+    <Value>Cannot to set itself as template.</Value>
     <ko_KR>자기 자신을 템플릿으로 지정할 수 없습니다.</ko_KR>
   </StringTable>
   <StringTable
