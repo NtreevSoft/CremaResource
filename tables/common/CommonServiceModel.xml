@@ -3,7 +3,7 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/common/CommonServiceModel ../Templates/StringTable.xsd"
   StringTable.Modifier="admin"
-  StringTable.ModifiedDateTime="2017-11-08T02:52:48.9155426Z"
+  StringTable.ModifiedDateTime="2017-11-08T03:31:08.0499819Z"
   StringTable.Count="12"
   StringTable.ID="418e3414-59d5-4a57-91ae-aa363608998e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
@@ -120,8 +120,9 @@
     Creator="admin"
     CreatedDateTime="2017-11-08T02:52:48.9155426Z"
     Modifier="admin"
-    ModifiedDateTime="2017-11-08T02:52:48.9155426Z">
+    ModifiedDateTime="2017-11-08T03:31:08.0499819Z">
     <Type>Exception</Type>
     <Name>CannotAddToPrivate</Name>
+    <Value>1</Value>
   </StringTable>
 </Content>
