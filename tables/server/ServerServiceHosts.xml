@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Content
+  Version="3.5"
+  xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/server/ServerServiceHosts ../Templates/StringTable.xsd"
+  StringTable.ID="36ac8b33-93d6-4d96-a026-668e8ff22b73" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable" />
