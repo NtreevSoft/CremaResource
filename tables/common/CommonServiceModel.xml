@@ -2,9 +2,9 @@
 <Content
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/common/CommonServiceModel ../Templates/StringTable.xsd"
-  StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2017-11-08T06:23:25.1529429Z"
-  StringTable.Count="21"
+  StringTable.Modifier="admin"
+  StringTable.ModifiedDateTime="2017-11-09T01:29:01.7854038Z"
+  StringTable.Count="23"
   StringTable.ID="418e3414-59d5-4a57-91ae-aa363608998e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="admin"
@@ -215,5 +215,25 @@
     <Name>CannotSetTemplateItself</Name>
     <Value>Cannot to set itself as template.</Value>
     <ko_KR>자기 자신을 템플릿으로 지정할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-09T01:27:36.5780541Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-09T01:28:01.2260974Z">
+    <Type>Exception</Type>
+    <Name>RootFolderCannotRename</Name>
+    <Value>Root folder cannot rename.</Value>
+    <ko_KR>최상위 폴더는 이름을 변경할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-09T01:28:46.7781774Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-09T01:29:01.7854038Z">
+    <Type>Exception</Type>
+    <Name>RootFolderCannotMove</Name>
+    <Value>Root folder cannot move</Value>
+    <ko_KR>최상위 폴더는 이동할 수 없습니다.</ko_KR>
   </StringTable>
 </Content>
