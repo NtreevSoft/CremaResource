@@ -5,14 +5,14 @@
   Creator="admin"
   CreatedDateTime="2017-10-23T07:16:01.2646706Z"
   StringTable.Modifier="admin"
-  StringTable.ModifiedDateTime="2017-11-09T01:58:59.724992Z"
+  StringTable.ModifiedDateTime="2017-11-09T01:59:59.6948637Z"
   StringTable.Count="26"
   StringTable.ID="c0cab95d-e8db-454e-bfdd-db225b55d79e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="admin"
-    CreatedDateTime="2017-11-09T01:58:59.7209896Z"
+    CreatedDateTime="2017-11-09T01:59:59.6938634Z"
     Modifier="admin"
-    ModifiedDateTime="2017-11-09T01:58:59.7209896Z">
+    ModifiedDateTime="2017-11-09T01:59:59.6938634Z">
     <Type>Exception</Type>
     <Name>CannotRename</Name>
     <Value>Could not rename to same name.</Value>
@@ -20,9 +20,9 @@
   </StringTable>
   <StringTable
     Creator="admin"
-    CreatedDateTime="2017-11-09T01:58:59.7229913Z"
+    CreatedDateTime="2017-11-09T01:59:59.6938634Z"
     Modifier="admin"
-    ModifiedDateTime="2017-11-09T01:58:59.7229913Z">
+    ModifiedDateTime="2017-11-09T01:59:59.6938634Z">
     <Type>Exception</Type>
     <Name>CategoryNotFound_Format</Name>
     <Value>Could not find category path "{0}".</Value>
@@ -30,9 +30,9 @@
   </StringTable>
   <StringTable
     Creator="admin"
-    CreatedDateTime="2017-11-09T01:58:59.7229913Z"
+    CreatedDateTime="2017-11-09T01:59:59.6938634Z"
     Modifier="admin"
-    ModifiedDateTime="2017-11-09T01:58:59.7229913Z">
+    ModifiedDateTime="2017-11-09T01:59:59.6938634Z">
     <Type>Exception</Type>
     <Name>DataBaseNotFound_Format</Name>
     <Value>Could not find database "{0}".</Value>
@@ -40,9 +40,9 @@
   </StringTable>
   <StringTable
     Creator="admin"
-    CreatedDateTime="2017-11-09T01:58:59.7229913Z"
+    CreatedDateTime="2017-11-09T01:59:59.6938634Z"
     Modifier="admin"
-    ModifiedDateTime="2017-11-09T01:58:59.7229913Z">
+    ModifiedDateTime="2017-11-09T01:59:59.6938634Z">
     <Type>Exception</Type>
     <Name>DomainNotFound_Format</Name>
     <Value>Could not find domain ID "{0}".</Value>
@@ -50,9 +50,9 @@
   </StringTable>
   <StringTable
     Creator="admin"
-    CreatedDateTime="2017-11-09T01:58:59.7229913Z"
+    CreatedDateTime="2017-11-09T01:59:59.6938634Z"
     Modifier="admin"
-    ModifiedDateTime="2017-11-09T01:58:59.7229913Z">
+    ModifiedDateTime="2017-11-09T01:59:59.6938634Z">
     <Type>Exception</Type>
     <Name>ItemNotFound_Format</Name>
     <Value>Could not find item "{0}".</Value>
@@ -60,9 +60,9 @@
   </StringTable>
   <StringTable
     Creator="admin"
-    CreatedDateTime="2017-11-09T01:58:59.7229913Z"
+    CreatedDateTime="2017-11-09T01:59:59.6938634Z"
     Modifier="admin"
-    ModifiedDateTime="2017-11-09T01:58:59.7229913Z">
+    ModifiedDateTime="2017-11-09T01:59:59.6938634Z">
     <Type>Exception</Type>
     <Name>TableNotFound_Format</Name>
     <Value>Could not find table "{0}".</Value>
@@ -70,9 +70,9 @@
   </StringTable>
   <StringTable
     Creator="admin"
-    CreatedDateTime="2017-11-09T01:58:59.7229913Z"
+    CreatedDateTime="2017-11-09T01:59:59.6938634Z"
     Modifier="admin"
-    ModifiedDateTime="2017-11-09T01:58:59.7229913Z">
+    ModifiedDateTime="2017-11-09T01:59:59.6938634Z">
     <Type>Exception</Type>
     <Name>TypeNotFound_Format</Name>
     <Value>Could not find type "{0}".</Value>
@@ -80,9 +80,9 @@
   </StringTable>
   <StringTable
     Creator="admin"
-    CreatedDateTime="2017-11-09T01:58:59.7229913Z"
+    CreatedDateTime="2017-11-09T01:59:59.6938634Z"
     Modifier="admin"
-    ModifiedDateTime="2017-11-09T01:58:59.7229913Z">
+    ModifiedDateTime="2017-11-09T01:59:59.6938634Z">
     <Type>Exception</Type>
     <Name>UserNotFound_Format</Name>
     <Value>Could not find UserID "{0}".</Value>
@@ -90,9 +90,9 @@
   </StringTable>
   <StringTable
     Creator="admin"
-    CreatedDateTime="2017-11-09T01:58:59.7229913Z"
+    CreatedDateTime="2017-11-09T01:59:59.6938634Z"
     Modifier="admin"
-    ModifiedDateTime="2017-11-09T01:58:59.7229913Z">
+    ModifiedDateTime="2017-11-09T01:59:59.6938634Z">
     <Type>Exception</Type>
     <Name>AlreadyPublic</Name>
     <Value>It is already set to public.</Value>
@@ -100,9 +100,9 @@
   </StringTable>
   <StringTable
     Creator="admin"
-    CreatedDateTime="2017-11-09T01:58:59.7239913Z"
+    CreatedDateTime="2017-11-09T01:59:59.6938634Z"
     Modifier="admin"
-    ModifiedDateTime="2017-11-09T01:58:59.7239913Z">
+    ModifiedDateTime="2017-11-09T01:59:59.6938634Z">
     <Type>Exception</Type>
     <Name>AlreadyPrivate</Name>
     <Value>It is already set to private.</Value>
@@ -110,9 +110,9 @@
   </StringTable>
   <StringTable
     Creator="admin"
-    CreatedDateTime="2017-11-09T01:58:59.7239913Z"
+    CreatedDateTime="2017-11-09T01:59:59.6938634Z"
     Modifier="admin"
-    ModifiedDateTime="2017-11-09T01:58:59.7239913Z">
+    ModifiedDateTime="2017-11-09T01:59:59.6938634Z">
     <Type>Exception</Type>
     <Name>InvalidIDorPath</Name>
     <Value>Invalid ID or invalid path.</Value>
@@ -120,9 +120,9 @@
   </StringTable>
   <StringTable
     Creator="admin"
-    CreatedDateTime="2017-11-09T01:58:59.7239913Z"
+    CreatedDateTime="2017-11-09T01:59:59.6938634Z"
     Modifier="admin"
-    ModifiedDateTime="2017-11-09T01:58:59.7239913Z">
+    ModifiedDateTime="2017-11-09T01:59:59.6938634Z">
     <Type>Exception</Type>
     <Name>CannotAddToPublic</Name>
     <Value>Unable to add user because it is set to public.</Value>
@@ -130,9 +130,9 @@
   </StringTable>
   <StringTable
     Creator="admin"
-    CreatedDateTime="2017-11-09T01:58:59.7239913Z"
+    CreatedDateTime="2017-11-09T01:59:59.6938634Z"
     Modifier="admin"
-    ModifiedDateTime="2017-11-09T01:58:59.7239913Z">
+    ModifiedDateTime="2017-11-09T01:59:59.6938634Z">
     <Type>Exception</Type>
     <Name>CannotRemoveToPublic</Name>
     <Value>Unable to remove user because it is set to public.</Value>
@@ -140,9 +140,9 @@
   </StringTable>
   <StringTable
     Creator="admin"
-    CreatedDateTime="2017-11-09T01:58:59.7239913Z"
+    CreatedDateTime="2017-11-09T01:59:59.6938634Z"
     Modifier="admin"
-    ModifiedDateTime="2017-11-09T01:58:59.7239913Z">
+    ModifiedDateTime="2017-11-09T01:59:59.6938634Z">
     <Type>Exception</Type>
     <Name>AlreadyLocked</Name>
     <Value>It's already locked.</Value>
@@ -150,9 +150,9 @@
   </StringTable>
   <StringTable
     Creator="admin"
-    CreatedDateTime="2017-11-09T01:58:59.7239913Z"
+    CreatedDateTime="2017-11-09T01:59:59.6938634Z"
     Modifier="admin"
-    ModifiedDateTime="2017-11-09T01:58:59.7239913Z">
+    ModifiedDateTime="2017-11-09T01:59:59.6938634Z">
     <Type>Exception</Type>
     <Name>NotLocked</Name>
     <Value>It's not locked.</Value>
@@ -160,9 +160,9 @@
   </StringTable>
   <StringTable
     Creator="admin"
-    CreatedDateTime="2017-11-09T01:58:59.7239913Z"
+    CreatedDateTime="2017-11-09T01:59:59.6938634Z"
     Modifier="admin"
-    ModifiedDateTime="2017-11-09T01:58:59.7239913Z">
+    ModifiedDateTime="2017-11-09T01:59:59.6938634Z">
     <Type>Exception</Type>
     <Name>CannotMoveToSameFolder</Name>
     <Value>Cannot to move to the same folder.</Value>
@@ -170,9 +170,9 @@
   </StringTable>
   <StringTable
     Creator="admin"
-    CreatedDateTime="2017-11-09T01:58:59.7239913Z"
+    CreatedDateTime="2017-11-09T01:59:59.6948637Z"
     Modifier="admin"
-    ModifiedDateTime="2017-11-09T01:58:59.7239913Z">
+    ModifiedDateTime="2017-11-09T01:59:59.6948637Z">
     <Type>Exception</Type>
     <Name>InheritedChildCannotRename</Name>
     <Value>Inherited child table cannot rename.</Value>
@@ -180,9 +180,9 @@
   </StringTable>
   <StringTable
     Creator="admin"
-    CreatedDateTime="2017-11-09T01:58:59.7239913Z"
+    CreatedDateTime="2017-11-09T01:59:59.6948637Z"
     Modifier="admin"
-    ModifiedDateTime="2017-11-09T01:58:59.7239913Z">
+    ModifiedDateTime="2017-11-09T01:59:59.6948637Z">
     <Type>Exception</Type>
     <Name>InheritedChildCannotMove</Name>
     <Value>Inherited child table cannot move.</Value>
@@ -190,9 +190,9 @@
   </StringTable>
   <StringTable
     Creator="admin"
-    CreatedDateTime="2017-11-09T01:58:59.7239913Z"
+    CreatedDateTime="2017-11-09T01:59:59.6948637Z"
     Modifier="admin"
-    ModifiedDateTime="2017-11-09T01:58:59.7239913Z">
+    ModifiedDateTime="2017-11-09T01:59:59.6948637Z">
     <Type>Exception</Type>
     <Name>InheritedChildCannotDelete</Name>
     <Value>Inherited child table cannot delete.</Value>
@@ -200,9 +200,9 @@
   </StringTable>
   <StringTable
     Creator="admin"
-    CreatedDateTime="2017-11-09T01:58:59.7239913Z"
+    CreatedDateTime="2017-11-09T01:59:59.6948637Z"
     Modifier="admin"
-    ModifiedDateTime="2017-11-09T01:58:59.7239913Z">
+    ModifiedDateTime="2017-11-09T01:59:59.6948637Z">
     <Type>Exception</Type>
     <Name>CannotSetTemplateToInherited</Name>
     <Value>Cannot to set template to inherited table.</Value>
@@ -210,9 +210,9 @@
   </StringTable>
   <StringTable
     Creator="admin"
-    CreatedDateTime="2017-11-09T01:58:59.7239913Z"
+    CreatedDateTime="2017-11-09T01:59:59.6948637Z"
     Modifier="admin"
-    ModifiedDateTime="2017-11-09T01:58:59.7239913Z">
+    ModifiedDateTime="2017-11-09T01:59:59.6948637Z">
     <Type>Exception</Type>
     <Name>CannotSetTemplateItself</Name>
     <Value>Cannot to set itself as template.</Value>
@@ -220,9 +220,9 @@
   </StringTable>
   <StringTable
     Creator="admin"
-    CreatedDateTime="2017-11-09T01:58:59.7239913Z"
+    CreatedDateTime="2017-11-09T01:59:59.6948637Z"
     Modifier="admin"
-    ModifiedDateTime="2017-11-09T01:58:59.7239913Z">
+    ModifiedDateTime="2017-11-09T01:59:59.6948637Z">
     <Type>Exception</Type>
     <Name>RootFolderCannotRename</Name>
     <Value>Root folder cannot rename.</Value>
@@ -230,9 +230,9 @@
   </StringTable>
   <StringTable
     Creator="admin"
-    CreatedDateTime="2017-11-09T01:58:59.7239913Z"
+    CreatedDateTime="2017-11-09T01:59:59.6948637Z"
     Modifier="admin"
-    ModifiedDateTime="2017-11-09T01:58:59.7239913Z">
+    ModifiedDateTime="2017-11-09T01:59:59.6948637Z">
     <Type>Exception</Type>
     <Name>RootFolderCannotMove</Name>
     <Value>Root folder cannot move</Value>
@@ -240,9 +240,9 @@
   </StringTable>
   <StringTable
     Creator="admin"
-    CreatedDateTime="2017-11-09T01:58:59.7239913Z"
+    CreatedDateTime="2017-11-09T01:59:59.6948637Z"
     Modifier="admin"
-    ModifiedDateTime="2017-11-09T01:58:59.7239913Z">
+    ModifiedDateTime="2017-11-09T01:59:59.6948637Z">
     <Type>Exception</Type>
     <Name>HaveNotPermission</Name>
     <Value>You do not have permission to perform</Value>
@@ -250,9 +250,9 @@
   </StringTable>
   <StringTable
     Creator="admin"
-    CreatedDateTime="2017-11-09T01:58:59.724992Z"
+    CreatedDateTime="2017-11-09T01:59:59.6948637Z"
     Modifier="admin"
-    ModifiedDateTime="2017-11-09T01:58:59.724992Z">
+    ModifiedDateTime="2017-11-09T01:59:59.6948637Z">
     <Type>Exception</Type>
     <Name>InheritedPrivateItemCannotAdd</Name>
     <Value>Inherited private item cannot add user</Value>
@@ -260,9 +260,9 @@
   </StringTable>
   <StringTable
     Creator="admin"
-    CreatedDateTime="2017-11-09T01:58:59.724992Z"
+    CreatedDateTime="2017-11-09T01:59:59.6948637Z"
     Modifier="admin"
-    ModifiedDateTime="2017-11-09T01:58:59.724992Z">
+    ModifiedDateTime="2017-11-09T01:59:59.6948637Z">
     <Type>Exception</Type>
     <Name>InheritedPrivateItemCannotRemove</Name>
     <Value>Inherited private item cannot remove user</Value>
