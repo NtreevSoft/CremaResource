@@ -3,8 +3,8 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/common/CommonServiceModel ../Templates/StringTable.xsd"
   StringTable.Modifier="admin"
-  StringTable.ModifiedDateTime="2017-11-09T01:29:01.7854038Z"
-  StringTable.Count="23"
+  StringTable.ModifiedDateTime="2017-11-09T01:34:18.7935606Z"
+  StringTable.Count="26"
   StringTable.ID="418e3414-59d5-4a57-91ae-aa363608998e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="admin"
@@ -235,5 +235,35 @@
     <Name>RootFolderCannotMove</Name>
     <Value>Root folder cannot move</Value>
     <ko_KR>최상위 폴더는 이동할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-09T01:31:00.2832119Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-09T01:31:28.8312621Z">
+    <Type>Exception</Type>
+    <Name>HaveNotPermission</Name>
+    <Value>You do not have permission to perform</Value>
+    <ko_KR>작업 수행 권한을 가지고 있지 않습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-09T01:33:06.9398344Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-09T01:34:11.5083478Z">
+    <Type>Exception</Type>
+    <Name>InheritedPrivateItemCannotAdd</Name>
+    <Value>Inherited private item cannot add user</Value>
+    <ko_KR>개인 사용 설정이 상속된 객체이기 때문에 사용자를 추가할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-11-09T01:33:19.4354563Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-11-09T01:34:18.7935606Z">
+    <Type>Exception</Type>
+    <Name>InheritedPrivateItemCannotRemove</Name>
+    <Value>Inherited private item cannot remove user</Value>
+    <ko_KR>개인 사용 설정이 상속된 객체이기 때문에 사용자를 삭제할 수 없습니다.</ko_KR>
   </StringTable>
 </Content>
