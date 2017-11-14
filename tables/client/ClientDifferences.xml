@@ -3,8 +3,8 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientDifferences ../Templates/StringTable.xsd"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2017-11-14T00:16:41.5348074Z"
-  StringTable.Count="24"
+  StringTable.ModifiedDateTime="2017-11-14T01:29:45.5525589Z"
+  StringTable.Count="25"
   StringTable.ID="867b99c7-414f-4ca7-90a1-8c5ac83b0518" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="admin"
@@ -245,5 +245,14 @@
     <Name>ReceivingInfo</Name>
     <Value>Receiving information.</Value>
     <ko_KR>정보를 가져오는 중입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2017-11-14T01:29:41.4583247Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2017-11-14T01:29:45.5525589Z">
+    <Type>Title</Type>
+    <Name>CompareWithPreviousResivision</Name>
+    <ko_KR>이전 리비전과 비교하기...</ko_KR>
   </StringTable>
 </Content>
