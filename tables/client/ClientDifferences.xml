@@ -3,8 +3,8 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientDifferences ../Templates/StringTable.xsd"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2017-11-14T01:33:37.3828188Z"
-  StringTable.Count="26"
+  StringTable.ModifiedDateTime="2017-11-14T01:49:23.2879215Z"
+  StringTable.Count="27"
   StringTable.ID="867b99c7-414f-4ca7-90a1-8c5ac83b0518" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="admin"
@@ -265,5 +265,15 @@
     <Name>Current</Name>
     <Value>Current</Value>
     <ko_KR>현재</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2017-11-14T01:49:15.4894755Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2017-11-14T01:49:23.2879215Z">
+    <Type>Title</Type>
+    <Name>CompareWithLatestRevision</Name>
+    <Value>Compare With Latest Revision</Value>
+    <ko_KR>최근 리비전과 비교하기</ko_KR>
   </StringTable>
 </Content>
