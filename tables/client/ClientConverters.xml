@@ -4,9 +4,9 @@
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientConverters ../Templates/StringTable.xsd"
   Creator="admin"
   CreatedDateTime="2017-10-23T07:16:01.2646706Z"
-  StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2017-11-28T07:43:47.0899484Z"
-  StringTable.Count="28"
+  StringTable.Modifier="admin"
+  StringTable.ModifiedDateTime="2017-12-07T05:20:17.8427343Z"
+  StringTable.Count="29"
   StringTable.ID="c0cab95d-e8db-454e-bfdd-db225b55d79e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.368191Z"
@@ -233,5 +233,15 @@
     <Name>ExportOneTableToOneFile</Name>
     <Value>Export One Table To One File</Value>
     <ko_KR>테이블 하나당 파일 하나로 출력하기</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2017-12-07T05:20:17.8427343Z"
+    Modifier="admin"
+    ModifiedDateTime="2017-12-07T05:20:17.8427343Z">
+    <Type>Label</Type>
+    <Name>OutputDateFormat</Name>
+    <Value>Date Format</Value>
+    <ko_KR>날짜 포맷</ko_KR>
   </StringTable>
 </Content>
