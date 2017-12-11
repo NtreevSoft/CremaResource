@@ -5,7 +5,7 @@
   Creator="admin"
   CreatedDateTime="2017-10-23T07:16:01.2646706Z"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2017-12-11T06:28:04.0954153Z"
+  StringTable.ModifiedDateTime="2017-12-11T07:37:29.6771317Z"
   StringTable.Count="64"
   StringTable.ID="c0cab95d-e8db-454e-bfdd-db225b55d79e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
@@ -280,26 +280,29 @@
   </StringTable>
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.3641882Z"
-    ModifiedDateTime="2017-10-31T06:53:14.3641882Z">
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-11T07:37:17.2595099Z">
     <Type>MenuItem</Type>
     <Name>CreateDataBase</Name>
-    <Value>Create DataBase(_N)...</Value>
+    <Value>_Create DataBase...</Value>
     <ko_KR>데이터 베이스 생성(_N)...</ko_KR>
   </StringTable>
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.3651889Z"
-    ModifiedDateTime="2017-10-31T06:53:14.3651889Z">
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-11T07:37:04.8574881Z">
     <Type>MenuItem</Type>
     <Name>Delete</Name>
-    <Value>Delete(_D)</Value>
+    <Value>_Delete</Value>
     <ko_KR>삭제(_D)</ko_KR>
   </StringTable>
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.3651889Z"
-    ModifiedDateTime="2017-10-31T06:53:14.3651889Z">
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-11T07:37:10.4266979Z">
     <Type>MenuItem</Type>
     <Name>DeleteDataBase</Name>
-    <Value>Delete DataBase(_D)...</Value>
+    <Value>_Delete DataBase...</Value>
     <ko_KR>데이터 베이스 삭제(_D)...</ko_KR>
   </StringTable>
   <StringTable
@@ -328,10 +331,11 @@
   </StringTable>
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.3651889Z"
-    ModifiedDateTime="2017-10-31T06:53:14.3651889Z">
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-11T07:37:29.6771317Z">
     <Type>MenuItem</Type>
     <Name>ManageDataBase</Name>
-    <Value>Manage DataBase(_M)...</Value>
+    <Value>_Manage DataBase...</Value>
     <ko_KR>데이터 베이스 관리(_M)...</ko_KR>
   </StringTable>
   <StringTable
