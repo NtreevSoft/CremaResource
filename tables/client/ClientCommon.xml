@@ -5,7 +5,7 @@
   Creator="admin"
   CreatedDateTime="2017-10-23T07:16:01.2646706Z"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2017-12-11T04:21:13.1540474Z"
+  StringTable.ModifiedDateTime="2017-12-11T06:02:37.4923339Z"
   StringTable.Count="64"
   StringTable.ID="c0cab95d-e8db-454e-bfdd-db225b55d79e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
@@ -336,11 +336,12 @@
   </StringTable>
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.3651889Z"
-    ModifiedDateTime="2017-10-31T06:53:14.3651889Z">
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-11T06:02:37.4923339Z">
     <Type>MenuItem</Type>
-    <Name>ReplaceCurrentSettings</Name>
-    <Value>Replace Current Settings</Value>
-    <ko_KR>현재 설정 덮어쓰기(_S)</ko_KR>
+    <Name>Edit</Name>
+    <Value>Edi_T</Value>
+    <ko_KR>편집(_E)</ko_KR>
   </StringTable>
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.3651889Z"
