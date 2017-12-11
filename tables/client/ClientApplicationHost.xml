@@ -2,9 +2,9 @@
 <Content
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientApplicationHost ../Templates/StringTable.xsd"
-  StringTable.Modifier="admin"
-  StringTable.ModifiedDateTime="2017-11-02T00:16:50.197271Z"
-  StringTable.Count="20"
+  StringTable.Modifier="s2quake"
+  StringTable.ModifiedDateTime="2017-12-11T00:05:07.6106592Z"
+  StringTable.Count="21"
   StringTable.ID="530b6569-f0eb-4227-8b31-4964d20a9ad4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="admin"
@@ -205,5 +205,15 @@
     <Name>SendingFeedback</Name>
     <Value>Sending Feedback.</Value>
     <ko_KR>의견을 보내는 중입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2017-12-11T00:05:04.7714542Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-11T00:05:07.6106592Z">
+    <Type>Label</Type>
+    <Name>Etc</Name>
+    <Value>Etc</Value>
+    <ko_KR>기타</ko_KR>
   </StringTable>
 </Content>
