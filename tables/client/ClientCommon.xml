@@ -5,8 +5,8 @@
   Creator="admin"
   CreatedDateTime="2017-10-23T07:16:01.2646706Z"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2017-12-11T00:31:10.8426049Z"
-  StringTable.Count="63"
+  StringTable.ModifiedDateTime="2017-12-11T04:21:13.1540474Z"
+  StringTable.Count="64"
   StringTable.ID="c0cab95d-e8db-454e-bfdd-db225b55d79e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.3611864Z"
@@ -529,5 +529,15 @@
     <Name>EditConnectionItem</Name>
     <Value>Edit Connection Item</Value>
     <ko_KR>접속 정보 편집</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2017-12-11T04:20:58.146821Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-11T04:21:13.1540474Z">
+    <Type>Exception</Type>
+    <Name>InvalidConnectionItem</Name>
+    <Value>Invalid Connection Item</Value>
+    <ko_KR>잘못된 접속 정보입니다.</ko_KR>
   </StringTable>
 </Content>
