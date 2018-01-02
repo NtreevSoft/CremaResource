@@ -5,7 +5,7 @@
   Creator="admin"
   CreatedDateTime="2017-10-23T07:16:01.2646706Z"
   StringTable.Modifier="admin"
-  StringTable.ModifiedDateTime="2018-01-02T01:51:15.3441969Z"
+  StringTable.ModifiedDateTime="2018-01-02T01:55:41.7926649Z"
   StringTable.Count="60"
   StringTable.ID="c0cab95d-e8db-454e-bfdd-db225b55d79e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
@@ -478,11 +478,11 @@
     Creator="admin"
     CreatedDateTime="2018-01-02T01:51:06.5145814Z"
     Modifier="admin"
-    ModifiedDateTime="2018-01-02T01:51:06.5145814Z">
+    ModifiedDateTime="2018-01-02T01:55:41.7926649Z">
     <Type>Button</Type>
-    <Name>Move</Name>
-    <Value>_Move</Value>
-    <ko_KR>이동(_M)</ko_KR>
+    <Name>Add</Name>
+    <Value>_Add</Value>
+    <ko_KR>추가(_A)</ko_KR>
   </StringTable>
   <StringTable
     Creator="admin"
