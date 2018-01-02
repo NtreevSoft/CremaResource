@@ -4,8 +4,9 @@
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientSmartSet ../Templates/StringTable.xsd"
   Creator="admin"
   CreatedDateTime="2017-10-23T07:16:01.2646706Z"
-  StringTable.ModifiedDateTime="2017-10-31T06:53:14.3781973Z"
-  StringTable.Count="57"
+  StringTable.Modifier="admin"
+  StringTable.ModifiedDateTime="2018-01-02T01:51:15.3441969Z"
+  StringTable.Count="60"
   StringTable.ID="c0cab95d-e8db-454e-bfdd-db225b55d79e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.3731938Z"
@@ -462,5 +463,35 @@
     <Name>TypeState</Name>
     <Value>Type States</Value>
     <ko_KR>타입 상태</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2018-01-02T01:50:49.3389513Z"
+    Modifier="admin"
+    ModifiedDateTime="2018-01-02T01:50:49.3389513Z">
+    <Type>Label</Type>
+    <Name>TargetPath</Name>
+    <Value>Target Folder</Value>
+    <ko_KR>대상 폴더</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2018-01-02T01:51:06.5145814Z"
+    Modifier="admin"
+    ModifiedDateTime="2018-01-02T01:51:06.5145814Z">
+    <Type>Button</Type>
+    <Name>Move</Name>
+    <Value>_Move</Value>
+    <ko_KR>이동(_M)</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2018-01-02T01:51:15.3441969Z"
+    Modifier="admin"
+    ModifiedDateTime="2018-01-02T01:51:15.3441969Z">
+    <Type>Button</Type>
+    <Name>Close</Name>
+    <Value>_Close</Value>
+    <ko_KR>닫기(_C)</ko_KR>
   </StringTable>
 </Content>
