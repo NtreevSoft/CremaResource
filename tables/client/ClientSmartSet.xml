@@ -5,8 +5,8 @@
   Creator="admin"
   CreatedDateTime="2017-10-23T07:16:01.2646706Z"
   StringTable.Modifier="admin"
-  StringTable.ModifiedDateTime="2018-01-03T02:05:16.3914277Z"
-  StringTable.Count="63"
+  StringTable.ModifiedDateTime="2018-01-04T00:43:24.3669538Z"
+  StringTable.Count="64"
   StringTable.ID="c0cab95d-e8db-454e-bfdd-db225b55d79e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.3731938Z"
@@ -520,6 +520,16 @@
     Modifier="admin"
     ModifiedDateTime="2018-01-03T02:05:16.3914277Z">
     <Type>MenuItem</Type>
+    <Name>Move</Name>
+    <Value>_Move</Value>
+    <ko_KR>이동(_M)</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2018-01-04T00:43:24.3669538Z"
+    Modifier="admin"
+    ModifiedDateTime="2018-01-04T00:43:24.3669538Z">
+    <Type>Button</Type>
     <Name>Move</Name>
     <Value>_Move</Value>
     <ko_KR>이동(_M)</ko_KR>
