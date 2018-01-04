@@ -5,8 +5,8 @@
   Creator="admin"
   CreatedDateTime="2017-10-23T07:16:01.2646706Z"
   StringTable.Modifier="admin"
-  StringTable.ModifiedDateTime="2018-01-04T04:18:56.2280674Z"
-  StringTable.Count="66"
+  StringTable.ModifiedDateTime="2018-01-04T04:33:00.2519499Z"
+  StringTable.Count="67"
   StringTable.ID="c0cab95d-e8db-454e-bfdd-db225b55d79e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.3731938Z"
@@ -553,5 +553,15 @@
     <Name>MoveBookmark</Name>
     <Value>Move Bookmark</Value>
     <ko_KR>즐겨 찾기 이동</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2018-01-04T04:33:00.2519499Z"
+    Modifier="admin"
+    ModifiedDateTime="2018-01-04T04:33:00.2519499Z">
+    <Type>MenuItem</Type>
+    <Name>MoveBookmark</Name>
+    <Value>Move Bookmark</Value>
+    <ko_KR>즐겨찾기 이동</ko_KR>
   </StringTable>
 </Content>
