@@ -2,4 +2,95 @@
 <Content
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/common/CommonData ../Templates/StringTable.xsd"
-  StringTable.ID="8dabfed4-db2c-46a7-8e8d-379442bcacc4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable" />
+  StringTable.Modifier="s2quake"
+  StringTable.ModifiedDateTime="2018-01-09T01:57:32.3668595Z"
+  StringTable.Count="8"
+  StringTable.ID="8dabfed4-db2c-46a7-8e8d-379442bcacc4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-01-09T01:57:32.3668595Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-01-09T01:57:32.3668595Z">
+    <Type>Exception</Type>
+    <Name>NotFoundColumn_Format</Name>
+    <Comment>columnName</Comment>
+    <Value>Column '{0}' does not exist in table.</Value>
+    <ko_KR>'{0}' 열은 테이블에 존재하지 않습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-01-09T01:57:32.3668595Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-01-09T01:57:32.3668595Z">
+    <Type>Exception</Type>
+    <Name>NotFoundAttribute_Format</Name>
+    <Comment>attributeName</Comment>
+    <Value>Attribute '{0}' does not exist in the table.</Value>
+    <ko_KR>'{0}' 특성은 테이블에 존재하지 않습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-01-09T01:57:32.3668595Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-01-09T01:57:32.3668595Z">
+    <Type>Exception</Type>
+    <Name>CannotParseEnum_Format</Name>
+    <Comment>enumValue, enumTypeName</Comment>
+    <Value>Value '{0}' is not defined in type '{1}' and can not be converted.</Value>
+    <ko_KR>'{0}' 값은 '{1}' 타입에 정의되어 있지 않아 변환할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-01-09T01:57:32.3668595Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-01-09T01:57:32.3668595Z">
+    <Type>Exception</Type>
+    <Name>InvalidName</Name>
+    <Value>The name can not contain any special characters \ / : *? " &lt; &gt; |</Value>
+    <ko_KR>이름에 특수문자 \ / : * ? " &lt; &gt; | 등은 포함될 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-01-09T01:57:32.3668595Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-01-09T01:57:32.3668595Z">
+    <Type>Exception</Type>
+    <Name>AreadyExistedDataType_Format</Name>
+    <Comment>dataTypeName</Comment>
+    <Value>'{0}' is already a valid type</Value>
+    <ko_KR>'{0}' 은(는) 이미 존재하는 타입입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-01-09T01:57:32.3668595Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-01-09T01:57:32.3668595Z">
+    <Type>Exception</Type>
+    <Name>ReservedAttributeName_Format</Name>
+    <Comment>attributeName</Comment>
+    <Value>Can not use '{0}' as the name 'Attributes' because it is reserved.</Value>
+    <ko_KR>'{0}' 은(는) 예약되어 있는 이름이기 때문에 '특성'의 이름으로 사용할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-01-09T01:57:32.3668595Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-01-09T01:57:32.3668595Z">
+    <Type>Exception</Type>
+    <Name>ReservedColumnName_Format</Name>
+    <Comment>columnName</Comment>
+    <Value>Can not use '{0}' as the name 'Column' because it is reserved.</Value>
+    <ko_KR>'{0}' 은(는) 예약되어 있는 이름이기 때문에 '열'의 이름으로 사용할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-01-09T01:57:32.3668595Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-01-09T01:57:32.3668595Z">
+    <Type>Exception</Type>
+    <Name>ReservedName_Format</Name>
+    <Comment>name</Comment>
+    <Value>'{0}' is not available because it is reserved.</Value>
+    <ko_KR>'{0}' 은(는) 예약되어 있는 이름이기 때문에 사용할 수 없습니다.</ko_KR>
+  </StringTable>
+</Content>
