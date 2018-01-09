@@ -5,8 +5,8 @@
   Creator="admin"
   CreatedDateTime="2017-10-23T07:16:01.2646706Z"
   StringTable.Modifier="admin"
-  StringTable.ModifiedDateTime="2018-01-09T01:35:30.1085371Z"
-  StringTable.Count="69"
+  StringTable.ModifiedDateTime="2018-01-09T02:03:08.4070497Z"
+  StringTable.Count="72"
   StringTable.ID="c0cab95d-e8db-454e-bfdd-db225b55d79e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.3731938Z"
@@ -583,5 +583,35 @@
     <Name>NewCategory</Name>
     <Value>New Category</Value>
     <ko_KR>새 폴더</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2018-01-09T02:02:30.3741829Z"
+    Modifier="admin"
+    ModifiedDateTime="2018-01-09T02:02:30.3741829Z">
+    <Type>Label</Type>
+    <Name>CategoryPath</Name>
+    <Value>Folder Path</Value>
+    <ko_KR>폴더 경로</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2018-01-09T02:02:48.8758154Z"
+    Modifier="admin"
+    ModifiedDateTime="2018-01-09T02:02:48.8758154Z">
+    <Type>Label</Type>
+    <Name>CategoryName</Name>
+    <Value>Folder Name</Value>
+    <ko_KR>폴더 이름</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2018-01-09T02:03:08.4070497Z"
+    Modifier="admin"
+    ModifiedDateTime="2018-01-09T02:03:08.4070497Z">
+    <Type>Button</Type>
+    <Name>Create</Name>
+    <Value>Cre_ate</Value>
+    <ko_KR>생성(_O)</ko_KR>
   </StringTable>
 </Content>
