@@ -2,5 +2,32 @@
 <Content
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/Test/TestProjectInfo ../Templates/ProjectInfo.xsd"
+  ProjectInfo.Modifier="s2quake"
+  ProjectInfo.ModifiedDateTime="2018-01-09T02:27:18.4139965Z"
+  ProjectInfo.Count="1"
   ProjectInfo.ID="80937df2-7b91-4816-808c-5a7382e6c85c"
-  ProjectInfo.ExportInfo.ID="22d17431-5075-4aa6-8272-1b4b652c0343" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/ProjectInfo" />
+  ProjectInfo.ExportInfo.Modifier="s2quake"
+  ProjectInfo.ExportInfo.ModifiedDateTime="2018-01-09T02:27:25.8396096Z"
+  ProjectInfo.ExportInfo.Count="1"
+  ProjectInfo.ExportInfo.ID="22d17431-5075-4aa6-8272-1b4b652c0343" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/ProjectInfo">
+  <ProjectInfo
+    Creator="s2quake"
+    CreatedDateTime="2018-01-09T02:27:18.4139965Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-01-09T02:27:18.4139965Z"
+    RelationID="a3eb61aa6b5b34748b709259cff51692">
+    <KindType>Executable</KindType>
+    <ProjectType>Executable</ProjectType>
+    <Name>ConsoleApp1</Name>
+    <ProjectPath>ConsoleApp1/ConsoleApp1.csproj</ProjectPath>
+    <ExportInfo
+      Creator="s2quake"
+      CreatedDateTime="2018-01-09T02:27:25.8396096Z"
+      Modifier="s2quake"
+      ModifiedDateTime="2018-01-09T02:27:25.8396096Z">
+      <ID>0</ID>
+      <FileName />
+      <TableName>ConsoleApp1</TableName>
+    </ExportInfo>
+  </ProjectInfo>
+</Content>
