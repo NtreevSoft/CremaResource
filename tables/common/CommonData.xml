@@ -3,8 +3,8 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/common/CommonData ../Templates/StringTable.xsd"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-01-09T01:57:32.3668595Z"
-  StringTable.Count="8"
+  StringTable.ModifiedDateTime="2018-01-10T05:42:24.7895632Z"
+  StringTable.Count="9"
   StringTable.ID="8dabfed4-db2c-46a7-8e8d-379442bcacc4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="s2quake"
@@ -92,5 +92,16 @@
     <Comment>name</Comment>
     <Value>'{0}' is not available because it is reserved.</Value>
     <ko_KR>'{0}' 은(는) 예약되어 있는 이름이기 때문에 사용할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-01-10T05:41:36.9206787Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-01-10T05:42:24.7895632Z">
+    <Type>Exception</Type>
+    <Name>NotFoundDirectory</Name>
+    <Comment>pathName</Comment>
+    <Value>Path '{0}' was not found.</Value>
+    <ko_KR>'{0}' 경로를 찾을 수 없습니다.</ko_KR>
   </StringTable>
 </Content>
