@@ -3,8 +3,8 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/common/CommonData ../Templates/StringTable.xsd"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-01-10T05:49:39.4175298Z"
-  StringTable.Count="10"
+  StringTable.ModifiedDateTime="2018-01-10T05:53:20.1497188Z"
+  StringTable.Count="11"
   StringTable.ID="8dabfed4-db2c-46a7-8e8d-379442bcacc4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="s2quake"
@@ -113,5 +113,15 @@
     <Name>UnresolvedProblemsExist</Name>
     <Value>There is a problem that has not been solved yet.</Value>
     <ko_KR>아직 해결되지 않은 문제점이 남아 있습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-01-10T05:53:20.1497188Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-01-10T05:53:20.1497188Z">
+    <Type>Exception</Type>
+    <Name>AlreadyExistedItem_Format</Name>
+    <Value>Item '{0}' is already registered.</Value>
+    <ko_KR>'{0}' 항목은 이미 존재합니다.</ko_KR>
   </StringTable>
 </Content>
