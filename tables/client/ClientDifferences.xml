@@ -3,7 +3,7 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientDifferences ../Templates/StringTable.xsd"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-01-10T06:59:19.8622964Z"
+  StringTable.ModifiedDateTime="2018-01-10T07:02:07.216791Z"
   StringTable.Count="31"
   StringTable.ID="867b99c7-414f-4ca7-90a1-8c5ac83b0518" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
@@ -310,10 +310,10 @@
     Creator="s2quake"
     CreatedDateTime="2018-01-10T06:59:03.1672669Z"
     Modifier="s2quake"
-    ModifiedDateTime="2018-01-10T06:59:19.8622964Z">
+    ModifiedDateTime="2018-01-10T07:02:07.216791Z">
     <Type>Message</Type>
     <Name>TableNotFound_Format</Name>
-    <Value>Could not find table ""{0}"".</Value>
-    <ko_KR>""{0}"" 테이블을 찾을 수 없습니다.</ko_KR>
+    <Value>Could not find table '{0}'.</Value>
+    <ko_KR>'{0}' 테이블을 찾을 수 없습니다.</ko_KR>
   </StringTable>
 </Content>
