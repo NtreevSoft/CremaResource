@@ -3,8 +3,8 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientDifferences ../Templates/StringTable.xsd"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2017-11-27T07:03:56.6635963Z"
-  StringTable.Count="28"
+  StringTable.ModifiedDateTime="2018-01-10T06:02:07.7330501Z"
+  StringTable.Count="29"
   StringTable.ID="867b99c7-414f-4ca7-90a1-8c5ac83b0518" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="admin"
@@ -285,5 +285,15 @@
     <Name>UnresolvedItems</Name>
     <Value>Unresolved Items</Value>
     <ko_KR>해결되지 않은 항목들</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-01-10T06:02:00.2450369Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-01-10T06:02:07.7330501Z">
+    <Type>MenuItem</Type>
+    <Name>CompareWithOtherDataBase</Name>
+    <Value>Comapre With Other DataBase...</Value>
+    <ko_KR>다른 데이터베이스와 비교하기...</ko_KR>
   </StringTable>
 </Content>
