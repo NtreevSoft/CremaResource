@@ -3,8 +3,8 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/common/CommonData ../Templates/StringTable.xsd"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-01-10T05:53:20.1497188Z"
-  StringTable.Count="11"
+  StringTable.ModifiedDateTime="2018-01-11T04:42:56.9191462Z"
+  StringTable.Count="16"
   StringTable.ID="8dabfed4-db2c-46a7-8e8d-379442bcacc4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="s2quake"
@@ -123,5 +123,56 @@
     <Name>AlreadyExistedItem_Format</Name>
     <Value>Item '{0}' is already registered.</Value>
     <ko_KR>'{0}' 항목은 이미 존재합니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-01-11T04:19:32.9778733Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-01-11T04:21:40.5668981Z">
+    <Type>Exception</Type>
+    <Name>NameCannotBeUsed_Format</Name>
+    <Comment>columnName</Comment>
+    <Value>'{0}' is a name that can not be used.</Value>
+    <ko_KR>'{0}' (은)는 사용할 수 없는 이름입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-01-11T04:22:33.1731906Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-01-11T04:22:43.4712088Z">
+    <Type>Exception</Type>
+    <Name>UsableOnChildTable</Name>
+    <Value>Only usable on child table.</Value>
+    <ko_KR>자식 테이블에서만 사용이 가능합니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-01-11T04:38:53.4471176Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-01-11T04:40:06.8668468Z">
+    <Type>Exception</Type>
+    <Name>CannotDeleteAsTypeIsReferenced</Name>
+    <Value>Can not delete as type is referenced.</Value>
+    <ko_KR>타입이 참조되고 있기 때문에 삭제할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-01-11T04:40:46.8829172Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-01-11T04:41:10.1591582Z">
+    <Type>Exception</Type>
+    <Name>NotEqualsFieldCountAndColumnCount</Name>
+    <Value>The number of fields does not match the number of columns of the table.</Value>
+    <ko_KR>필드 갯수가 테이블의 열의 갯수와 일치하지 않습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-01-11T04:42:49.5383331Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-01-11T04:42:56.9191462Z">
+    <Type>Exception</Type>
+    <Name>CannotEditInheritedTable</Name>
+    <Value>You can not edit an inherited table.</Value>
+    <ko_KR>상속받은 테이블은 편집할 수 없습니다.</ko_KR>
   </StringTable>
 </Content>
