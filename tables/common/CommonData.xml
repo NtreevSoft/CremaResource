@@ -3,8 +3,8 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/common/CommonData ../Templates/StringTable.xsd"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-01-11T06:20:55.8898527Z"
-  StringTable.Count="20"
+  StringTable.ModifiedDateTime="2018-01-11T06:22:01.1703679Z"
+  StringTable.Count="21"
   StringTable.ID="8dabfed4-db2c-46a7-8e8d-379442bcacc4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="s2quake"
@@ -214,5 +214,15 @@
     <Name>CannotRemoveChildTable</Name>
     <Value>You can not remove a child table.</Value>
     <ko_KR>자식 테이블은 제거할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-01-11T06:21:43.5267369Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-01-11T06:22:01.1703679Z">
+    <Type>Exception</Type>
+    <Name>CannotAddInheritedTable</Name>
+    <Value>You can not add a inherited table.</Value>
+    <ko_KR>상속 받은 테이블은 추가할 수 없습니다.</ko_KR>
   </StringTable>
 </Content>
