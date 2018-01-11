@@ -3,8 +3,8 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/common/CommonData ../Templates/StringTable.xsd"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-01-11T06:13:41.099476Z"
-  StringTable.Count="18"
+  StringTable.ModifiedDateTime="2018-01-11T06:19:48.5355339Z"
+  StringTable.Count="19"
   StringTable.ID="8dabfed4-db2c-46a7-8e8d-379442bcacc4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="s2quake"
@@ -194,5 +194,15 @@
     <Name>UnresolvedChildTablesExist</Name>
     <Value>There is still a table for the children that have not been resolved.</Value>
     <ko_KR>아직 해결되지 않은 자식 테이블이 남아 있습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-01-11T06:19:48.5355339Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-01-11T06:19:48.5355339Z">
+    <Type>Exception</Type>
+    <Name>CannotAddChildTable</Name>
+    <Value>You can not add a child table.</Value>
+    <ko_KR>자식 테이블은 추가할 수 없습니다.</ko_KR>
   </StringTable>
 </Content>
