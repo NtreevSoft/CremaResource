@@ -3,8 +3,8 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/common/CommonData ../Templates/StringTable.xsd"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-01-11T04:42:56.9191462Z"
-  StringTable.Count="16"
+  StringTable.ModifiedDateTime="2018-01-11T06:07:35.7536277Z"
+  StringTable.Count="17"
   StringTable.ID="8dabfed4-db2c-46a7-8e8d-379442bcacc4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="s2quake"
@@ -174,5 +174,15 @@
     <Name>CannotEditInheritedTable</Name>
     <Value>You can not edit an inherited table.</Value>
     <ko_KR>상속받은 테이블은 편집할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-01-11T06:06:47.9245429Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-01-11T06:07:35.7536277Z">
+    <Type>Exception</Type>
+    <Name>TypeCannotBeUsed_Format</Name>
+    <Value>Type '{0}' can not be used.</Value>
+    <ko_KR>'{0}' 타입은 사용할 수 없습니다.</ko_KR>
   </StringTable>
 </Content>
