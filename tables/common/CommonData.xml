@@ -3,8 +3,8 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/common/CommonData ../Templates/StringTable.xsd"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-01-11T06:22:01.1703679Z"
-  StringTable.Count="21"
+  StringTable.ModifiedDateTime="2018-01-11T06:35:16.3949723Z"
+  StringTable.Count="23"
   StringTable.ID="8dabfed4-db2c-46a7-8e8d-379442bcacc4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="s2quake"
@@ -118,10 +118,10 @@
     Creator="s2quake"
     CreatedDateTime="2018-01-10T05:53:20.1497188Z"
     Modifier="s2quake"
-    ModifiedDateTime="2018-01-10T05:53:20.1497188Z">
+    ModifiedDateTime="2018-01-11T06:29:38.3457753Z">
     <Type>Exception</Type>
     <Name>AlreadyExistedItem_Format</Name>
-    <Value>Item '{0}' is already registered.</Value>
+    <Value>Item '{0}' is already existed.</Value>
     <ko_KR>'{0}' 항목은 이미 존재합니다.</ko_KR>
   </StringTable>
   <StringTable
@@ -224,5 +224,25 @@
     <Name>CannotAddInheritedTable</Name>
     <Value>You can not add a inherited table.</Value>
     <ko_KR>상속 받은 테이블은 추가할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-01-11T06:33:55.4344295Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-01-11T06:35:16.3949723Z">
+    <Type>Exception</Type>
+    <Name>AtLeastOneColumn</Name>
+    <Value>You must have at least one column.</Value>
+    <ko_KR>적어도 한개 이상의 열이 있어야 합니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-01-11T06:34:32.4592948Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-01-11T06:35:13.1969667Z">
+    <Type>Exception</Type>
+    <Name>AtLeastOneKey</Name>
+    <Value>At least one key must be set.</Value>
+    <ko_KR>적어도 한개 이상의 키가 설정되어야 합니다.</ko_KR>
   </StringTable>
 </Content>
