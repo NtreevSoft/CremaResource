@@ -4,9 +4,9 @@
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientTypes ../Templates/StringTable.xsd"
   Creator="admin"
   CreatedDateTime="2017-10-23T07:16:01.2646706Z"
-  StringTable.Modifier="admin"
-  StringTable.ModifiedDateTime="2017-11-08T09:41:24.0412517Z"
-  StringTable.Count="78"
+  StringTable.Modifier="s2quake"
+  StringTable.ModifiedDateTime="2018-01-16T00:19:09.6050874Z"
+  StringTable.Count="79"
   StringTable.ID="c0cab95d-e8db-454e-bfdd-db225b55d79e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.3902062Z"
@@ -634,5 +634,15 @@
     <Name>ReceivingInfo</Name>
     <Value>Receiving information.</Value>
     <ko_KR>정보를 가져오는 중입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-01-16T00:19:09.6050874Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-01-16T00:19:09.6050874Z">
+    <Type>Button</Type>
+    <Name>Find</Name>
+    <Value>_Find</Value>
+    <ko_KR>찾기</ko_KR>
   </StringTable>
 </Content>
