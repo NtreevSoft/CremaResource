@@ -4,8 +4,8 @@
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientCommon ../Templates/StringTable.xsd"
   Creator="admin"
   CreatedDateTime="2017-10-23T07:16:01.2646706Z"
-  StringTable.ModifiedDateTime="2017-10-31T06:53:14.3671903Z"
-  StringTable.Count="59"
+  StringTable.ModifiedDateTime="2018-01-26T05:04:28.2817639Z"
+  StringTable.Count="64"
   StringTable.ID="c0cab95d-e8db-454e-bfdd-db225b55d79e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.3611864Z"
@@ -73,11 +73,12 @@
   </StringTable>
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.3621868Z"
-    ModifiedDateTime="2017-10-31T06:53:14.3621868Z">
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-07T05:49:13.0805821Z">
     <Type>Label</Type>
-    <Name>AddNewServer</Name>
-    <Value>Add New Server</Value>
-    <ko_KR>새 서버 추가</ko_KR>
+    <Name>AddConnectionItem</Name>
+    <Value>Add Connection Item</Value>
+    <ko_KR>접속 정보 추가</ko_KR>
   </StringTable>
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.3621868Z"
@@ -129,27 +130,30 @@
   </StringTable>
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.3631875Z"
-    ModifiedDateTime="2017-10-31T06:53:14.3631875Z">
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-07T05:50:33.8263239Z">
     <Type>Label</Type>
-    <Name>DeleteRecentServerList</Name>
-    <Value>Delete Recent Server List</Value>
-    <ko_KR>최근 서버 목록 삭제</ko_KR>
+    <Name>EditConnectionItem</Name>
+    <Value>Edit Connection Item</Value>
+    <ko_KR>접속 정보 편집</ko_KR>
   </StringTable>
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.3631875Z"
-    ModifiedDateTime="2017-10-31T06:53:14.3631875Z">
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-07T05:50:21.1591017Z">
     <Type>Label</Type>
-    <Name>DeleteServerList</Name>
-    <Value>Delete Server List</Value>
-    <ko_KR>서버 목록 삭제</ko_KR>
+    <Name>RemoveConnectionItem</Name>
+    <Value>Remove Connection Item</Value>
+    <ko_KR>접속 정보 삭제</ko_KR>
   </StringTable>
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.3631875Z"
-    ModifiedDateTime="2017-10-31T06:53:14.3631875Z">
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-07T05:50:26.5879112Z">
     <Type>Label</Type>
-    <Name>ManageServerList</Name>
-    <Value>Manage Server List</Value>
-    <ko_KR>서버 목록 관리</ko_KR>
+    <Name>ManageConnectionItemList</Name>
+    <Value>Manage Connection List</Value>
+    <ko_KR>접속 정보 관리</ko_KR>
   </StringTable>
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.3631875Z"
@@ -241,7 +245,9 @@
   </StringTable>
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.3641882Z"
-    ModifiedDateTime="2017-10-31T06:53:14.3641882Z">
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-11T00:20:10.9302458Z"
+    Enable="false">
     <Type>MenuItem</Type>
     <Name>AddToServerList</Name>
     <Value>_Add To Server List</Value>
@@ -273,26 +279,29 @@
   </StringTable>
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.3641882Z"
-    ModifiedDateTime="2017-10-31T06:53:14.3641882Z">
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-11T07:37:17.2595099Z">
     <Type>MenuItem</Type>
     <Name>CreateDataBase</Name>
-    <Value>Create DataBase(_N)...</Value>
+    <Value>_Create DataBase...</Value>
     <ko_KR>데이터 베이스 생성(_N)...</ko_KR>
   </StringTable>
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.3651889Z"
-    ModifiedDateTime="2017-10-31T06:53:14.3651889Z">
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-11T07:37:04.8574881Z">
     <Type>MenuItem</Type>
     <Name>Delete</Name>
-    <Value>Delete(_D)</Value>
+    <Value>_Delete</Value>
     <ko_KR>삭제(_D)</ko_KR>
   </StringTable>
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.3651889Z"
-    ModifiedDateTime="2017-10-31T06:53:14.3651889Z">
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-11T07:37:10.4266979Z">
     <Type>MenuItem</Type>
     <Name>DeleteDataBase</Name>
-    <Value>Delete DataBase(_D)...</Value>
+    <Value>_Delete DataBase...</Value>
     <ko_KR>데이터 베이스 삭제(_D)...</ko_KR>
   </StringTable>
   <StringTable
@@ -321,19 +330,21 @@
   </StringTable>
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.3651889Z"
-    ModifiedDateTime="2017-10-31T06:53:14.3651889Z">
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-11T07:37:29.6771317Z">
     <Type>MenuItem</Type>
     <Name>ManageDataBase</Name>
-    <Value>Manage DataBase(_M)...</Value>
+    <Value>_Manage DataBase...</Value>
     <ko_KR>데이터 베이스 관리(_M)...</ko_KR>
   </StringTable>
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.3651889Z"
-    ModifiedDateTime="2017-10-31T06:53:14.3651889Z">
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-11T06:28:04.0954153Z">
     <Type>MenuItem</Type>
-    <Name>ReplaceCurrentSettings</Name>
-    <Value>Replace Current Settings</Value>
-    <ko_KR>현재 설정 덮어쓰기(_S)</ko_KR>
+    <Name>Edit</Name>
+    <Value>_Edit</Value>
+    <ko_KR>편집(_E)</ko_KR>
   </StringTable>
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.3651889Z"
@@ -401,7 +412,9 @@
   </StringTable>
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.3661896Z"
-    ModifiedDateTime="2017-10-31T06:53:14.3661896Z">
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-11T00:20:36.3270904Z"
+    Enable="false">
     <Type>Message</Type>
     <Name>DeleteRecentServerList</Name>
     <Value>Do you want to delete recent server list?</Value>
@@ -409,7 +422,9 @@
   </StringTable>
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.3661896Z"
-    ModifiedDateTime="2017-10-31T06:53:14.3661896Z">
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-11T00:20:37.231892Z"
+    Enable="false">
     <Type>Message</Type>
     <Name>DeleteServerList</Name>
     <Value>Do you want to delete server list?</Value>
@@ -478,5 +493,55 @@
     <Name>Start</Name>
     <Value>Start</Value>
     <ko_KR>시작</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2017-12-11T00:08:17.3381924Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-11T00:08:17.3381924Z">
+    <Type>Label</Type>
+    <Name>Etc</Name>
+    <Value>Etc</Value>
+    <ko_KR>기타</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2017-12-11T00:14:47.8848784Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-11T00:14:47.8848784Z">
+    <Type>Label</Type>
+    <Name>ConnectionList</Name>
+    <Value>Connection List</Value>
+    <ko_KR>접속 목록</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2017-12-11T00:31:10.8426049Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-11T00:31:10.8426049Z">
+    <Type>Title</Type>
+    <Name>AddConnectionItem</Name>
+    <Value>Add Connection Item</Value>
+    <ko_KR>접속 정보 추가</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2017-12-11T00:31:10.8426049Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-11T00:31:10.8426049Z">
+    <Type>Title</Type>
+    <Name>EditConnectionItem</Name>
+    <Value>Edit Connection Item</Value>
+    <ko_KR>접속 정보 편집</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2017-12-11T04:20:58.146821Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2017-12-11T04:21:13.1540474Z">
+    <Type>Exception</Type>
+    <Name>InvalidConnectionItem</Name>
+    <Value>Invalid Connection Item</Value>
+    <ko_KR>잘못된 접속 정보입니다.</ko_KR>
   </StringTable>
 </Content>
