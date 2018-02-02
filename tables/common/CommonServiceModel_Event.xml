@@ -3,7 +3,7 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/common/CommonServiceModel_Event ../Templates/StringTable.xsd"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-02-02T05:04:17.8211206Z"
+  StringTable.ModifiedDateTime="2018-02-02T05:07:30.6560595Z"
   StringTable.Count="70"
   StringTable.ID="e3959270-1f4d-47d1-9377-e4bcbfdf7aaf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
@@ -692,7 +692,7 @@ message : "{4}"</ko_KR>
     Creator="s2quake"
     CreatedDateTime="2018-02-02T05:04:02.2366933Z"
     Modifier="s2quake"
-    ModifiedDateTime="2018-02-02T05:04:17.8211206Z">
+    ModifiedDateTime="2018-02-02T05:07:30.6560595Z">
     <Type>None</Type>
     <Name>AddAccessMemberToDataBase</Name>
     <Value>'{0}({1})' added '{3}({4})' to the user list of database '{2}'.</Value>
