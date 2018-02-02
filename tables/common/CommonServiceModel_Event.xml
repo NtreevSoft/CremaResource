@@ -3,7 +3,7 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/common/CommonServiceModel_Event ../Templates/StringTable.xsd"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-02-02T06:52:34.8057369Z"
+  StringTable.ModifiedDateTime="2018-02-02T07:19:09.7081391Z"
   StringTable.Count="70"
   StringTable.ID="e3959270-1f4d-47d1-9377-e4bcbfdf7aaf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
@@ -652,11 +652,11 @@ message : "{4}"</ko_KR>
     Creator="s2quake"
     CreatedDateTime="2018-02-02T02:29:09.1713637Z"
     Modifier="s2quake"
-    ModifiedDateTime="2018-02-02T06:52:34.8057369Z">
+    ModifiedDateTime="2018-02-02T07:19:09.7081391Z">
     <Type>None</Type>
     <Name>LockDataBase</Name>
-    <Value>'{0}({1})' locked database: '{2}'</Value>
-    <ko_KR>'{0}({1})'이(가) 데이터 베이스의 잠금을 설정했습니다.</ko_KR>
+    <Value>'{0}({1})' locked database: "{2}"</Value>
+    <ko_KR>'{0}({1})'이(가) 데이터 베이스의 잠금을 설정했습니다: "{2}"</ko_KR>
   </StringTable>
   <StringTable
     Creator="s2quake"
