@@ -3,8 +3,8 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/common/CommonServiceModel_Event ../Templates/StringTable.xsd"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-02-02T02:29:20.6685839Z"
-  StringTable.Count="65"
+  StringTable.ModifiedDateTime="2018-02-02T05:04:17.8211206Z"
+  StringTable.Count="70"
   StringTable.ID="e3959270-1f4d-47d1-9377-e4bcbfdf7aaf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="admin"
@@ -657,5 +657,55 @@ message : "{4}"</ko_KR>
     <Name>LockDataBase</Name>
     <Value>'{0}({1})' locked database.</Value>
     <ko_KR>'{0}({1})'이(가) 데이터 베이스의 잠금을 설정했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-02T05:04:02.2366933Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-02T05:04:02.2366933Z">
+    <Type>None</Type>
+    <Name>RemoveAccessMemberFromDataBase</Name>
+    <Value>'{0}({1})' removed '{3}' to the user list of database '{2}'.</Value>
+    <ko_KR>'{0}({1})'이(가) 데이터베이스 '{2}'의 사용자 목록에서 '{3}'을(를) 삭제했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-02T05:04:02.2366933Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-02T05:04:02.2366933Z">
+    <Type>None</Type>
+    <Name>SetPrivateDataBase</Name>
+    <Value>'{0}({1})' set authority of database '{2}' to private.</Value>
+    <ko_KR>'{0}({1})'이(가) 데이터베이스 '{2}'의 사용자 권한을 비공개로 설정했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-02T05:04:02.2366933Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-02T05:04:15.8555172Z">
+    <Type>None</Type>
+    <Name>SetPublicDataBase</Name>
+    <Value>'{0}({1})' set authority of database '{2}' to public.</Value>
+    <ko_KR>'{0}({1})'이(가) 데이터베이스 '{2}'의 사용자 권한을 공개로 설정했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-02T05:04:02.2366933Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-02T05:04:17.8211206Z">
+    <Type>None</Type>
+    <Name>AddAccessMemberToDataBase</Name>
+    <Value>'{0}({1})' added '{3}({4})' to the user list of database '{2}'.</Value>
+    <ko_KR>'{0}({1})'이(가) 데이터베이스 '{2}'의 사용자 목록에 '{3}({4})'을(를) 추가했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-02T05:04:02.2366933Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-02T05:04:02.2366933Z">
+    <Type>None</Type>
+    <Name>SetAccessMemberOfDataBase</Name>
+    <Value>'{0}({1})' set type of '{3}' user of database '{2}' to '{4}'.</Value>
+    <ko_KR>'{0}({1})'이(가) 데이터베이스 '{2}'의 사용자 '{3}'의 타입을 {4}로 설정했습니다.</ko_KR>
   </StringTable>
 </Content>
