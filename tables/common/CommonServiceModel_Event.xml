@@ -3,8 +3,8 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/common/CommonServiceModel_Event ../Templates/StringTable.xsd"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-02-02T07:19:09.7081391Z"
-  StringTable.Count="70"
+  StringTable.ModifiedDateTime="2018-02-02T07:48:28.5150291Z"
+  StringTable.Count="72"
   StringTable.ID="e3959270-1f4d-47d1-9377-e4bcbfdf7aaf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="admin"
@@ -707,5 +707,25 @@ message : "{4}"</ko_KR>
     <Name>SetAccessMemberOfDataBase</Name>
     <Value>'{0}({1})' set type of '{3}' user of database '{2}' to '{4}'.</Value>
     <ko_KR>'{0}({1})'이(가) 데이터베이스 '{2}'의 사용자 '{3}'의 타입을 {4}로 설정했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-02T07:48:28.5150291Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-02T07:48:28.5150291Z">
+    <Type>None</Type>
+    <Name>SetAccessMemberOfTableItem</Name>
+    <Value>{0}({1})' set type of '{3}' user of table item '{2}' to '{4}'.</Value>
+    <ko_KR>{0}({1})'이(가) 테이블 항목 '{2}'의 사용자 '{3}'의 타입을 {4}로 설정했습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-02T07:48:28.5150291Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-02T07:48:28.5150291Z">
+    <Type>None</Type>
+    <Name>SetAccessMemberOfTypeItem</Name>
+    <Value>{0}({1})' set type of '{3}' user of type item '{2}' to '{4}'.</Value>
+    <ko_KR>{0}({1})'이(가) 타입 항목 '{2}'의 사용자 '{3}'의 타입을 {4}로 설정했습니다.</ko_KR>
   </StringTable>
 </Content>
