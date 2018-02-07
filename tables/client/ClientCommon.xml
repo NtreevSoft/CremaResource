@@ -4,8 +4,9 @@
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientCommon ../Templates/StringTable.xsd"
   Creator="admin"
   CreatedDateTime="2017-10-23T07:16:01.2646706Z"
-  StringTable.ModifiedDateTime="2018-01-26T05:04:28.2817639Z"
-  StringTable.Count="64"
+  StringTable.Modifier="s2quake"
+  StringTable.ModifiedDateTime="2018-02-07T08:28:20.251591Z"
+  StringTable.Count="71"
   StringTable.ID="c0cab95d-e8db-454e-bfdd-db225b55d79e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.3611864Z"
@@ -543,5 +544,75 @@
     <Name>InvalidConnectionItem</Name>
     <Value>Invalid Connection Item</Value>
     <ko_KR>잘못된 접속 정보입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-07T08:27:30.9389043Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-07T08:27:30.9389043Z">
+    <Type>MenuItem</Type>
+    <Name>SetAuthority</Name>
+    <Value>Set _Authority...</Value>
+    <ko_KR>권한 설정(_A)...</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-07T08:27:30.9389043Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-07T08:27:30.9389043Z">
+    <Type>MenuItem</Type>
+    <Name>SetPrivate</Name>
+    <Value>Set _Private</Value>
+    <ko_KR>비공개로 설정(_P)</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-07T08:27:30.9389043Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-07T08:27:30.9389043Z">
+    <Type>MenuItem</Type>
+    <Name>SetPublic</Name>
+    <Value>Set _Public</Value>
+    <ko_KR>공개로 설정(_P)</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-07T08:27:30.9389043Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-07T08:27:30.9389043Z">
+    <Type>MenuItem</Type>
+    <Name>Unlock</Name>
+    <Value>_Unlock</Value>
+    <ko_KR>잠금 해제(_U)</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-07T08:27:35.9465131Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-07T08:27:35.9465131Z">
+    <Type>MenuItem</Type>
+    <Name>Lock</Name>
+    <Value>_Lock...</Value>
+    <ko_KR>잠금 설정(_L)...</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-07T08:27:44.3237278Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-07T08:28:17.381186Z">
+    <Type>MenuItem</Type>
+    <Name>Load</Name>
+    <Value>_Load...</Value>
+    <ko_KR>활성화</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-07T08:27:51.797141Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-07T08:28:20.251591Z">
+    <Type>MenuItem</Type>
+    <Name>Unload</Name>
+    <Value>_Unload...</Value>
+    <ko_KR>비활성화</ko_KR>
   </StringTable>
 </Content>
