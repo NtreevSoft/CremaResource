@@ -4,8 +4,9 @@
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientFramework ../Templates/StringTable.xsd"
   Creator="admin"
   CreatedDateTime="2017-10-23T07:16:01.2646706Z"
-  StringTable.ModifiedDateTime="2017-10-31T06:53:14.3721931Z"
-  StringTable.Count="15"
+  StringTable.Modifier="s2quake"
+  StringTable.ModifiedDateTime="2018-02-08T00:03:47.8124104Z"
+  StringTable.Count="23"
   StringTable.ID="c0cab95d-e8db-454e-bfdd-db225b55d79e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.371193Z"
@@ -126,5 +127,85 @@
     <Name>ColumnRangeExceeded</Name>
     <Value>The range of columns to paste has been exceeded.</Value>
     <ko_KR>붙여넣기 대상 열의 범위가 초과되었습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T00:03:47.8124104Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T00:03:47.8124104Z">
+    <Type>MenuItem</Type>
+    <Name>SetAuthority</Name>
+    <Value>Set _Authority...</Value>
+    <ko_KR>권한 설정(_A)...</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T00:03:47.8124104Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T00:03:47.8124104Z">
+    <Type>MenuItem</Type>
+    <Name>SetPrivate</Name>
+    <Value>Set _Private</Value>
+    <ko_KR>비공개로 설정(_P)</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T00:03:47.8124104Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T00:03:47.8124104Z">
+    <Type>MenuItem</Type>
+    <Name>SetPublic</Name>
+    <Value>Set _Public</Value>
+    <ko_KR>공개로 설정(_P)</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T00:03:47.8124104Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T00:03:47.8124104Z">
+    <Type>MenuItem</Type>
+    <Name>Unlock</Name>
+    <Value>_Unlock</Value>
+    <ko_KR>잠금 해제(_U)</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T00:03:47.8124104Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T00:03:47.8124104Z">
+    <Type>MenuItem</Type>
+    <Name>Lock</Name>
+    <Value>_Lock...</Value>
+    <ko_KR>잠금 설정(_L)...</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T00:03:47.8124104Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T00:03:47.8124104Z">
+    <Type>MenuItem</Type>
+    <Name>Load</Name>
+    <Value>_Load...</Value>
+    <ko_KR>활성화</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T00:03:47.8124104Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T00:03:47.8124104Z">
+    <Type>MenuItem</Type>
+    <Name>Unload</Name>
+    <Value>_Unload...</Value>
+    <ko_KR>비활성화</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-08T00:03:47.8124104Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-08T00:03:47.8124104Z">
+    <Type>Message</Type>
+    <Name>ConfirmToSetPrivate</Name>
+    <Value>Do you want to set it to Private?</Value>
+    <ko_KR>비공개로 설정하시겠습니까?</ko_KR>
   </StringTable>
 </Content>
