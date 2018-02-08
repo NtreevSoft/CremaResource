@@ -3,7 +3,7 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientUsers ../Templates/StringTable.xsd"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-02-08T08:47:52.4510611Z"
+  StringTable.ModifiedDateTime="2018-02-08T08:48:22.8867146Z"
   StringTable.Count="66"
   StringTable.ID="680b0787-b3db-4dee-9ee6-516e57be5424" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
@@ -430,9 +430,9 @@
     Creator="s2quake"
     CreatedDateTime="2018-02-08T08:44:49.1165389Z"
     Modifier="s2quake"
-    ModifiedDateTime="2018-02-08T08:47:52.4510611Z">
+    ModifiedDateTime="2018-02-08T08:48:22.8867146Z">
     <Type>Title</Type>
-    <Name>Administrator_Format</Name>
+    <Name>AdministratorMessage_Format</Name>
     <Value>Administrator Message: {0}</Value>
     <ko_KR>관리자 메세지: {0}</ko_KR>
   </StringTable>
