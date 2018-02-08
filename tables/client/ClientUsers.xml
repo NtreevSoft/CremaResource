@@ -3,7 +3,7 @@
   Version="3.5"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientUsers ../Templates/StringTable.xsd"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-02-08T08:44:49.1165389Z"
+  StringTable.ModifiedDateTime="2018-02-08T08:46:53.4351574Z"
   StringTable.Count="66"
   StringTable.ID="680b0787-b3db-4dee-9ee6-516e57be5424" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
@@ -360,11 +360,11 @@
     Creator="s2quake"
     CreatedDateTime="2018-02-08T08:44:49.1165389Z"
     Modifier="s2quake"
-    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    ModifiedDateTime="2018-02-08T08:46:53.4351574Z">
     <Type>MenuItem</Type>
-    <Name>SetMaster</Name>
-    <Value>Set Master</Value>
-    <ko_KR>편집장 위임하기</ko_KR>
+    <Name>SetOwner</Name>
+    <Value>Set Owner</Value>
+    <ko_KR>소유자 변경하기</ko_KR>
   </StringTable>
   <StringTable
     Creator="s2quake"
@@ -650,11 +650,11 @@
     Creator="s2quake"
     CreatedDateTime="2018-02-08T08:44:49.1165389Z"
     Modifier="s2quake"
-    ModifiedDateTime="2018-02-08T08:44:49.1165389Z">
+    ModifiedDateTime="2018-02-08T08:46:26.1819095Z">
     <Type>Tooltip</Type>
-    <Name>Master</Name>
-    <Value>Master</Value>
-    <ko_KR>편집장</ko_KR>
+    <Name>Owner</Name>
+    <Value>Owner</Value>
+    <ko_KR>소유자</ko_KR>
   </StringTable>
   <StringTable
     Creator="s2quake"
