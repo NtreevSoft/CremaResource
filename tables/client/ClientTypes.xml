@@ -5,8 +5,8 @@
   Creator="admin"
   CreatedDateTime="2017-10-23T07:16:01.2646706Z"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-02-19T08:53:41.5310353Z"
-  StringTable.Count="78"
+  StringTable.ModifiedDateTime="2018-02-20T06:18:26.6487043Z"
+  StringTable.Count="77"
   StringTable.ID="c0cab95d-e8db-454e-bfdd-db225b55d79e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.3902062Z"
@@ -19,11 +19,11 @@
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.3902062Z"
     Modifier="s2quake"
-    ModifiedDateTime="2018-02-19T08:53:41.5310353Z">
-    <Type>Button</Type>
-    <Name>Clone</Name>
-    <Value>_Clone</Value>
-    <ko_KR>복제(_V)</ko_KR>
+    ModifiedDateTime="2018-02-20T06:18:26.6487043Z">
+    <Type>MenuItem</Type>
+    <Name>Copy</Name>
+    <Value>_Copy...</Value>
+    <ko_KR>복사(_C)...</ko_KR>
   </StringTable>
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.3902062Z"
@@ -241,14 +241,6 @@
     <Name>CancelTemplateEditing</Name>
     <Value>Cancel Template Editing</Value>
     <ko_KR>형태 편집 취소</ko_KR>
-  </StringTable>
-  <StringTable
-    CreatedDateTime="2017-10-31T06:53:14.3972117Z"
-    ModifiedDateTime="2017-10-31T06:53:14.3972117Z">
-    <Type>MenuItem</Type>
-    <Name>Copy</Name>
-    <Value>_Copy Type...</Value>
-    <ko_KR>타입 복사(_V)...</ko_KR>
   </StringTable>
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.3982121Z"
