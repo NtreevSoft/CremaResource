@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Content
-  Version="3.5"
+  Version="3.6"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/common/CommonServiceModel_Event ../Templates/StringTable.xsd"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-02-08T08:30:01.8867792Z"
+  StringTable.ModifiedDateTime="2018-02-20T04:32:04.8922874Z"
   StringTable.Count="72"
   StringTable.ID="e3959270-1f4d-47d1-9377-e4bcbfdf7aaf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
@@ -229,12 +229,12 @@
   <StringTable
     Creator="admin"
     CreatedDateTime="2017-11-01T07:32:49.3752868Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-11-08T01:29:56.3940064Z">
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-20T04:32:04.8922874Z">
     <Type>None</Type>
     <Name>DeleteUser</Name>
-    <Value>'{0}({1})' deleted user '{2}({3})'.</Value>
-    <ko_KR>'{0}({1})'이(가) 사용자 '{2}({3})'을(를) 삭제했습니다.</ko_KR>
+    <Value>'{0}({1})' deleted user '{2}'.</Value>
+    <ko_KR>'{0}({1})'이(가) 사용자 '{2}'을(를) 삭제했습니다.</ko_KR>
   </StringTable>
   <StringTable
     Creator="admin"
