@@ -5,8 +5,8 @@
   Creator="admin"
   CreatedDateTime="2017-10-23T07:16:01.2646706Z"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-02-20T06:25:02.157199Z"
-  StringTable.Count="73"
+  StringTable.ModifiedDateTime="2018-02-26T09:37:13.4423834Z"
+  StringTable.Count="78"
   StringTable.ID="c0cab95d-e8db-454e-bfdd-db225b55d79e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.3611864Z"
@@ -635,5 +635,55 @@
     <Name>Deleted</Name>
     <Value>Deleted.</Value>
     <ko_KR>삭제되었습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-26T09:35:45.4718287Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-26T09:35:45.4718287Z">
+    <Type>Label</Type>
+    <Name>Owner</Name>
+    <Value>Owner</Value>
+    <ko_KR>소유자</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-26T09:36:05.4242638Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-26T09:36:05.4242638Z">
+    <Type>Label</Type>
+    <Name>SettingDateTime</Name>
+    <Value>Setting DateTime</Value>
+    <ko_KR>설정 날짜</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-26T09:36:19.760689Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-26T09:36:19.760689Z">
+    <Type>Label</Type>
+    <Name>Path</Name>
+    <Value>Path</Value>
+    <ko_KR>경로</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-26T09:37:13.4423834Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-26T09:37:13.4423834Z">
+    <Type>Title</Type>
+    <Name>AccessInfo</Name>
+    <Value>Access Information</Value>
+    <ko_KR>보안 정보</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-26T09:37:13.4423834Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-26T09:37:13.4423834Z">
+    <Type>Title</Type>
+    <Name>LockInfo</Name>
+    <Value>Lock Info</Value>
+    <ko_KR>잠금 정보</ko_KR>
   </StringTable>
 </Content>
