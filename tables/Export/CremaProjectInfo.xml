@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Content
-  Version="3.5"
+  Version="3.6"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/Export/CremaProjectInfo ../Templates/ProjectInfo.xsd"
   ProjectInfo.Modifier="s2quake"
-  ProjectInfo.ModifiedDateTime="2018-02-08T08:45:32.5002151Z"
-  ProjectInfo.Count="15"
+  ProjectInfo.ModifiedDateTime="2018-02-27T00:04:02.7617631Z"
+  ProjectInfo.Count="16"
   ProjectInfo.ID="dea31cbb-0fbd-40b7-9e09-bf11038a3aca"
   ProjectInfo.ExportInfo.Modifier="s2quake"
-  ProjectInfo.ExportInfo.ModifiedDateTime="2018-02-08T08:45:43.0146336Z"
-  ProjectInfo.ExportInfo.Count="16"
+  ProjectInfo.ExportInfo.ModifiedDateTime="2018-02-27T00:04:12.1841796Z"
+  ProjectInfo.ExportInfo.Count="17"
   ProjectInfo.ExportInfo.ID="a9ca9738-2c3f-41a3-b380-98987977e42e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/ProjectInfo">
   <ProjectInfo
     CreatedDateTime="2017-10-31T06:53:14.4082187Z"
@@ -301,6 +301,26 @@
       <ID>15</ID>
       <FileName />
       <TableName>ClientUsers</TableName>
+    </ExportInfo>
+  </ProjectInfo>
+  <ProjectInfo
+    Creator="s2quake"
+    CreatedDateTime="2018-02-27T00:04:02.7617631Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T00:04:02.7617631Z"
+    RelationID="1f0059ca290c3679c52ad63a968d74fb">
+    <KindType>Common</KindType>
+    <ProjectType>Library</ProjectType>
+    <Name>Ntreev.Crema.Data</Name>
+    <ProjectPath>common/Ntreev.Crema.Data/Ntreev.Crema.Data.csproj</ProjectPath>
+    <ExportInfo
+      Creator="s2quake"
+      CreatedDateTime="2018-02-27T00:04:12.1841796Z"
+      Modifier="s2quake"
+      ModifiedDateTime="2018-02-27T00:04:12.1841796Z">
+      <ID>16</ID>
+      <FileName />
+      <TableName>CremaData</TableName>
     </ExportInfo>
   </ProjectInfo>
 </Content>
