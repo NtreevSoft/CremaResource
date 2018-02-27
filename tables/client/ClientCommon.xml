@@ -5,8 +5,8 @@
   Creator="admin"
   CreatedDateTime="2017-10-23T07:16:01.2646706Z"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-02-26T09:37:47.1092426Z"
-  StringTable.Count="79"
+  StringTable.ModifiedDateTime="2018-02-27T02:20:39.7117506Z"
+  StringTable.Count="81"
   StringTable.ID="c0cab95d-e8db-454e-bfdd-db225b55d79e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.3611864Z"
@@ -695,5 +695,25 @@
     <Name>User</Name>
     <Value>User</Value>
     <ko_KR>사용자</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-27T02:20:39.6961506Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T02:20:39.7117506Z">
+    <Type>Title</Type>
+    <Name>DataBase</Name>
+    <Value>DataBase</Value>
+    <ko_KR>데이터 베이스</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-27T02:20:39.7117506Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T02:20:39.7117506Z">
+    <Type>Title</Type>
+    <Name>DataBaseInfo</Name>
+    <Value>DataBase Info</Value>
+    <ko_KR>데이터 베이스 정보</ko_KR>
   </StringTable>
 </Content>
