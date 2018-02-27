@@ -5,8 +5,8 @@
   Creator="s2quake"
   CreatedDateTime="2018-02-26T23:55:06.1334204Z"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-02-27T00:04:45.2874378Z"
-  StringTable.Count="26"
+  StringTable.ModifiedDateTime="2018-02-27T00:11:36.9625612Z"
+  StringTable.Count="27"
   StringTable.ID="b0b3f6b7-59ee-4da1-b23c-d34d82eb97f9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="s2quake"
@@ -277,5 +277,15 @@
     <Name>UsableOnChildTable</Name>
     <Value>Only usable on child table.</Value>
     <ko_KR>자식 테이블에서만 사용이 가능합니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-27T00:11:26.635343Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T00:11:36.9625612Z">
+    <Type>Exception</Type>
+    <Name>NotIncludedInDataSet</Name>
+    <Value>Not included in DataSet.</Value>
+    <ko_KR>DataSet에 포함되어 있지 않습니다.</ko_KR>
   </StringTable>
 </Content>
