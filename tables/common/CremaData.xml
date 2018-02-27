@@ -4,4 +4,39 @@
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/common/CremaData ../Templates/StringTable.xsd"
   Creator="s2quake"
   CreatedDateTime="2018-02-26T23:55:06.1334204Z"
-  StringTable.ID="b0b3f6b7-59ee-4da1-b23c-d34d82eb97f9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable" />
+  StringTable.Modifier="s2quake"
+  StringTable.ModifiedDateTime="2018-02-27T00:01:03.421848Z"
+  StringTable.Count="3"
+  StringTable.ID="b0b3f6b7-59ee-4da1-b23c-d34d82eb97f9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-26T23:55:20.9690464Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-26T23:56:04.6501232Z">
+    <Type>Exception</Type>
+    <Name>CannotConvert</Name>
+    <Comment>value, dataTypeName</Comment>
+    <Value>Can not convert '{0}' to '{1}'.</Value>
+    <ko_KR>'{0}'은(는) '{1}' 으로 변환할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-26T23:56:55.3346122Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-26T23:57:07.8614342Z">
+    <Type>Exception</Type>
+    <Name>CannotCopyToSameDataSet</Name>
+    <Value>Can not copy to same DataSet.</Value>
+    <ko_KR>같은 DataSet에는 복사할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-26T23:59:43.6589079Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T00:01:03.421848Z">
+    <Type>Exception</Type>
+    <Name>CannotInheritWithoutDataSet</Name>
+    <Value>If the table is not in DataSet, it can not be inherited.</Value>
+    <ko_KR>테이블이 DataSet에 없는 경우에는 테이블을 상속할 수 없습니다.</ko_KR>
+  </StringTable>
+</Content>
