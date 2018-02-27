@@ -5,8 +5,8 @@
   Creator="admin"
   CreatedDateTime="2017-10-23T07:16:01.2646706Z"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-02-27T02:20:39.7117506Z"
-  StringTable.Count="81"
+  StringTable.ModifiedDateTime="2018-02-27T02:23:06.3208081Z"
+  StringTable.Count="84"
   StringTable.ID="c0cab95d-e8db-454e-bfdd-db225b55d79e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.3611864Z"
@@ -715,5 +715,35 @@
     <Name>DataBaseInfo</Name>
     <Value>DataBase Info</Value>
     <ko_KR>데이터 베이스 정보</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-27T02:22:15.5115188Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T02:22:50.33078Z">
+    <Type>Label</Type>
+    <Name>BranchRevision</Name>
+    <Value>BranchRevision</Value>
+    <ko_KR>브랜치 리비전</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-27T02:22:23.1087322Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T02:22:59.2539957Z">
+    <Type>Label</Type>
+    <Name>BranchSource</Name>
+    <Value>BranchSource</Value>
+    <ko_KR>브랜치 원본</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-27T02:22:31.6263471Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-27T02:23:06.3208081Z">
+    <Type>Label</Type>
+    <Name>BranchSourceRevision</Name>
+    <Value>BranchSourceRevision</Value>
+    <ko_KR>브랜치 원본 리비전</ko_KR>
   </StringTable>
 </Content>
