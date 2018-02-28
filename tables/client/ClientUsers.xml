@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Content
-  Version="3.5"
+  Version="3.6"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientUsers ../Templates/StringTable.xsd"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-02-08T08:48:22.8867146Z"
-  StringTable.Count="66"
+  StringTable.ModifiedDateTime="2018-02-28T06:05:28.8399966Z"
+  StringTable.Count="67"
   StringTable.ID="680b0787-b3db-4dee-9ee6-516e57be5424" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="s2quake"
@@ -665,5 +665,15 @@
     <Name>Notify</Name>
     <Value>Notify Message</Value>
     <ko_KR>전체 메세지 보내기</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-28T06:05:28.8399966Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-28T06:05:28.8399966Z">
+    <Type>Title</Type>
+    <Name>DataBaseUsers</Name>
+    <Value>DataBase Users</Value>
+    <ko_KR>데이터 베이스 사용자</ko_KR>
   </StringTable>
 </Content>
