@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Content
   Version="3.6"
-  xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientCommon ../Templates/StringTable.xsd"
+  xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientBase ../Templates/StringTable.xsd"
   Creator="admin"
   CreatedDateTime="2017-10-23T07:16:01.2646706Z"
   StringTable.Modifier="s2quake"
