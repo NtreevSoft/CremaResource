@@ -5,8 +5,8 @@
   Creator="admin"
   CreatedDateTime="2017-10-23T07:16:01.2646706Z"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-02-27T06:47:49.5511055Z"
-  StringTable.Count="87"
+  StringTable.ModifiedDateTime="2018-02-28T05:06:33.7489875Z"
+  StringTable.Count="88"
   StringTable.ID="c0cab95d-e8db-454e-bfdd-db225b55d79e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.3611864Z"
@@ -775,5 +775,15 @@
     <Name>DateTime</Name>
     <Value>DateTime</Value>
     <ko_KR>날짜</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-02-28T05:06:33.7489875Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-02-28T05:06:33.7489875Z">
+    <Type>Tooltip</Type>
+    <Name>Notify</Name>
+    <Value>Notify Message</Value>
+    <ko_KR>전체 메세지 보내기</ko_KR>
   </StringTable>
 </Content>
