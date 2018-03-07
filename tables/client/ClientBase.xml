@@ -5,8 +5,8 @@
   Creator="admin"
   CreatedDateTime="2017-10-23T07:16:01.2646706Z"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-02-28T05:14:08.1153856Z"
-  StringTable.Count="87"
+  StringTable.ModifiedDateTime="2018-03-07T02:17:14.0081205Z"
+  StringTable.Count="88"
   StringTable.ID="c0cab95d-e8db-454e-bfdd-db225b55d79e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.3611864Z"
@@ -775,5 +775,15 @@
     <Name>DateTime</Name>
     <Value>DateTime</Value>
     <ko_KR>날짜</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-07T02:17:14.0081205Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-07T02:17:14.0081205Z">
+    <Type>Label</Type>
+    <Name>ID</Name>
+    <Value>ID</Value>
+    <ko_KR>ID</ko_KR>
   </StringTable>
 </Content>
