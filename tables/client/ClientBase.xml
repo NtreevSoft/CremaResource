@@ -5,8 +5,8 @@
   Creator="admin"
   CreatedDateTime="2017-10-23T07:16:01.2646706Z"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-03-07T04:27:26.3926423Z"
-  StringTable.Count="95"
+  StringTable.ModifiedDateTime="2018-03-07T05:38:51.5641688Z"
+  StringTable.Count="97"
   StringTable.ID="c0cab95d-e8db-454e-bfdd-db225b55d79e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.3611864Z"
@@ -855,5 +855,25 @@
     <Name>DataBaseDomainList</Name>
     <Value>DataBase Domain List</Value>
     <ko_KR>데이터 베이스 도메인 목록</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-07T05:38:28.4449282Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-07T05:38:49.988566Z">
+    <Type>MenuItem</Type>
+    <Name>CancelEdit</Name>
+    <Value>Cancel Edit</Value>
+    <ko_KR>편집 취소</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-07T05:38:28.4449282Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-07T05:38:51.5641688Z">
+    <Type>MenuItem</Type>
+    <Name>EndEdit</Name>
+    <Value>End Edit</Value>
+    <ko_KR>편집 종료</ko_KR>
   </StringTable>
 </Content>
