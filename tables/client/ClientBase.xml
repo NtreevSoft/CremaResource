@@ -5,8 +5,8 @@
   Creator="admin"
   CreatedDateTime="2017-10-23T07:16:01.2646706Z"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-03-07T02:26:16.5458734Z"
-  StringTable.Count="94"
+  StringTable.ModifiedDateTime="2018-03-07T04:26:00.4364913Z"
+  StringTable.Count="95"
   StringTable.ID="c0cab95d-e8db-454e-bfdd-db225b55d79e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.3611864Z"
@@ -845,5 +845,15 @@
     <Name>DomainList</Name>
     <Value>Domain List</Value>
     <ko_KR>도메인 목록</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-07T04:26:00.4364913Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-07T04:26:00.4364913Z">
+    <Type>Label</Type>
+    <Name>DataBaseDomainList</Name>
+    <Value>DataBase Domain List</Value>
+    <ko_KR>데이터 베이스 도메인 목록</ko_KR>
   </StringTable>
 </Content>
