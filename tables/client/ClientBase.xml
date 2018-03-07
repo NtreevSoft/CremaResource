@@ -5,8 +5,8 @@
   Creator="admin"
   CreatedDateTime="2017-10-23T07:16:01.2646706Z"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-03-07T02:17:14.0081205Z"
-  StringTable.Count="88"
+  StringTable.ModifiedDateTime="2018-03-07T02:19:47.3563899Z"
+  StringTable.Count="91"
   StringTable.ID="c0cab95d-e8db-454e-bfdd-db225b55d79e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.3611864Z"
@@ -785,5 +785,35 @@
     <Name>ID</Name>
     <Value>ID</Value>
     <ko_KR>ID</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-07T02:19:15.1891334Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-07T02:19:15.1891334Z">
+    <Type>Label</Type>
+    <Name>ItemPath</Name>
+    <Value>Item Path</Value>
+    <ko_KR>항목 경로</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-07T02:19:28.9951576Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-07T02:19:28.9951576Z">
+    <Type>Label</Type>
+    <Name>ItemType</Name>
+    <Value>Item Type</Value>
+    <ko_KR>항목 타입</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-07T02:19:47.3563899Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-07T02:19:47.3563899Z">
+    <Type>Label</Type>
+    <Name>DomainType</Name>
+    <Value>Domain Type</Value>
+    <ko_KR>도메인 타입</ko_KR>
   </StringTable>
 </Content>
