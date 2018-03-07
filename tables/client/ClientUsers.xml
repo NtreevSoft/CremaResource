@@ -3,8 +3,8 @@
   Version="3.6"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientUsers ../Templates/StringTable.xsd"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-02-28T06:05:28.8399966Z"
-  StringTable.Count="67"
+  StringTable.ModifiedDateTime="2018-03-07T05:10:37.8067938Z"
+  StringTable.Count="68"
   StringTable.ID="680b0787-b3db-4dee-9ee6-516e57be5424" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="s2quake"
@@ -675,5 +675,15 @@
     <Name>DataBaseUsers</Name>
     <Value>DataBase Users</Value>
     <ko_KR>데이터 베이스 사용자</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-07T05:10:37.8067938Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-07T05:10:37.8067938Z">
+    <Type>Title</Type>
+    <Name>UserDomainList</Name>
+    <Value>User Domain List</Value>
+    <ko_KR>사용자 도메인 목록</ko_KR>
   </StringTable>
 </Content>
