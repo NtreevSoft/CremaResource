@@ -5,8 +5,8 @@
   Creator="admin"
   CreatedDateTime="2017-10-23T07:16:01.2646706Z"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-02-27T06:55:46.2411428Z"
-  StringTable.Count="30"
+  StringTable.ModifiedDateTime="2018-03-07T05:39:34.1834436Z"
+  StringTable.Count="32"
   StringTable.ID="c0cab95d-e8db-454e-bfdd-db225b55d79e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.371193Z"
@@ -277,5 +277,25 @@
     <Name>ViewLog</Name>
     <Value>View Log</Value>
     <ko_KR>로그 보기(_L)...</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-07T05:39:34.1834436Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-07T05:39:34.1834436Z">
+    <Type>MenuItem</Type>
+    <Name>CancelEdit</Name>
+    <Value>Cancel Edit</Value>
+    <ko_KR>편집 취소</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-07T05:39:34.1834436Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-07T05:39:34.1834436Z">
+    <Type>MenuItem</Type>
+    <Name>EndEdit</Name>
+    <Value>End Edit</Value>
+    <ko_KR>편집 종료</ko_KR>
   </StringTable>
 </Content>
