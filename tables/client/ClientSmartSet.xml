@@ -6,7 +6,7 @@
   CreatedDateTime="2017-10-23T07:16:01.2646706Z"
   StringTable.Modifier="s2quake"
   StringTable.ModifiedDateTime="2018-03-19T05:36:01.9265319Z"
-  StringTable.Count="59"
+  StringTable.Count="72"
   StringTable.ID="c0cab95d-e8db-454e-bfdd-db225b55d79e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.3731938Z"
@@ -483,5 +483,135 @@
     <Name>Select</Name>
     <Value>_Select</Value>
     <ko_KR>선택(_S)</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2018-01-02T01:51:15.3441969Z"
+    Modifier="admin"
+    ModifiedDateTime="2018-01-02T01:51:15.3441969Z">
+    <Type>Button</Type>
+    <Name>Close</Name>
+    <Value>_Close</Value>
+    <ko_KR>닫기(_C)</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2018-01-02T02:45:46.6075426Z"
+    Modifier="admin"
+    ModifiedDateTime="2018-01-02T02:45:46.6075426Z">
+    <Type>Title</Type>
+    <Name>AddBookmark</Name>
+    <Value>Add Bookmark</Value>
+    <ko_KR>즐겨 찾기에 추가</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2018-01-02T04:37:26.1017096Z"
+    Modifier="admin"
+    ModifiedDateTime="2018-01-02T04:37:26.1017096Z">
+    <Type>Label</Type>
+    <Name>TableName</Name>
+    <Value>Table Name</Value>
+    <ko_KR>테이블 이름</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2018-01-03T02:05:16.3914277Z"
+    Modifier="admin"
+    ModifiedDateTime="2018-01-03T02:05:16.3914277Z">
+    <Type>MenuItem</Type>
+    <Name>Move</Name>
+    <Value>_Move</Value>
+    <ko_KR>이동(_M)</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2018-01-04T00:43:24.3669538Z"
+    Modifier="admin"
+    ModifiedDateTime="2018-01-04T00:43:24.3669538Z">
+    <Type>Button</Type>
+    <Name>Move</Name>
+    <Value>_Move</Value>
+    <ko_KR>이동(_M)</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2018-01-04T04:12:17.2729667Z"
+    Modifier="admin"
+    ModifiedDateTime="2018-01-04T04:12:17.2729667Z">
+    <Type>Label</Type>
+    <Name>CurrentPath</Name>
+    <Value>Current Path</Value>
+    <ko_KR>현재 경로</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2018-01-04T04:18:56.2280674Z"
+    Modifier="admin"
+    ModifiedDateTime="2018-01-04T04:18:56.2280674Z">
+    <Type>Title</Type>
+    <Name>MoveBookmark</Name>
+    <Value>Move Bookmark</Value>
+    <ko_KR>즐겨 찾기 이동</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2018-01-04T04:33:00.2519499Z"
+    Modifier="admin"
+    ModifiedDateTime="2018-01-04T04:33:00.2519499Z">
+    <Type>MenuItem</Type>
+    <Name>MoveBookmark</Name>
+    <Value>Move Bookmark</Value>
+    <ko_KR>즐겨찾기 이동</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2018-01-05T02:33:55.8011549Z"
+    Modifier="admin"
+    ModifiedDateTime="2018-01-05T02:33:55.8011549Z">
+    <Type>Label</Type>
+    <Name>FolderName</Name>
+    <Value>Folder Name</Value>
+    <ko_KR>폴더 이름</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2018-01-09T01:35:30.1085371Z"
+    Modifier="admin"
+    ModifiedDateTime="2018-01-09T01:35:30.1085371Z">
+    <Type>Title</Type>
+    <Name>NewCategory</Name>
+    <Value>New Category</Value>
+    <ko_KR>새 폴더</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2018-01-09T02:02:30.3741829Z"
+    Modifier="admin"
+    ModifiedDateTime="2018-01-09T02:02:30.3741829Z">
+    <Type>Label</Type>
+    <Name>CategoryPath</Name>
+    <Value>Folder Path</Value>
+    <ko_KR>폴더 경로</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2018-01-09T02:02:48.8758154Z"
+    Modifier="admin"
+    ModifiedDateTime="2018-01-09T02:02:48.8758154Z">
+    <Type>Label</Type>
+    <Name>CategoryName</Name>
+    <Value>Folder Name</Value>
+    <ko_KR>폴더 이름</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="admin"
+    CreatedDateTime="2018-01-09T02:03:08.4070497Z"
+    Modifier="admin"
+    ModifiedDateTime="2018-01-09T02:03:08.4070497Z">
+    <Type>Button</Type>
+    <Name>Create</Name>
+    <Value>Cre_ate</Value>
+    <ko_KR>생성(_O)</ko_KR>
   </StringTable>
 </Content>
