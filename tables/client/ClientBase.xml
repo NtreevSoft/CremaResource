@@ -5,7 +5,7 @@
   Creator="admin"
   CreatedDateTime="2017-10-23T07:16:01.2646706Z"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-03-08T06:28:41.7023742Z"
+  StringTable.ModifiedDateTime="2018-03-26T05:05:12.0410828Z"
   StringTable.Count="97"
   StringTable.ID="c0cab95d-e8db-454e-bfdd-db225b55d79e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
@@ -265,11 +265,12 @@
   </StringTable>
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.3641882Z"
-    ModifiedDateTime="2017-10-31T06:53:14.3641882Z">
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-26T05:05:12.0410828Z">
     <Type>MenuItem</Type>
-    <Name>CloseDataBase</Name>
-    <Value>Close DataBase</Value>
-    <ko_KR>데이터 베이스 닫기</ko_KR>
+    <Name>LeaveDataBase</Name>
+    <Value>Leave DataBase</Value>
+    <ko_KR>데이터 베이스 나가기</ko_KR>
   </StringTable>
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.3641882Z"
