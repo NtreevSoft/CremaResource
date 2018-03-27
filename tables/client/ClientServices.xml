@@ -5,8 +5,8 @@
   Creator="s2quake"
   CreatedDateTime="2018-03-27T02:00:00.6112503Z"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-03-27T02:35:11.7629583Z"
-  StringTable.Count="16"
+  StringTable.ModifiedDateTime="2018-03-27T02:37:14.2699735Z"
+  StringTable.Count="17"
   StringTable.ID="22a47b84-acb1-4006-b4ba-d3e85d577a0d" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="s2quake"
@@ -32,9 +32,10 @@
     Creator="s2quake"
     CreatedDateTime="2018-03-27T02:05:26.714223Z"
     Modifier="s2quake"
-    ModifiedDateTime="2018-03-27T02:17:03.9886477Z">
+    ModifiedDateTime="2018-03-27T02:36:41.4319158Z">
     <Type>Exception</Type>
     <Name>InvalidName_Format</Name>
+    <Comment>name</Comment>
     <Value>'{0}' is not valid name.</Value>
     <ko_KR>'{0}'은(는) 유효하지 않은 이름입니다.</ko_KR>
   </StringTable>
@@ -167,5 +168,16 @@
     <Name>CannotRename</Name>
     <Value>It cannot rename.</Value>
     <ko_KR>이름은 변경할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-27T02:36:36.3307069Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-27T02:37:14.2699735Z">
+    <Type>Exception</Type>
+    <Name>InvalidProperty_Format</Name>
+    <Comment>propertyName</Comment>
+    <Value>'{0}' is not valid property name.</Value>
+    <ko_KR>'{0}'은(는) 유효하지 않은 속성 이름입니다.</ko_KR>
   </StringTable>
 </Content>
