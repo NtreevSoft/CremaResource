@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<xs:schema xmlns:t="http://schemas.ntreev.com/crema/tables/Templates/ProjectInfo" xmlns="http://schemas.ntreev.com/crema/tables/Templates/ProjectInfo" elementFormDefault="qualified" targetNamespace="http://schemas.ntreev.com/crema/tables/Templates/ProjectInfo" version="3.5" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:schema xmlns:t="http://schemas.ntreev.com/crema/tables/Templates/ProjectInfo" xmlns="http://schemas.ntreev.com/crema/tables/Templates/ProjectInfo" elementFormDefault="qualified" targetNamespace="http://schemas.ntreev.com/crema/tables/Templates/ProjectInfo" version="3.6" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:import schemaLocation="../../types/KindType.xsd" namespace="http://schemas.ntreev.com/crema/types/KindType" />
   <xs:import schemaLocation="../../types/ProjectType.xsd" namespace="http://schemas.ntreev.com/crema/types/ProjectType" />
   <xs:simpleType name="guid">
