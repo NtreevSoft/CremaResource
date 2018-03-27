@@ -3,11 +3,11 @@
   Version="3.6"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/Templates/ProjectInfo ProjectInfo.xsd"
   ProjectInfo.Modifier="s2quake"
-  ProjectInfo.ModifiedDateTime="2018-03-27T04:22:50.813903Z"
-  ProjectInfo.Count="7"
+  ProjectInfo.ModifiedDateTime="2018-03-27T05:06:13.3664742Z"
+  ProjectInfo.Count="6"
   ProjectInfo.ID="dea31cbb-0fbd-40b7-9e09-bf11038a3aca"
   ProjectInfo.ExportInfo.Modifier="s2quake"
-  ProjectInfo.ExportInfo.ModifiedDateTime="2018-03-27T04:17:40.0457572Z"
+  ProjectInfo.ExportInfo.ModifiedDateTime="2018-03-27T05:06:07.0952632Z"
   ProjectInfo.ExportInfo.Count="4"
   ProjectInfo.ExportInfo.ID="a9ca9738-2c3f-41a3-b380-98987977e42e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/ProjectInfo">
   <ProjectInfo
@@ -101,16 +101,5 @@
       <FileName />
       <TableName>ClientConverters</TableName>
     </ExportInfo>
-  </ProjectInfo>
-  <ProjectInfo
-    Creator="s2quake"
-    CreatedDateTime="2018-03-27T04:22:50.813903Z"
-    Modifier="s2quake"
-    ModifiedDateTime="2018-03-27T04:22:50.813903Z"
-    RelationID="8bbb1089-1e30-4d5b-bb1b-329182278fa8">
-    <KindType>Common</KindType>
-    <ProjectType>Library</ProjectType>
-    <Name>qwer</Name>
-    <ProjectPath>qwer</ProjectPath>
   </ProjectInfo>
 </Content>
