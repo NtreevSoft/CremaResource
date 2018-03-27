@@ -5,8 +5,8 @@
   Creator="s2quake"
   CreatedDateTime="2018-03-27T02:00:00.6112503Z"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-03-27T02:32:18.3062537Z"
-  StringTable.Count="15"
+  StringTable.ModifiedDateTime="2018-03-27T02:35:11.7629583Z"
+  StringTable.Count="16"
   StringTable.ID="22a47b84-acb1-4006-b4ba-d3e85d577a0d" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="s2quake"
@@ -157,5 +157,15 @@
     <Name>InvalidName</Name>
     <Value>It is not valid name.</Value>
     <ko_KR>유효지 않은 이름입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-27T02:35:11.7629583Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-27T02:35:11.7629583Z">
+    <Type>Exception</Type>
+    <Name>CannotRename</Name>
+    <Value>It cannot rename.</Value>
+    <ko_KR>이름은 변경할 수 없습니다.</ko_KR>
   </StringTable>
 </Content>
