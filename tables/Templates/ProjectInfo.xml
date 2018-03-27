@@ -3,11 +3,11 @@
   Version="3.6"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/Templates/ProjectInfo ProjectInfo.xsd"
   ProjectInfo.Modifier="s2quake"
-  ProjectInfo.ModifiedDateTime="2018-03-27T05:06:13.3664742Z"
+  ProjectInfo.ModifiedDateTime="2018-03-27T05:12:57.0171832Z"
   ProjectInfo.Count="6"
   ProjectInfo.ID="dea31cbb-0fbd-40b7-9e09-bf11038a3aca"
   ProjectInfo.ExportInfo.Modifier="s2quake"
-  ProjectInfo.ExportInfo.ModifiedDateTime="2018-03-27T05:06:07.0952632Z"
+  ProjectInfo.ExportInfo.ModifiedDateTime="2018-03-27T05:13:04.5675964Z"
   ProjectInfo.ExportInfo.Count="4"
   ProjectInfo.ExportInfo.ID="a9ca9738-2c3f-41a3-b380-98987977e42e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/ProjectInfo">
   <ProjectInfo
@@ -86,8 +86,8 @@
   </ProjectInfo>
   <ProjectInfo
     CreatedDateTime="2017-10-31T06:53:14.4212452Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-11-01T08:23:24.3494315Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-27T05:12:57.0171832Z"
     RelationID="f9b4fbf403945fc41e028283ad40d269">
     <KindType>Client</KindType>
     <ProjectType>Library</ProjectType>
@@ -95,8 +95,8 @@
     <ProjectPath>client/Ntreev.Crema.Client.Converters/Ntreev.Crema.Client.Converters.csproj</ProjectPath>
     <ExportInfo
       CreatedDateTime="2017-10-31T06:53:14.4212452Z"
-      Modifier="admin"
-      ModifiedDateTime="2017-11-01T08:23:24.3494315Z">
+      Modifier="s2quake"
+      ModifiedDateTime="2018-03-27T05:13:04.5675964Z">
       <ID>3</ID>
       <FileName />
       <TableName>ClientConverters</TableName>
