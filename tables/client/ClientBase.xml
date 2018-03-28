@@ -5,8 +5,8 @@
   Creator="admin"
   CreatedDateTime="2017-10-23T07:16:01.2646706Z"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-03-28T02:41:34.2161836Z"
-  StringTable.Count="99"
+  StringTable.ModifiedDateTime="2018-03-28T04:03:44.6672435Z"
+  StringTable.Count="100"
   StringTable.ID="c0cab95d-e8db-454e-bfdd-db225b55d79e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.3611864Z"
@@ -896,5 +896,15 @@
     <Name>Login</Name>
     <Value>Login</Value>
     <ko_KR>로그인</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-03-28T04:03:44.6672435Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-03-28T04:03:44.6672435Z">
+    <Type>MenuItem</Type>
+    <Name>Copy</Name>
+    <Value>_Copy...</Value>
+    <ko_KR>복사(_C)...</ko_KR>
   </StringTable>
 </Content>
