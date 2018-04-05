@@ -5,8 +5,8 @@
   Creator="s2quake"
   CreatedDateTime="2018-04-05T00:08:40.3938939Z"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-04-05T01:41:19.1048573Z"
-  StringTable.Count="41"
+  StringTable.ModifiedDateTime="2018-04-05T01:45:49.1413315Z"
+  StringTable.Count="43"
   StringTable.ID="7b06f3d3-7f68-4270-b99e-be7f9a8bd0f9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="s2quake"
@@ -418,5 +418,25 @@ The server will automatically attempt to recover (repair) from a damaged data.</
     <Name>InvalidPassword</Name>
     <Value>It is not valid password</Value>
     <ko_KR>유효한 암호가 아닙니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T01:43:04.7638428Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-04-05T01:44:19.2383736Z">
+    <Type>Exception</Type>
+    <Name>NotExistsUser</Name>
+    <Value>User does not exists.</Value>
+    <ko_KR>존재하지 않은 사용자입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T01:45:26.1780912Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-04-05T01:45:49.1413315Z">
+    <Type>Exception</Type>
+    <Name>EmptyStringCannotSend</Name>
+    <Value>Empty string cannot send.</Value>
+    <ko_KR>빈 문자열은 보낼 수 없습니다.</ko_KR>
   </StringTable>
 </Content>
