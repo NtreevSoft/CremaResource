@@ -5,8 +5,8 @@
   Creator="s2quake"
   CreatedDateTime="2018-04-05T00:08:40.3938939Z"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-04-05T01:23:29.8945793Z"
-  StringTable.Count="34"
+  StringTable.ModifiedDateTime="2018-04-05T01:27:34.534209Z"
+  StringTable.Count="36"
   StringTable.ID="7b06f3d3-7f68-4270-b99e-be7f9a8bd0f9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="s2quake"
@@ -348,5 +348,25 @@ The server will automatically attempt to recover (repair) from a damaged data.</
     <Name>SameTypeNameExist</Name>
     <Value>같은 이름의 타입이 이미 존재합니다.</Value>
     <ko_KR>같은 이름의 타입이 이미 존재합니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T01:27:26.4533948Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-04-05T01:27:26.4533948Z">
+    <Type>Exception</Type>
+    <Name>Expired</Name>
+    <Value>It has been expired.</Value>
+    <ko_KR>만료되었습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T01:27:34.534209Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-04-05T01:27:34.534209Z">
+    <Type>Exception</Type>
+    <Name>Commissioned</Name>
+    <Value>It's already been commissioned.</Value>
+    <ko_KR>이미 위임중입니다.</ko_KR>
   </StringTable>
 </Content>
