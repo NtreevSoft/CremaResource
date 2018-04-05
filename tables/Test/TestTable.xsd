@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<xs:schema xmlns:t="http://schemas.ntreev.com/crema/tables/Test/TestTable" xmlns="http://schemas.ntreev.com/crema/tables/Test/TestTable" elementFormDefault="qualified" targetNamespace="http://schemas.ntreev.com/crema/tables/Test/TestTable" version="3.5" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:schema xmlns:t="http://schemas.ntreev.com/crema/tables/Test/TestTable" xmlns="http://schemas.ntreev.com/crema/tables/Test/TestTable" elementFormDefault="qualified" targetNamespace="http://schemas.ntreev.com/crema/tables/Test/TestTable" version="3.6" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:simpleType name="guid">
     <xs:restriction base="xs:string">
       <xs:pattern value="([0-9a-fA-F]){8}-([0-9a-fA-F]){4}-([0-9a-fA-F]){4}-([0-9a-fA-F]){4}-([0-9a-fA-F]){12}" />
