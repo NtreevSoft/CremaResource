@@ -5,8 +5,8 @@
   Creator="s2quake"
   CreatedDateTime="2018-04-05T00:08:40.3938939Z"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-04-05T01:31:10.2669879Z"
-  StringTable.Count="40"
+  StringTable.ModifiedDateTime="2018-04-05T01:41:19.1048573Z"
+  StringTable.Count="41"
   StringTable.ID="7b06f3d3-7f68-4270-b99e-be7f9a8bd0f9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="s2quake"
@@ -408,5 +408,15 @@ The server will automatically attempt to recover (repair) from a damaged data.</
     <Name>NotInDataBase</Name>
     <Value>It cannot work operation, because you are not in database</Value>
     <ko_KR>데이터베이스에 참여하고 있지 않으므로 작업을 수행할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T01:40:29.1379695Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-04-05T01:41:19.1048573Z">
+    <Type>Exception</Type>
+    <Name>InvalidPassword</Name>
+    <Value>It is not valid password</Value>
+    <ko_KR>유효한 암호가 아닙니다.</ko_KR>
   </StringTable>
 </Content>
