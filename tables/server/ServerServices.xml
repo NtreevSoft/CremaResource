@@ -5,8 +5,8 @@
   Creator="s2quake"
   CreatedDateTime="2018-04-05T00:08:40.3938939Z"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-04-05T00:27:37.448691Z"
-  StringTable.Count="33"
+  StringTable.ModifiedDateTime="2018-04-05T01:19:04.5693133Z"
+  StringTable.Count="34"
   StringTable.ID="7b06f3d3-7f68-4270-b99e-be7f9a8bd0f9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="s2quake"
@@ -338,5 +338,15 @@ The server will automatically attempt to recover (repair) from a damaged data.</
     <Name>WrongIDOrPassword</Name>
     <Value>아이디/패스워드가 틀렸습니다.</Value>
     <ko_KR>아이디/패스워드가 틀렸습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T01:18:52.3700918Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-04-05T01:19:04.5693133Z">
+    <Type>Exception</Type>
+    <Name>SameTypeNameExist</Name>
+    <Value>같은 이름의 타입이 이미 존재합니다.</Value>
+    <ko_KR>같은 이름의 타입이 이미 존재합니다.</ko_KR>
   </StringTable>
 </Content>
