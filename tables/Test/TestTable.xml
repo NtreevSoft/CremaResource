@@ -3,7 +3,7 @@
   Version="3.6"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/Test/TestTable TestTable.xsd"
   TestTable.Modifier="admin"
-  TestTable.ModifiedDateTime="2018-04-05T04:24:17.451632Z"
+  TestTable.ModifiedDateTime="2018-04-05T04:36:35.910129Z"
   TestTable.Count="3"
   TestTable.ID="dad7bbc9-8072-4fae-ade5-aa154dc90bf1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Test/TestTable">
   <TestTable
@@ -27,9 +27,9 @@
     Creator="admin"
     CreatedDateTime="2018-04-05T04:11:32.9098892Z"
     Modifier="admin"
-    ModifiedDateTime="2018-04-05T04:24:17.451632Z">
+    ModifiedDateTime="2018-04-05T04:36:35.910129Z">
     <Key>3</Key>
     <Value>A crash was detected. The previous session did not exit normally.
-sdfsdf</Value>
+The server will automatically attempt to recover (repair) from a damaged data.</Value>
   </TestTable>
 </Content>
