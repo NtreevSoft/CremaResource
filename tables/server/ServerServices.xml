@@ -5,8 +5,8 @@
   Creator="s2quake"
   CreatedDateTime="2018-04-05T00:08:40.3938939Z"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-04-05T01:27:34.534209Z"
-  StringTable.Count="36"
+  StringTable.ModifiedDateTime="2018-04-05T01:29:14.2495841Z"
+  StringTable.Count="37"
   StringTable.ID="7b06f3d3-7f68-4270-b99e-be7f9a8bd0f9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="s2quake"
@@ -368,5 +368,15 @@ The server will automatically attempt to recover (repair) from a damaged data.</
     <Name>Commissioned</Name>
     <Value>It's already been commissioned.</Value>
     <ko_KR>이미 위임중입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T01:29:14.2495841Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-04-05T01:29:14.2495841Z">
+    <Type>Exception</Type>
+    <Name>NotClosed</Name>
+    <Value>It is not closed.</Value>
+    <ko_KR>닫혀있지 않습니다.</ko_KR>
   </StringTable>
 </Content>
