@@ -5,8 +5,8 @@
   Creator="s2quake"
   CreatedDateTime="2018-04-05T00:08:40.3938939Z"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-04-05T01:29:49.9736469Z"
-  StringTable.Count="38"
+  StringTable.ModifiedDateTime="2018-04-05T01:30:33.4665232Z"
+  StringTable.Count="39"
   StringTable.ID="7b06f3d3-7f68-4270-b99e-be7f9a8bd0f9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="s2quake"
@@ -388,5 +388,15 @@ The server will automatically attempt to recover (repair) from a damaged data.</
     <Name>InvalidToken</Name>
     <Value>It is not valid token</Value>
     <ko_KR>유효한 토큰이 아닙니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-05T01:30:33.4665232Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-04-05T01:30:33.4665232Z">
+    <Type>Exception</Type>
+    <Name>InvalidObject</Name>
+    <Value>It is not valid object.</Value>
+    <ko_KR>유효하지 않은 객체입니다.</ko_KR>
   </StringTable>
 </Content>
