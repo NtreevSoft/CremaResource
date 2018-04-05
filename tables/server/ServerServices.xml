@@ -5,7 +5,7 @@
   Creator="s2quake"
   CreatedDateTime="2018-04-05T00:08:40.3938939Z"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-04-05T01:19:04.5693133Z"
+  StringTable.ModifiedDateTime="2018-04-05T01:23:29.8945793Z"
   StringTable.Count="34"
   StringTable.ID="7b06f3d3-7f68-4270-b99e-be7f9a8bd0f9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
@@ -173,8 +173,8 @@ The server will automatically attempt to recover (repair) from a damaged data.</
     Creator="s2quake"
     CreatedDateTime="2018-04-05T00:23:25.3210482Z"
     Modifier="s2quake"
-    ModifiedDateTime="2018-04-05T00:23:25.3210482Z">
-    <Type>Exception</Type>
+    ModifiedDateTime="2018-04-05T01:23:29.8945793Z">
+    <Type>Message</Type>
     <Name>NotFoundDomainsToRestore</Name>
     <Value>복구할 도메인이 없습니다.</Value>
     <ko_KR>복구할 도메인이 없습니다.</ko_KR>
