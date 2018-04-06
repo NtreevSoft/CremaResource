@@ -3,8 +3,8 @@
   Version="3.6"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/Test/TestTable TestTable.xsd"
   TestTable.Modifier="admin"
-  TestTable.ModifiedDateTime="2018-04-05T04:51:50.9609362Z"
-  TestTable.Count="3"
+  TestTable.ModifiedDateTime="2018-04-06T07:39:25.2907493Z"
+  TestTable.Count="5"
   TestTable.ID="dad7bbc9-8072-4fae-ade5-aa154dc90bf1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Test/TestTable">
   <TestTable
     Creator="admin"
@@ -20,8 +20,9 @@
     Creator="admin"
     CreatedDateTime="2017-11-01T04:21:12.3363526Z"
     Modifier="admin"
-    ModifiedDateTime="2017-11-01T04:21:18.3735632Z">
+    ModifiedDateTime="2018-04-06T07:39:18.0679366Z">
     <Key>1</Key>
+    <Value>312</Value>
   </TestTable>
   <TestTable
     Creator="admin"
@@ -30,5 +31,21 @@
     ModifiedDateTime="2018-04-05T04:51:50.9609362Z">
     <Key>3</Key>
     <Value>2</Value>
+  </TestTable>
+  <TestTable
+    Creator="admin"
+    CreatedDateTime="2018-04-06T07:39:21.0007418Z"
+    Modifier="admin"
+    ModifiedDateTime="2018-04-06T07:39:21.0007418Z">
+    <Key>4</Key>
+    <Value>123</Value>
+  </TestTable>
+  <TestTable
+    Creator="admin"
+    CreatedDateTime="2018-04-06T07:39:25.2907493Z"
+    Modifier="admin"
+    ModifiedDateTime="2018-04-06T07:39:25.2907493Z">
+    <Key>125123</Key>
+    <Value>123</Value>
   </TestTable>
 </Content>
