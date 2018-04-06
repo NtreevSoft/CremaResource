@@ -4,23 +4,27 @@
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientFramework ../Templates/StringTable.xsd"
   Creator="admin"
   CreatedDateTime="2017-10-23T07:16:01.2646706Z"
-  StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-03-07T05:39:34.1834436Z"
+  StringTable.Modifier="admin"
+  StringTable.ModifiedDateTime="2018-04-06T07:39:01.7191079Z"
   StringTable.Count="32"
   StringTable.ID="c0cab95d-e8db-454e-bfdd-db225b55d79e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.371193Z"
-    ModifiedDateTime="2017-10-31T06:53:14.371193Z">
+    Modifier="admin"
+    ModifiedDateTime="2018-04-06T07:38:59.0827033Z">
     <Type>Message</Type>
     <Name>ConfirmToResetSelectedFields</Name>
+    <Comment>1</Comment>
     <Value>Do you want to reset selected fields?</Value>
     <ko_KR>선택된 필드의 값을 초기화 하시겠습니까?</ko_KR>
   </StringTable>
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.371193Z"
-    ModifiedDateTime="2017-10-31T06:53:14.371193Z">
+    Modifier="admin"
+    ModifiedDateTime="2018-04-06T07:39:01.7191079Z">
     <Type>Message</Type>
     <Name>ConfirmToDeleteSelectedRows_Format</Name>
+    <Comment>2</Comment>
     <Value>Do you want to delete selected {0} rows?</Value>
     <ko_KR>택된 {0}개의 행을 삭제하시겠습니까?</ko_KR>
   </StringTable>
