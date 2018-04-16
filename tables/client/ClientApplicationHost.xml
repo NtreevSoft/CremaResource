@@ -3,8 +3,8 @@
   Version="3.6"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientApplicationHost ../Templates/StringTable.xsd"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-04-04T07:35:15.6064036Z"
-  StringTable.Count="22"
+  StringTable.ModifiedDateTime="2018-04-16T02:09:44.2747908Z"
+  StringTable.Count="18"
   StringTable.ID="530b6569-f0eb-4227-8b31-4964d20a9ad4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="admin"
@@ -135,46 +135,6 @@
     <Name>ReportingException</Name>
     <Value>Sending exceptions. please wait a second.</Value>
     <ko_KR>예외 내용을 전송하고 있습니다. 잠시만 기다려주세요.</ko_KR>
-  </StringTable>
-  <StringTable
-    Creator="admin"
-    CreatedDateTime="2017-11-01T08:27:01.7868163Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-11-01T08:27:01.7868163Z">
-    <Type>Message</Type>
-    <Name>Sad</Name>
-    <Value>Sorry for the inconvenience. Could you send me some inconvenience?</Value>
-    <ko_KR>불편을 드려 죄송합니다. 불편한점을 적어서 보내주시겠어요?</ko_KR>
-  </StringTable>
-  <StringTable
-    Creator="admin"
-    CreatedDateTime="2017-11-01T08:27:01.7868163Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-11-01T08:27:01.7868163Z">
-    <Type>Message</Type>
-    <Name>Smile</Name>
-    <Value>Were you satisfied with your use? Could you tell me what's good about it?</Value>
-    <ko_KR>사용에 만족하셨나요? 어떤점이 좋은지 말씀해주시겠어요?</ko_KR>
-  </StringTable>
-  <StringTable
-    Creator="admin"
-    CreatedDateTime="2017-11-01T08:27:01.7868163Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-11-01T08:27:01.7868163Z">
-    <Type>Tooltip</Type>
-    <Name>Bad</Name>
-    <Value>Bad.</Value>
-    <ko_KR>별로에요.</ko_KR>
-  </StringTable>
-  <StringTable
-    Creator="admin"
-    CreatedDateTime="2017-11-01T08:27:01.7868163Z"
-    Modifier="admin"
-    ModifiedDateTime="2017-11-01T08:27:01.7868163Z">
-    <Type>Tooltip</Type>
-    <Name>Good</Name>
-    <Value>Good.</Value>
-    <ko_KR>좋아요.</ko_KR>
   </StringTable>
   <StringTable
     Creator="admin"
