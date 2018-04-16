@@ -5,7 +5,7 @@
   Creator="admin"
   CreatedDateTime="2017-10-23T07:16:01.2646706Z"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-03-28T04:15:44.3745076Z"
+  StringTable.ModifiedDateTime="2018-04-16T02:08:48.021092Z"
   StringTable.Count="101"
   StringTable.ID="c0cab95d-e8db-454e-bfdd-db225b55d79e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
@@ -100,11 +100,12 @@
   </StringTable>
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.3621868Z"
-    ModifiedDateTime="2017-10-31T06:53:14.3621868Z">
+    Modifier="s2quake"
+    ModifiedDateTime="2018-04-16T02:08:48.021092Z">
     <Type>Label</Type>
-    <Name>ContactTrello</Name>
-    <Value>Contact Trello</Value>
-    <ko_KR>트렐로에 문의하기</ko_KR>
+    <Name>MoveToWiki</Name>
+    <Value>Move To Wiki</Value>
+    <ko_KR>위키로 이동</ko_KR>
   </StringTable>
   <StringTable
     CreatedDateTime="2017-10-31T06:53:14.3621868Z"
