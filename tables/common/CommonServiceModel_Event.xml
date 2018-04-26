@@ -3,8 +3,8 @@
   Version="3.6"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/common/CommonServiceModel_Event ../Templates/StringTable.xsd"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-04-26T01:07:26.098287Z"
-  StringTable.Count="73"
+  StringTable.ModifiedDateTime="2018-04-26T07:08:04.568693Z"
+  StringTable.Count="74"
   StringTable.ID="e3959270-1f4d-47d1-9377-e4bcbfdf7aaf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="admin"
@@ -738,5 +738,15 @@ notification : "{3}"</Value>
     <Name>ResetDataBase</Name>
     <Value>database '{2}' reset by '{0}({1})'</Value>
     <ko_KR>데이터 베이스 '{2}'가 '{0}({1})'에 의해 재시작 되었습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-04-26T07:07:45.81746Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-04-26T07:08:04.568693Z">
+    <Type>None</Type>
+    <Name>ResettingDataBase</Name>
+    <Value>database '{2}' is resetting by '{0}({1})'</Value>
+    <ko_KR>데이터 베이스 '{2}'가 '{0}({1})'에 의해 재시작 되는중입니다.</ko_KR>
   </StringTable>
 </Content>
