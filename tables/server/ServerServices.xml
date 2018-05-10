@@ -5,7 +5,7 @@
   Creator="s2quake"
   CreatedDateTime="2018-04-05T00:08:40.3938939Z"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-05-10T02:15:13.6439814Z"
+  StringTable.ModifiedDateTime="2018-05-10T02:16:26.0905086Z"
   StringTable.Count="51"
   StringTable.ID="7b06f3d3-7f68-4270-b99e-be7f9a8bd0f9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
@@ -515,10 +515,10 @@ The server will automatically attempt to restore from a data not yet saved.</Val
     Creator="s2quake"
     CreatedDateTime="2018-05-10T02:15:13.6439814Z"
     Modifier="s2quake"
-    ModifiedDateTime="2018-05-10T02:15:13.6439814Z">
+    ModifiedDateTime="2018-05-10T02:16:26.0905086Z">
     <Type>Exception</Type>
-    <Name>ItIsAlreadyLocked</Name>
-    <Value>It is already locked.</Value>
-    <ko_KR>이미 잠겨있습니다.</ko_KR>
+    <Name>ItemIsAlreadyLocked_Format</Name>
+    <Value>'{0}' is already locked.</Value>
+    <ko_KR>'{0}'은(는) 이미 잠겨있습니다.</ko_KR>
   </StringTable>
 </Content>
