@@ -5,8 +5,8 @@
   Creator="s2quake"
   CreatedDateTime="2018-04-05T00:08:40.3938939Z"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-05-10T02:13:33.3670052Z"
-  StringTable.Count="50"
+  StringTable.ModifiedDateTime="2018-05-10T02:15:13.6439814Z"
+  StringTable.Count="51"
   StringTable.ID="7b06f3d3-7f68-4270-b99e-be7f9a8bd0f9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="s2quake"
@@ -510,5 +510,15 @@ The server will automatically attempt to restore from a data not yet saved.</Val
     <Name>ItIsAlreadyBeingEdited</Name>
     <Value>It is already being edited.</Value>
     <ko_KR>이미 편집중입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-10T02:15:13.6439814Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-10T02:15:13.6439814Z">
+    <Type>Exception</Type>
+    <Name>ItIsAlreadyLocked</Name>
+    <Value>It is already locked.</Value>
+    <ko_KR>이미 잠겨있습니다.</ko_KR>
   </StringTable>
 </Content>
