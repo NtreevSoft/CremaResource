@@ -5,8 +5,8 @@
   Creator="s2quake"
   CreatedDateTime="2018-04-05T00:08:40.3938939Z"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-04-05T01:47:15.1130825Z"
-  StringTable.Count="42"
+  StringTable.ModifiedDateTime="2018-05-10T01:39:17.9229951Z"
+  StringTable.Count="43"
   StringTable.ID="7b06f3d3-7f68-4270-b99e-be7f9a8bd0f9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="s2quake"
@@ -428,5 +428,15 @@ The server will automatically attempt to recover (repair) from a damaged data.</
     <Name>EmptyStringCannotSend</Name>
     <Value>Empty string cannot send.</Value>
     <ko_KR>빈 문자열은 보낼 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-10T01:38:34.0089179Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-10T01:39:17.9229951Z">
+    <Type>Exception</Type>
+    <Name>DataBaseHasBeenLoaded</Name>
+    <Value>DataBase has been loaded.</Value>
+    <ko_KR>이</ko_KR>
   </StringTable>
 </Content>
