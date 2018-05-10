@@ -5,8 +5,8 @@
   Creator="s2quake"
   CreatedDateTime="2018-04-05T00:08:40.3938939Z"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-05-10T01:43:44.0438625Z"
-  StringTable.Count="45"
+  StringTable.ModifiedDateTime="2018-05-10T01:50:01.4397253Z"
+  StringTable.Count="47"
   StringTable.ID="7b06f3d3-7f68-4270-b99e-be7f9a8bd0f9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="s2quake"
@@ -458,5 +458,26 @@ The server will automatically attempt to recover (repair) from a damaged data.</
     <Name>AlreadyInDataBase</Name>
     <Value>It is already in database</Value>
     <ko_KR>이미 데이터베이스에 참여하고 있습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-10T01:47:36.1254701Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-10T01:48:13.1131351Z">
+    <Type>Exception</Type>
+    <Name>LoadedDataBaseCannotRevert</Name>
+    <Value>It can not revert from loaded database.</Value>
+    <ko_KR>활성화된 데이터베이스에서는 되돌릴수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-10T01:49:28.0712667Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-10T01:50:01.4397253Z">
+    <Type>Exception</Type>
+    <Name>NotFoundRevision_Format</Name>
+    <Comment>revision</Comment>
+    <Value>Revision '{0}' can not found.</Value>
+    <ko_KR>'{0}' 리비전을 찾을 수 없습니다.</ko_KR>
   </StringTable>
 </Content>
