@@ -5,8 +5,8 @@
   Creator="s2quake"
   CreatedDateTime="2018-04-05T00:08:40.3938939Z"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-05-10T04:17:08.7308296Z"
-  StringTable.Count="55"
+  StringTable.ModifiedDateTime="2018-05-10T04:27:52.5595605Z"
+  StringTable.Count="56"
   StringTable.ID="7b06f3d3-7f68-4270-b99e-be7f9a8bd0f9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="s2quake"
@@ -144,10 +144,10 @@ The server will automatically attempt to restore from a data not yet saved.</Val
     Creator="s2quake"
     CreatedDateTime="2018-04-05T00:22:10.5345168Z"
     Modifier="s2quake"
-    ModifiedDateTime="2018-04-05T00:22:14.0133229Z">
+    ModifiedDateTime="2018-05-10T04:21:55.1941328Z">
     <Type>Exception</Type>
     <Name>InvalidUserID</Name>
-    <Value>잘못된 형식의 아이디입니다.</Value>
+    <Value>It is not valid UserID</Value>
     <ko_KR>잘못된 형식의 아이디입니다.</ko_KR>
   </StringTable>
   <StringTable
@@ -204,20 +204,20 @@ The server will automatically attempt to restore from a data not yet saved.</Val
     Creator="s2quake"
     CreatedDateTime="2018-04-05T00:24:16.0367373Z"
     Modifier="s2quake"
-    ModifiedDateTime="2018-04-05T00:24:19.4063432Z">
+    ModifiedDateTime="2018-05-10T04:24:27.0603995Z">
     <Type>Exception</Type>
     <Name>SameName</Name>
-    <Value>같은 이름으로 변경할 수 없습니다.</Value>
+    <Value>Can not change to the same name.</Value>
     <ko_KR>같은 이름으로 변경할 수 없습니다.</ko_KR>
   </StringTable>
   <StringTable
     Creator="s2quake"
     CreatedDateTime="2018-04-05T00:24:24.1643515Z"
     Modifier="s2quake"
-    ModifiedDateTime="2018-04-05T00:24:30.685163Z">
+    ModifiedDateTime="2018-05-10T04:25:39.8033273Z">
     <Type>Exception</Type>
     <Name>SameTableNameExist</Name>
-    <Value>같은 이름의 테이블이 이미 존재합니다.</Value>
+    <Value>Table with same name already exists.</Value>
     <ko_KR>같은 이름의 테이블이 이미 존재합니다.</ko_KR>
   </StringTable>
   <StringTable
@@ -334,20 +334,21 @@ The server will automatically attempt to restore from a data not yet saved.</Val
     Creator="s2quake"
     CreatedDateTime="2018-04-05T00:27:33.9698849Z"
     Modifier="s2quake"
-    ModifiedDateTime="2018-04-05T00:27:37.448691Z">
+    ModifiedDateTime="2018-05-10T04:24:47.5432355Z">
     <Type>Exception</Type>
     <Name>WrongIDOrPassword</Name>
-    <Value>아이디/패스워드가 틀렸습니다.</Value>
+    <Value>Incorrect UserID or password</Value>
     <ko_KR>아이디/패스워드가 틀렸습니다.</ko_KR>
   </StringTable>
   <StringTable
     Creator="s2quake"
     CreatedDateTime="2018-04-05T01:18:52.3700918Z"
     Modifier="s2quake"
-    ModifiedDateTime="2018-04-05T01:19:04.5693133Z">
+    ModifiedDateTime="2018-05-10T04:25:22.2376964Z">
     <Type>Exception</Type>
     <Name>SameTypeNameExist</Name>
-    <Value>같은 이름의 타입이 이미 존재합니다.</Value>
+    <Value>Type with same name already exists.
+</Value>
     <ko_KR>같은 이름의 타입이 이미 존재합니다.</ko_KR>
   </StringTable>
   <StringTable
@@ -560,5 +561,15 @@ The server will automatically attempt to restore from a data not yet saved.</Val
     <Name>CannotSendMessageToOfflineUser</Name>
     <Value>Can not send message to offline user.</Value>
     <ko_KR>연결되지 않은 사용자에게는 문자열을 보낼 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-10T04:27:47.3959514Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-10T04:27:52.5595605Z">
+    <Type>Exception</Type>
+    <Name>ChildTableCannotReadIndependently</Name>
+    <Value>Child tables can not read data independently.</Value>
+    <ko_KR>자식테이블은 독립적으로 데이터를 읽어들일 수 없습니다.</ko_KR>
   </StringTable>
 </Content>
