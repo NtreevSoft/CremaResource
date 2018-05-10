@@ -5,8 +5,8 @@
   Creator="s2quake"
   CreatedDateTime="2018-04-05T00:08:40.3938939Z"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-05-10T01:50:01.4397253Z"
-  StringTable.Count="47"
+  StringTable.ModifiedDateTime="2018-05-10T01:56:50.597244Z"
+  StringTable.Count="49"
   StringTable.ID="7b06f3d3-7f68-4270-b99e-be7f9a8bd0f9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="s2quake"
@@ -479,5 +479,25 @@ The server will automatically attempt to recover (repair) from a damaged data.</
     <Comment>revision</Comment>
     <Value>Revision '{0}' can not found.</Value>
     <ko_KR>'{0}' 리비전을 찾을 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-10T01:55:39.2115186Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-10T01:55:39.2115186Z">
+    <Type>Exception</Type>
+    <Name>ExistsPath_Format</Name>
+    <Value>'{0}' path is already existed.</Value>
+    <ko_KR>'{0}' 경로가 이미 존재합니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-10T01:56:31.5184105Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-10T01:56:50.597244Z">
+    <Type>Exception</Type>
+    <Name>DataBaseIsAlreadyExisted_Format</Name>
+    <Value>DataBase '{0}' is already existed.</Value>
+    <ko_KR>'{0}'은(는) 이미 존재하는 데이터베이스입니다.</ko_KR>
   </StringTable>
 </Content>
