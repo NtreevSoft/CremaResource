@@ -5,8 +5,8 @@
   Creator="s2quake"
   CreatedDateTime="2018-04-05T00:08:40.3938939Z"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-05-10T01:56:50.597244Z"
-  StringTable.Count="49"
+  StringTable.ModifiedDateTime="2018-05-10T02:13:33.3670052Z"
+  StringTable.Count="50"
   StringTable.ID="7b06f3d3-7f68-4270-b99e-be7f9a8bd0f9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="s2quake"
@@ -82,33 +82,33 @@
     Creator="s2quake"
     CreatedDateTime="2018-04-05T00:18:32.6333341Z"
     Modifier="s2quake"
-    ModifiedDateTime="2018-04-05T00:18:36.6581412Z">
+    ModifiedDateTime="2018-05-10T02:06:43.2110848Z">
     <Type>Message</Type>
     <Name>DomainIsRestored_Format</Name>
-    <Value>도메인 복구 완료 : {0}</Value>
+    <Value>Domain restoration completed : {0}</Value>
     <ko_KR>도메인 복구 완료 : {0}</ko_KR>
   </StringTable>
   <StringTable
     Creator="s2quake"
     CreatedDateTime="2018-04-05T00:18:43.2881528Z"
     Modifier="s2quake"
-    ModifiedDateTime="2018-04-05T00:18:46.7357589Z">
+    ModifiedDateTime="2018-05-10T02:06:54.3027043Z">
     <Type>Message</Type>
     <Name>DomainRestorationIsFailed_Format</Name>
-    <Value>도메인 복구 실패 : {0}</Value>
+    <Value>Domain restoration failed : {0}</Value>
     <ko_KR>도메인 복구 실패 : {0}</ko_KR>
   </StringTable>
   <StringTable
     Creator="s2quake"
     CreatedDateTime="2018-04-05T00:19:08.7317975Z"
     Modifier="s2quake"
-    ModifiedDateTime="2018-04-05T00:20:53.1115808Z">
+    ModifiedDateTime="2018-05-10T02:05:52.7917963Z">
     <Type>Message</Type>
     <Name>DomainRestorationMessage</Name>
     <Value>A crash was detected. The previous session did not exit normally.
-The server will automatically attempt to recover (repair) from a damaged data.</Value>
-    <ko_KR>A crash was detected. The previous session did not exit normally.
-The server will automatically attempt to recover (repair) from a damaged data.</ko_KR>
+The server will automatically attempt to restore from a data not yet saved.</Value>
+    <ko_KR>충돌이 감지되었습니다. 이전 세션이 정상적으로 종료되지 않았습니다.
+서버가 아직 저장되지 않은 데이터에서 자동으로 복구을 시도합니다.</ko_KR>
   </StringTable>
   <StringTable
     Creator="s2quake"
@@ -154,29 +154,30 @@ The server will automatically attempt to recover (repair) from a damaged data.</
     Creator="s2quake"
     CreatedDateTime="2018-04-05T00:22:27.6009468Z"
     Modifier="s2quake"
-    ModifiedDateTime="2018-04-05T00:22:30.7677524Z">
+    ModifiedDateTime="2018-05-10T02:12:15.9284692Z">
     <Type>Message</Type>
     <Name>LoadTables</Name>
-    <Value>테이블 로드</Value>
+    <Value>Load Tables</Value>
     <ko_KR>테이블 로드</ko_KR>
   </StringTable>
   <StringTable
     Creator="s2quake"
     CreatedDateTime="2018-04-05T00:22:50.8605877Z"
     Modifier="s2quake"
-    ModifiedDateTime="2018-04-05T00:22:50.8605877Z">
+    ModifiedDateTime="2018-05-10T02:12:32.1212977Z">
     <Type>Exception</Type>
     <Name>LoggedInUserCannotDelete</Name>
     <Value>로그인 되어 있는 아이디는 삭제할 수 없습니다.</Value>
+    <ko_KR>로그인 되어 있는 아이디는 삭제할 수 없습니다.</ko_KR>
   </StringTable>
   <StringTable
     Creator="s2quake"
     CreatedDateTime="2018-04-05T00:23:25.3210482Z"
     Modifier="s2quake"
-    ModifiedDateTime="2018-04-05T01:23:29.8945793Z">
+    ModifiedDateTime="2018-05-10T02:07:32.7411718Z">
     <Type>Message</Type>
     <Name>NotFoundDomainsToRestore</Name>
-    <Value>복구할 도메인이 없습니다.</Value>
+    <Value>There are no domains to restore.</Value>
     <ko_KR>복구할 도메인이 없습니다.</ko_KR>
   </StringTable>
   <StringTable
@@ -193,11 +194,11 @@ The server will automatically attempt to recover (repair) from a damaged data.</
     Creator="s2quake"
     CreatedDateTime="2018-04-05T00:23:58.6271067Z"
     Modifier="s2quake"
-    ModifiedDateTime="2018-04-05T00:24:02.3243132Z">
+    ModifiedDateTime="2018-05-10T02:11:08.6611511Z">
     <Type>Message</Type>
     <Name>RestoreResult_Format</Name>
-    <Value>========== Restoration: Suceess {0}, Fail {1} ==========</Value>
-    <ko_KR>========== Restoration: Suceess {0}, Fail {1} ==========</ko_KR>
+    <Value>========= Restoration: Suceess {0}, Fail {1} ==========</Value>
+    <ko_KR>============= 복구: 성공 {0}, 실패 {1} ==============</ko_KR>
   </StringTable>
   <StringTable
     Creator="s2quake"
@@ -223,30 +224,30 @@ The server will automatically attempt to recover (repair) from a damaged data.</
     Creator="s2quake"
     CreatedDateTime="2018-04-05T00:24:42.4631837Z"
     Modifier="s2quake"
-    ModifiedDateTime="2018-04-05T00:24:45.9263898Z">
+    ModifiedDateTime="2018-05-10T02:07:49.7296017Z">
     <Type>Message</Type>
     <Name>ServiceStart</Name>
     <Value>===================  Service Start  ===================</Value>
-    <ko_KR>===================  Service Start  ===================</ko_KR>
+    <ko_KR>===================  서비스 시작  ===================</ko_KR>
   </StringTable>
   <StringTable
     Creator="s2quake"
     CreatedDateTime="2018-04-05T00:24:51.5111996Z"
     Modifier="s2quake"
-    ModifiedDateTime="2018-04-05T00:24:59.4516135Z">
+    ModifiedDateTime="2018-05-10T02:12:07.9256552Z">
     <Type>Message</Type>
     <Name>TableContextInitialize</Name>
-    <Value>테이블 관리자 초기화</Value>
+    <Value>Table Context initialized.</Value>
     <ko_KR>테이블 관리자 초기화</ko_KR>
   </StringTable>
   <StringTable
     Creator="s2quake"
     CreatedDateTime="2018-04-05T00:25:13.4604381Z"
     Modifier="s2quake"
-    ModifiedDateTime="2018-04-05T00:25:17.4384451Z">
+    ModifiedDateTime="2018-05-10T02:11:49.1276222Z">
     <Type>Message</Type>
     <Name>TableContextIsCreated</Name>
-    <Value>테이블 관리자 생성 완료</Value>
+    <Value>Table Context created.</Value>
     <ko_KR>테이블 관리자 생성 완료</ko_KR>
   </StringTable>
   <StringTable
@@ -273,10 +274,10 @@ The server will automatically attempt to recover (repair) from a damaged data.</
     Creator="s2quake"
     CreatedDateTime="2018-04-05T00:25:48.3420994Z"
     Modifier="s2quake"
-    ModifiedDateTime="2018-04-05T00:26:02.6941246Z">
+    ModifiedDateTime="2018-05-10T02:11:51.296026Z">
     <Type>Message</Type>
     <Name>TableLoadingIsCompleted</Name>
-    <Value>테이블 로딩 완료</Value>
+    <Value>Table Loading completed.</Value>
     <ko_KR>테이블 로딩 완료</ko_KR>
   </StringTable>
   <StringTable
@@ -499,5 +500,15 @@ The server will automatically attempt to recover (repair) from a damaged data.</
     <Name>DataBaseIsAlreadyExisted_Format</Name>
     <Value>DataBase '{0}' is already existed.</Value>
     <ko_KR>'{0}'은(는) 이미 존재하는 데이터베이스입니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-10T02:13:18.1725786Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-10T02:13:33.3670052Z">
+    <Type>Exception</Type>
+    <Name>ItIsAlreadyBeingEdited</Name>
+    <Value>It is already being edited.</Value>
+    <ko_KR>이미 편집중입니다.</ko_KR>
   </StringTable>
 </Content>
