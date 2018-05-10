@@ -5,8 +5,8 @@
   Creator="s2quake"
   CreatedDateTime="2018-04-05T00:08:40.3938939Z"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-05-10T04:13:58.4728955Z"
-  StringTable.Count="53"
+  StringTable.ModifiedDateTime="2018-05-10T04:17:08.7308296Z"
+  StringTable.Count="55"
   StringTable.ID="7b06f3d3-7f68-4270-b99e-be7f9a8bd0f9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="s2quake"
@@ -540,5 +540,25 @@ The server will automatically attempt to restore from a data not yet saved.</Val
     <Name>CannotChangeToOldPassword</Name>
     <Value>Can not change to old password.</Value>
     <ko_KR>이전 암호로 변경할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-10T04:16:09.3259253Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-10T04:16:09.3259253Z">
+    <Type>Exception</Type>
+    <Name>EmptyStringIsNotAllowed</Name>
+    <Value>Empty string is not allowed.</Value>
+    <ko_KR>빈 문자열은 허용되지 않습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-10T04:16:44.3323868Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-10T04:17:08.7308296Z">
+    <Type>Exception</Type>
+    <Name>CannotSendMessageToOfflineUser</Name>
+    <Value>Can not send message to offline user.</Value>
+    <ko_KR>연결되지 않은 사용자에게는 문자열을 보낼 수 없습니다.</ko_KR>
   </StringTable>
 </Content>
