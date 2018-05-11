@@ -5,8 +5,8 @@
   Creator="s2quake"
   CreatedDateTime="2018-04-05T00:08:40.3938939Z"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-05-11T02:30:40.8501635Z"
-  StringTable.Count="84"
+  StringTable.ModifiedDateTime="2018-05-11T02:35:41.8838922Z"
+  StringTable.Count="86"
   StringTable.ID="7b06f3d3-7f68-4270-b99e-be7f9a8bd0f9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="s2quake"
@@ -852,5 +852,25 @@ The server will automatically attempt to restore from a data not yet saved.</Val
     <Name>DefaultDataBaseCannotDelete</Name>
     <Value>'default' database can not delete.</Value>
     <ko_KR>'default' 데이터 베이스는 삭제할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T02:32:20.7059389Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T02:32:36.4931666Z">
+    <Type>Exception</Type>
+    <Name>EmptyDataSetCannotImport</Name>
+    <Value>Empty dataset can not import.</Value>
+    <ko_KR>빈 데이터셋은 가져오기를 할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T02:35:13.3670422Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T02:35:41.8838922Z">
+    <Type>Exception</Type>
+    <Name>ItemPathChanged_Format</Name>
+    <Value>'{0}' has been changed : '{1}' to '{2}'.</Value>
+    <ko_KR>'{0}' has been changed : '{1}' to '{2}'.</ko_KR>
   </StringTable>
 </Content>
