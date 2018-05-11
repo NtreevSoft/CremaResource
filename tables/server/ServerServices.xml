@@ -5,8 +5,8 @@
   Creator="s2quake"
   CreatedDateTime="2018-04-05T00:08:40.3938939Z"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-05-11T02:26:52.9181632Z"
-  StringTable.Count="82"
+  StringTable.ModifiedDateTime="2018-05-11T02:30:40.8501635Z"
+  StringTable.Count="84"
   StringTable.ID="7b06f3d3-7f68-4270-b99e-be7f9a8bd0f9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="s2quake"
@@ -134,11 +134,11 @@ The server will automatically attempt to restore from a data not yet saved.</Val
     Creator="s2quake"
     CreatedDateTime="2018-04-05T00:21:55.1372898Z"
     Modifier="s2quake"
-    ModifiedDateTime="2018-04-05T00:21:58.8812964Z">
+    ModifiedDateTime="2018-05-11T02:29:13.5524102Z">
     <Type>Exception</Type>
     <Name>InvalidName_Format</Name>
-    <Value>{0}은(는) 잘못된 이름입니다.</Value>
-    <ko_KR>{0}은(는) 잘못된 이름입니다.</ko_KR>
+    <Value>'{0}' is incorrect name.</Value>
+    <ko_KR>'{0}' 은(는) 잘못된 이름입니다.</ko_KR>
   </StringTable>
   <StringTable
     Creator="s2quake"
@@ -827,10 +827,30 @@ The server will automatically attempt to restore from a data not yet saved.</Val
     Creator="s2quake"
     CreatedDateTime="2018-05-11T02:26:38.0513371Z"
     Modifier="s2quake"
-    ModifiedDateTime="2018-05-11T02:26:52.9181632Z">
+    ModifiedDateTime="2018-05-11T02:27:21.6378136Z">
     <Type>Exception</Type>
     <Name>NoRepositoryModule</Name>
-    <Value>There is not repository module to create</Value>
+    <Value>There is no repository module to create</Value>
     <ko_KR>저장소를 생성할 수 있는 모듈이 존재하지 않습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T02:29:53.5976805Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T02:30:33.3153503Z">
+    <Type>Exception</Type>
+    <Name>DefaultDataBaseCannotRename</Name>
+    <Value>'default' database can not rename.</Value>
+    <ko_KR>'default' 데이터 베이스는 이름을 변경할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T02:30:02.9420969Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T02:30:40.8501635Z">
+    <Type>Exception</Type>
+    <Name>DefaultDataBaseCannotDelete</Name>
+    <Value>'default' database can not delete.</Value>
+    <ko_KR>'default' 데이터 베이스는 삭제할 수 없습니다.</ko_KR>
   </StringTable>
 </Content>
