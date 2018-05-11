@@ -5,8 +5,8 @@
   Creator="s2quake"
   CreatedDateTime="2018-04-05T00:08:40.3938939Z"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-05-11T04:19:08.6823939Z"
-  StringTable.Count="107"
+  StringTable.ModifiedDateTime="2018-05-11T04:24:34.972567Z"
+  StringTable.Count="108"
   StringTable.ID="7b06f3d3-7f68-4270-b99e-be7f9a8bd0f9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="s2quake"
@@ -1068,9 +1068,9 @@ The server will automatically attempt to restore from a data not yet saved.</Val
     Creator="s2quake"
     CreatedDateTime="2018-05-11T04:16:23.8213043Z"
     Modifier="s2quake"
-    ModifiedDateTime="2018-05-11T04:17:56.0486663Z">
+    ModifiedDateTime="2018-05-11T04:21:04.2005968Z">
     <Type>Exception</Type>
-    <Name>CannotChangeAuthorityYourself</Name>
+    <Name>CannotChangeYourAuthority</Name>
     <Value>You can not change your authority.</Value>
     <ko_KR>자신의 권한을 변경할 수 없습니다.</ko_KR>
   </StringTable>
@@ -1083,5 +1083,15 @@ The server will automatically attempt to restore from a data not yet saved.</Val
     <Name>CannotMoveToSamePath</Name>
     <Value>Can not move to same path.</Value>
     <ko_KR>같은 경로로 이동할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T04:23:57.7041015Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T04:24:34.972567Z">
+    <Type>Exception</Type>
+    <Name>ItemsPermissionDenined_Format</Name>
+    <Value>You do not have access to items in use: '{0}'</Value>
+    <ko_KR>사용되고 있는 항목에 대한 접근권한이 없습니다: '{0}'</ko_KR>
   </StringTable>
 </Content>
