@@ -5,8 +5,8 @@
   Creator="s2quake"
   CreatedDateTime="2018-04-05T00:08:40.3938939Z"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-05-11T02:35:41.8838922Z"
-  StringTable.Count="86"
+  StringTable.ModifiedDateTime="2018-05-11T02:39:08.3658549Z"
+  StringTable.Count="89"
   StringTable.ID="7b06f3d3-7f68-4270-b99e-be7f9a8bd0f9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="s2quake"
@@ -872,5 +872,35 @@ The server will automatically attempt to restore from a data not yet saved.</Val
     <Name>ItemPathChanged_Format</Name>
     <Value>'{0}' has been changed : '{1}' to '{2}'.</Value>
     <ko_KR>'{0}' has been changed : '{1}' to '{2}'.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T02:37:43.018105Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T02:38:31.5497902Z">
+    <Type>Exception</Type>
+    <Name>AtLeastOneColumnInTable</Name>
+    <Value>At least one column must exist in the table.</Value>
+    <ko_KR>테이블에는 적어도 한개 이상의 Column이(가) 존재해야 합니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T02:39:08.3658549Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T02:39:08.3658549Z">
+    <Type>Exception</Type>
+    <Name>AtLeastOneKeyInTable</Name>
+    <Value>At least one key must exist in the table.</Value>
+    <ko_KR>테이블에는 적어도 한개 이상의 키가 존재해야 합니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T02:39:08.3658549Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T02:39:08.3658549Z">
+    <Type>Exception</Type>
+    <Name>AtLeastOneMemberInType</Name>
+    <Value>At least one member must exist in the type.</Value>
+    <ko_KR>타입에는 적어도 한개 이상의 Member이(가) 존재해야 합니다.</ko_KR>
   </StringTable>
 </Content>
