@@ -5,8 +5,8 @@
   Creator="s2quake"
   CreatedDateTime="2018-04-05T00:08:40.3938939Z"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-05-11T01:38:48.3794967Z"
-  StringTable.Count="67"
+  StringTable.ModifiedDateTime="2018-05-11T01:41:24.6293712Z"
+  StringTable.Count="68"
   StringTable.ID="7b06f3d3-7f68-4270-b99e-be7f9a8bd0f9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="s2quake"
@@ -586,10 +586,10 @@ The server will automatically attempt to restore from a data not yet saved.</Val
     Creator="s2quake"
     CreatedDateTime="2018-05-11T01:05:23.0583746Z"
     Modifier="s2quake"
-    ModifiedDateTime="2018-05-11T01:05:39.6880038Z">
+    ModifiedDateTime="2018-05-11T01:41:10.308546Z">
     <Type>Exception</Type>
     <Name>InheritedTableCannotSetComment</Name>
-    <Value>Inherited table can not set comment</Value>
+    <Value>Inherited table can not set comment.</Value>
     <ko_KR>상속받은 테이블은 설명을 설정할 수 없습니다.</ko_KR>
   </StringTable>
   <StringTable
@@ -616,70 +616,80 @@ The server will automatically attempt to restore from a data not yet saved.</Val
     Creator="s2quake"
     CreatedDateTime="2018-05-11T01:21:45.0020993Z"
     Modifier="s2quake"
-    ModifiedDateTime="2018-05-11T01:22:24.9069694Z">
+    ModifiedDateTime="2018-05-11T01:41:08.2493424Z">
     <Type>Exception</Type>
     <Name>CannotMoveOnCreateChildTable</Name>
-    <Value>Cannot move on create child table</Value>
+    <Value>Cannot move on create child table.</Value>
     <ko_KR>자식테이블을 생성중일 때는 이동할 수 없습니다.</ko_KR>
   </StringTable>
   <StringTable
     Creator="s2quake"
     CreatedDateTime="2018-05-11T01:21:57.1233206Z"
     Modifier="s2quake"
-    ModifiedDateTime="2018-05-11T01:22:19.0413591Z">
+    ModifiedDateTime="2018-05-11T01:41:06.6269396Z">
     <Type>Exception</Type>
     <Name>CannotDeleteOnCreateChildTable</Name>
-    <Value>Cannot delete on create child table</Value>
+    <Value>Cannot delete on create child table.</Value>
     <ko_KR>자식테이블을 생성중일 때는 삭제할 수 없습니다.</ko_KR>
   </StringTable>
   <StringTable
     Creator="s2quake"
     CreatedDateTime="2018-05-11T01:34:40.276661Z"
     Modifier="s2quake"
-    ModifiedDateTime="2018-05-11T01:34:40.276661Z">
+    ModifiedDateTime="2018-05-11T01:41:04.614536Z">
     <Type>Exception</Type>
     <Name>CannotRenameOnCreateTable</Name>
-    <Value>Cannot rename on create table</Value>
+    <Value>Cannot rename on create table.</Value>
     <ko_KR>테이블을 생성중일 때는 이름을 변경할 수 없습니다.</ko_KR>
   </StringTable>
   <StringTable
     Creator="s2quake"
     CreatedDateTime="2018-05-11T01:34:40.276661Z"
     Modifier="s2quake"
-    ModifiedDateTime="2018-05-11T01:34:40.276661Z">
+    ModifiedDateTime="2018-05-11T01:41:03.0233332Z">
     <Type>Exception</Type>
     <Name>CannotMoveOnCreateTable</Name>
-    <Value>Cannot move on create table</Value>
+    <Value>Cannot move on create table.</Value>
     <ko_KR>테이블을 생성중일 때는 이동할 수 없습니다.</ko_KR>
   </StringTable>
   <StringTable
     Creator="s2quake"
     CreatedDateTime="2018-05-11T01:34:40.276661Z"
     Modifier="s2quake"
-    ModifiedDateTime="2018-05-11T01:34:40.276661Z">
+    ModifiedDateTime="2018-05-11T01:41:01.3073302Z">
     <Type>Exception</Type>
     <Name>CannotDeleteOnCreateTable</Name>
-    <Value>Cannot delete on create table</Value>
+    <Value>Cannot delete on create table.</Value>
     <ko_KR>테이블을 생성중일 때는 삭제할 수 없습니다.</ko_KR>
   </StringTable>
   <StringTable
     Creator="s2quake"
     CreatedDateTime="2018-05-11T01:38:02.421816Z"
     Modifier="s2quake"
-    ModifiedDateTime="2018-05-11T01:38:02.421816Z">
+    ModifiedDateTime="2018-05-11T01:40:57.3917233Z">
     <Type>Exception</Type>
     <Name>InheritedTableCannotInherit</Name>
-    <Value>Inherited table can not inherit</Value>
+    <Value>Inherited table can not inherit.</Value>
     <ko_KR>상속받은 테이블은 상속할 수 없습니다.</ko_KR>
   </StringTable>
   <StringTable
     Creator="s2quake"
     CreatedDateTime="2018-05-11T01:38:24.4022546Z"
     Modifier="s2quake"
-    ModifiedDateTime="2018-05-11T01:38:48.3794967Z">
+    ModifiedDateTime="2018-05-11T01:40:59.2949267Z">
     <Type>Exception</Type>
     <Name>ChildTableCannotInherit</Name>
-    <Value>Child table can not inherit</Value>
+    <Value>Child table can not inherit.</Value>
     <ko_KR>자식테이블은 상속할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T01:40:45.0521017Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T01:41:24.6293712Z">
+    <Type>Exception</Type>
+    <Name>ChildTableCannotCopy</Name>
+    <Value>Child table can not copy.</Value>
+    <ko_KR>자식테이블은 복사할 수 없습니다.</ko_KR>
   </StringTable>
 </Content>
