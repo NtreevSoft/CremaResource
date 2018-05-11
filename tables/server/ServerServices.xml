@@ -5,8 +5,8 @@
   Creator="s2quake"
   CreatedDateTime="2018-04-05T00:08:40.3938939Z"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-05-11T04:09:30.8105789Z"
-  StringTable.Count="102"
+  StringTable.ModifiedDateTime="2018-05-11T04:19:08.6823939Z"
+  StringTable.Count="107"
   StringTable.ID="7b06f3d3-7f68-4270-b99e-be7f9a8bd0f9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="s2quake"
@@ -1033,5 +1033,55 @@ The server will automatically attempt to restore from a data not yet saved.</Val
     <Name>UserIsNotLoggedIn</Name>
     <Value>User is not logged in.</Value>
     <ko_KR>접속되어 있는 사용자가 아닙니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T04:11:16.3603643Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T04:11:27.0931832Z">
+    <Type>Exception</Type>
+    <Name>UnsavedDataCannotEdit</Name>
+    <Value>Unsaved data can not edit.</Value>
+    <ko_KR>저장되지 않은 데이터는 편집할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T04:12:13.4720646Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T04:14:11.5018719Z">
+    <Type>Exception</Type>
+    <Name>AdminCanChangeAdminInfo</Name>
+    <Value>"admin" only can change "admin" info</Value>
+    <ko_KR>Admin 정보는 Admin 계정만 변경할 수 있습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T04:15:32.2476138Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T04:15:44.6652356Z">
+    <Type>Exception</Type>
+    <Name>OnlineUserAuthorityCannotChanged</Name>
+    <Value>Online user's authority can not changed.</Value>
+    <ko_KR>접속된 사용자의 권한은 변경할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T04:16:23.8213043Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T04:17:56.0486663Z">
+    <Type>Exception</Type>
+    <Name>CannotChangeAuthorityYourself</Name>
+    <Value>You can not change your authority.</Value>
+    <ko_KR>자신의 권한을 변경할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T04:18:49.35396Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T04:19:08.6823939Z">
+    <Type>Exception</Type>
+    <Name>CannotMoveToSamePath</Name>
+    <Value>Can not move to same path.</Value>
+    <ko_KR>같은 경로로 이동할 수 없습니다.</ko_KR>
   </StringTable>
 </Content>
