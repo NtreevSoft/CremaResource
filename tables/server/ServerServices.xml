@@ -5,8 +5,8 @@
   Creator="s2quake"
   CreatedDateTime="2018-04-05T00:08:40.3938939Z"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-05-11T01:57:44.9974931Z"
-  StringTable.Count="71"
+  StringTable.ModifiedDateTime="2018-05-11T02:01:03.648242Z"
+  StringTable.Count="74"
   StringTable.ID="7b06f3d3-7f68-4270-b99e-be7f9a8bd0f9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="s2quake"
@@ -254,11 +254,11 @@ The server will automatically attempt to restore from a data not yet saved.</Val
     Creator="s2quake"
     CreatedDateTime="2018-04-05T00:25:26.0808603Z"
     Modifier="s2quake"
-    ModifiedDateTime="2018-05-11T01:53:51.1218823Z">
+    ModifiedDateTime="2018-05-11T01:59:22.7784648Z">
     <Type>Exception</Type>
     <Name>TableIsBeingEdited_Format</Name>
     <Value>'{0}' 테이블이 편집중입니다.</Value>
-    <ko_KR>{0} 테이블이 편집중입니다.</ko_KR>
+    <ko_KR>'{0}' 테이블이 편집중입니다.</ko_KR>
   </StringTable>
   <StringTable
     Creator="s2quake"
@@ -284,11 +284,11 @@ The server will automatically attempt to restore from a data not yet saved.</Val
     Creator="s2quake"
     CreatedDateTime="2018-04-05T00:26:18.3409521Z"
     Modifier="s2quake"
-    ModifiedDateTime="2018-05-11T01:53:47.0658752Z">
+    ModifiedDateTime="2018-05-11T01:59:26.1168707Z">
     <Type>Exception</Type>
     <Name>TypeIsBeingEdited_Format</Name>
     <Value>'{0}' 타입이 편집중입니다.</Value>
-    <ko_KR>{0} 타입이 편집중입니다.</ko_KR>
+    <ko_KR>'{0}' 타입이 편집중입니다.</ko_KR>
   </StringTable>
   <StringTable
     Creator="s2quake"
@@ -721,5 +721,35 @@ The server will automatically attempt to restore from a data not yet saved.</Val
     <Name>UnsavedDomainsExists_Format</Name>
     <Value>There are domains that have not yet been saved: '{0}'</Value>
     <ko_KR>아직 저장되지 않은 도메인이 있습니다: '{0}'</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T01:59:45.5857049Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T01:59:59.6569296Z">
+    <Type>Exception</Type>
+    <Name>TableIsNotBeingEdited</Name>
+    <Value>Table is not being edited.</Value>
+    <ko_KR>테이블이 편집중이 아닙니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T02:01:03.648242Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T02:01:03.648242Z">
+    <Type>Exception</Type>
+    <Name>TableTemplateIsNotBeingEdited</Name>
+    <Value>Table template is not being edited.</Value>
+    <ko_KR>테이블 형태가 편집중이 아닙니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T02:01:03.648242Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T02:01:03.648242Z">
+    <Type>Exception</Type>
+    <Name>TypeIsNotBeingEdited</Name>
+    <Value>Type is not being edited.</Value>
+    <ko_KR>타입이 편집중이 아닙니다.</ko_KR>
   </StringTable>
 </Content>
