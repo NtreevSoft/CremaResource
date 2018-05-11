@@ -5,8 +5,8 @@
   Creator="s2quake"
   CreatedDateTime="2018-04-05T00:08:40.3938939Z"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-05-11T02:11:24.3733323Z"
-  StringTable.Count="79"
+  StringTable.ModifiedDateTime="2018-05-11T02:12:18.7550278Z"
+  StringTable.Count="80"
   StringTable.ID="7b06f3d3-7f68-4270-b99e-be7f9a8bd0f9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="s2quake"
@@ -801,5 +801,15 @@ The server will automatically attempt to restore from a data not yet saved.</Val
     <Name>InheritedTableTemplateCannotEdit</Name>
     <Value>Inherited table template can not edit.</Value>
     <ko_KR>상속받은 테이블의 형태는 편집할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T02:12:18.7550278Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T02:12:18.7550278Z">
+    <Type>Exception</Type>
+    <Name>ChildTableCannotEdit</Name>
+    <Value>Child table can not edit.</Value>
+    <ko_KR>자식 테이블은 편집할 수 없습니다.</ko_KR>
   </StringTable>
 </Content>
