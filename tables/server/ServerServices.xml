@@ -5,8 +5,8 @@
   Creator="s2quake"
   CreatedDateTime="2018-04-05T00:08:40.3938939Z"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-05-11T02:03:09.3844629Z"
-  StringTable.Count="77"
+  StringTable.ModifiedDateTime="2018-05-11T02:06:31.7324183Z"
+  StringTable.Count="78"
   StringTable.ID="7b06f3d3-7f68-4270-b99e-be7f9a8bd0f9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="s2quake"
@@ -756,30 +756,40 @@ The server will automatically attempt to restore from a data not yet saved.</Val
     Creator="s2quake"
     CreatedDateTime="2018-05-11T02:03:09.3844629Z"
     Modifier="s2quake"
-    ModifiedDateTime="2018-05-11T02:03:09.3844629Z">
+    ModifiedDateTime="2018-05-11T02:06:16.4755915Z">
     <Type>Exception</Type>
     <Name>CannotRenameOnCreateType</Name>
-    <Value>Cannot rename on create Type</Value>
+    <Value>Can not rename on create Type</Value>
     <ko_KR>타입을 생성중일 때는 이름을 변경할 수 없습니다.</ko_KR>
   </StringTable>
   <StringTable
     Creator="s2quake"
     CreatedDateTime="2018-05-11T02:03:09.3844629Z"
     Modifier="s2quake"
-    ModifiedDateTime="2018-05-11T02:03:09.3844629Z">
+    ModifiedDateTime="2018-05-11T02:06:14.525588Z">
     <Type>Exception</Type>
     <Name>CannotMoveOnCreateType</Name>
-    <Value>Cannot move on create Type</Value>
+    <Value>Can not move on create Type</Value>
     <ko_KR>타입을 생성중일 때는 이동할 수 없습니다.</ko_KR>
   </StringTable>
   <StringTable
     Creator="s2quake"
     CreatedDateTime="2018-05-11T02:03:09.3844629Z"
     Modifier="s2quake"
-    ModifiedDateTime="2018-05-11T02:03:09.3844629Z">
+    ModifiedDateTime="2018-05-11T02:06:12.4507844Z">
     <Type>Exception</Type>
     <Name>CannotDeleteOnCreateType</Name>
-    <Value>Cannot delete on create Type</Value>
+    <Value>Can not delete on create Type</Value>
     <ko_KR>타입을 생성중일 때는 삭제할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T02:06:01.3747649Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T02:06:31.7324183Z">
+    <Type>Exception</Type>
+    <Name>CannotDeleteTypeWithUsedTables</Name>
+    <Value>Can not delete type with used tables.</Value>
+    <ko_KR>사용중인 테이블이 있는 타입은 삭제할 수 없습니다.</ko_KR>
   </StringTable>
 </Content>
