@@ -5,8 +5,8 @@
   Creator="s2quake"
   CreatedDateTime="2018-04-05T00:08:40.3938939Z"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-05-11T01:34:40.276661Z"
-  StringTable.Count="65"
+  StringTable.ModifiedDateTime="2018-05-11T01:38:48.3794967Z"
+  StringTable.Count="67"
   StringTable.ID="7b06f3d3-7f68-4270-b99e-be7f9a8bd0f9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="s2quake"
@@ -661,5 +661,25 @@ The server will automatically attempt to restore from a data not yet saved.</Val
     <Name>CannotDeleteOnCreateTable</Name>
     <Value>Cannot delete on create table</Value>
     <ko_KR>테이블을 생성중일 때는 삭제할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T01:38:02.421816Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T01:38:02.421816Z">
+    <Type>Exception</Type>
+    <Name>InheritedTableCannotInherit</Name>
+    <Value>Inherited table can not inherit</Value>
+    <ko_KR>상속받은 테이블은 상속할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T01:38:24.4022546Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T01:38:48.3794967Z">
+    <Type>Exception</Type>
+    <Name>ChildTableCannotInherit</Name>
+    <Value>Child table can not inherit</Value>
+    <ko_KR>자식테이블은 상속할 수 없습니다.</ko_KR>
   </StringTable>
 </Content>
