@@ -5,7 +5,7 @@
   Creator="s2quake"
   CreatedDateTime="2018-04-05T00:08:40.3938939Z"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-05-11T01:56:53.5954028Z"
+  StringTable.ModifiedDateTime="2018-05-11T01:57:44.9974931Z"
   StringTable.Count="71"
   StringTable.ID="7b06f3d3-7f68-4270-b99e-be7f9a8bd0f9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
@@ -716,10 +716,10 @@ The server will automatically attempt to restore from a data not yet saved.</Val
     Creator="s2quake"
     CreatedDateTime="2018-05-11T01:56:43.6737854Z"
     Modifier="s2quake"
-    ModifiedDateTime="2018-05-11T01:56:53.5954028Z">
+    ModifiedDateTime="2018-05-11T01:57:44.9974931Z">
     <Type>Exception</Type>
-    <Name>UnsavedDomainsExists</Name>
-    <Value>There are domains that have not yet been saved.</Value>
-    <ko_KR>아직 저장되지 않은 도메인이 있습니다.</ko_KR>
+    <Name>UnsavedDomainsExists_Format</Name>
+    <Value>There are domains that have not yet been saved: '{0}'</Value>
+    <ko_KR>아직 저장되지 않은 도메인이 있습니다: '{0}'</ko_KR>
   </StringTable>
 </Content>
