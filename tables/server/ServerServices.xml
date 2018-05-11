@@ -5,8 +5,8 @@
   Creator="s2quake"
   CreatedDateTime="2018-04-05T00:08:40.3938939Z"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-05-11T01:50:01.9262798Z"
-  StringTable.Count="70"
+  StringTable.ModifiedDateTime="2018-05-11T01:56:53.5954028Z"
+  StringTable.Count="71"
   StringTable.ID="7b06f3d3-7f68-4270-b99e-be7f9a8bd0f9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="s2quake"
@@ -254,10 +254,10 @@ The server will automatically attempt to restore from a data not yet saved.</Val
     Creator="s2quake"
     CreatedDateTime="2018-04-05T00:25:26.0808603Z"
     Modifier="s2quake"
-    ModifiedDateTime="2018-04-05T00:25:29.4816663Z">
+    ModifiedDateTime="2018-05-11T01:53:51.1218823Z">
     <Type>Exception</Type>
     <Name>TableIsBeingEdited_Format</Name>
-    <Value>{0} 테이블이 편집중입니다.</Value>
+    <Value>'{0}' 테이블이 편집중입니다.</Value>
     <ko_KR>{0} 테이블이 편집중입니다.</ko_KR>
   </StringTable>
   <StringTable
@@ -284,10 +284,10 @@ The server will automatically attempt to restore from a data not yet saved.</Val
     Creator="s2quake"
     CreatedDateTime="2018-04-05T00:26:18.3409521Z"
     Modifier="s2quake"
-    ModifiedDateTime="2018-04-05T00:26:22.1161587Z">
+    ModifiedDateTime="2018-05-11T01:53:47.0658752Z">
     <Type>Exception</Type>
     <Name>TypeIsBeingEdited_Format</Name>
-    <Value>{0} 타입이 편집중입니다.</Value>
+    <Value>'{0}' 타입이 편집중입니다.</Value>
     <ko_KR>{0} 타입이 편집중입니다.</ko_KR>
   </StringTable>
   <StringTable
@@ -711,5 +711,15 @@ The server will automatically attempt to restore from a data not yet saved.</Val
     <Name>CannotDeletePathWithItems</Name>
     <Value>Can not delete path with items.</Value>
     <ko_KR>항목이 있는 경로는 삭제할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T01:56:43.6737854Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T01:56:53.5954028Z">
+    <Type>Exception</Type>
+    <Name>UnsavedDomainsExists</Name>
+    <Value>There are domains that have not yet been saved.</Value>
+    <ko_KR>아직 저장되지 않은 도메인이 있습니다.</ko_KR>
   </StringTable>
 </Content>
