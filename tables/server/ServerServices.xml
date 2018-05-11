@@ -5,8 +5,8 @@
   Creator="s2quake"
   CreatedDateTime="2018-04-05T00:08:40.3938939Z"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-05-11T02:39:08.3658549Z"
-  StringTable.Count="89"
+  StringTable.ModifiedDateTime="2018-05-11T02:41:11.4344711Z"
+  StringTable.Count="90"
   StringTable.ID="7b06f3d3-7f68-4270-b99e-be7f9a8bd0f9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="s2quake"
@@ -902,5 +902,15 @@ The server will automatically attempt to restore from a data not yet saved.</Val
     <Name>AtLeastOneMemberInType</Name>
     <Value>At least one member must exist in the type.</Value>
     <ko_KR>타입에는 적어도 한개 이상의 Member이(가) 존재해야 합니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T02:41:11.4344711Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T02:41:11.4344711Z">
+    <Type>Exception</Type>
+    <Name>CannotRename</Name>
+    <Value>Can not rename.</Value>
+    <ko_KR>이름을 변경할 수 없습니다.</ko_KR>
   </StringTable>
 </Content>
