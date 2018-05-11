@@ -5,8 +5,8 @@
   Creator="s2quake"
   CreatedDateTime="2018-04-05T00:08:40.3938939Z"
   StringTable.Modifier="s2quake"
-  StringTable.ModifiedDateTime="2018-05-10T04:27:52.5595605Z"
-  StringTable.Count="56"
+  StringTable.ModifiedDateTime="2018-05-11T01:05:39.6880038Z"
+  StringTable.Count="58"
   StringTable.ID="7b06f3d3-7f68-4270-b99e-be7f9a8bd0f9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/StringTable">
   <StringTable
     Creator="s2quake"
@@ -571,5 +571,25 @@ The server will automatically attempt to restore from a data not yet saved.</Val
     <Name>ChildTableCannotReadIndependently</Name>
     <Value>Child tables can not read data independently.</Value>
     <ko_KR>자식테이블은 독립적으로 데이터를 읽어들일 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T01:04:14.387054Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T01:05:01.9827376Z">
+    <Type>Exception</Type>
+    <Name>InheritedTableCannotSetTags</Name>
+    <Value>Inherited table can not set tags</Value>
+    <ko_KR>상속받은 테이블은 태그를 설정할 수 없습니다.</ko_KR>
+  </StringTable>
+  <StringTable
+    Creator="s2quake"
+    CreatedDateTime="2018-05-11T01:05:23.0583746Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-05-11T01:05:39.6880038Z">
+    <Type>Exception</Type>
+    <Name>InheritedTableCannotSetComment</Name>
+    <Value>Inherited table can not set comment</Value>
+    <ko_KR>상속받은 테이블은 설명을 설정할 수 없습니다.</ko_KR>
   </StringTable>
 </Content>
