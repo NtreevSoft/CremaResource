@@ -1,15 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Content
-  Version="3.6"
+  Version="4.0"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/Export/CremaProjectInfo ../Templates/ProjectInfo.xsd"
   ProjectInfo.Modifier="s2quake"
   ProjectInfo.ModifiedDateTime="2018-04-05T00:28:45.3244102Z"
   ProjectInfo.Count="18"
-  ProjectInfo.ID="dea31cbb-0fbd-40b7-9e09-bf11038a3aca"
-  ProjectInfo.ExportInfo.Modifier="s2quake"
-  ProjectInfo.ExportInfo.ModifiedDateTime="2018-04-05T00:43:52.3412033Z"
-  ProjectInfo.ExportInfo.Count="19"
-  ProjectInfo.ExportInfo.ID="a9ca9738-2c3f-41a3-b380-98987977e42e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/ProjectInfo">
+  ProjectInfo.ID="dea31cbb-0fbd-40b7-9e09-bf11038a3aca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/ProjectInfo">
   <ProjectInfo
     CreatedDateTime="2017-10-31T06:53:14.4082187Z"
     Modifier="admin"
@@ -19,14 +15,6 @@
     <ProjectType>Library</ProjectType>
     <Name>Ntreev.Crema.Client.SmartSet</Name>
     <ProjectPath>client/Ntreev.Crema.Client.SmartSet/Ntreev.Crema.Client.SmartSet.csproj</ProjectPath>
-    <ExportInfo
-      CreatedDateTime="2017-10-31T06:53:14.4142228Z"
-      Modifier="admin"
-      ModifiedDateTime="2017-11-01T08:23:24.3494315Z">
-      <ID>1</ID>
-      <FileName />
-      <TableName>ClientSmartSet</TableName>
-    </ExportInfo>
   </ProjectInfo>
   <ProjectInfo
     CreatedDateTime="2017-10-31T06:53:14.4082187Z"
@@ -37,14 +25,6 @@
     <ProjectType>Library</ProjectType>
     <Name>Ntreev.Crema.Client.Base</Name>
     <ProjectPath>client/Ntreev.Crema.Client.Base/Ntreev.Crema.Client.Base.csproj</ProjectPath>
-    <ExportInfo
-      CreatedDateTime="2017-10-31T06:53:14.4152229Z"
-      Modifier="s2quake"
-      ModifiedDateTime="2018-02-28T04:38:21.2240147Z">
-      <ID>2</ID>
-      <FileName />
-      <TableName>ClientBase</TableName>
-    </ExportInfo>
   </ProjectInfo>
   <ProjectInfo
     CreatedDateTime="2017-10-31T06:53:14.4082187Z"
@@ -55,14 +35,6 @@
     <ProjectType>Library</ProjectType>
     <Name>Ntreev.Crema.Client.Tables</Name>
     <ProjectPath>client/Ntreev.Crema.Client.Tables/Ntreev.Crema.Client.Tables.csproj</ProjectPath>
-    <ExportInfo
-      CreatedDateTime="2017-10-31T06:53:14.4152229Z"
-      Modifier="admin"
-      ModifiedDateTime="2017-11-01T08:23:24.3494315Z">
-      <ID>4</ID>
-      <FileName />
-      <TableName>ClientTables</TableName>
-    </ExportInfo>
   </ProjectInfo>
   <ProjectInfo
     CreatedDateTime="2017-10-31T06:53:14.4092194Z"
@@ -73,14 +45,6 @@
     <ProjectType>Library</ProjectType>
     <Name>Ntreev.Crema.Presentation</Name>
     <ProjectPath>common/Ntreev.Crema.Presentation/Ntreev.Crema.Presentation.csproj</ProjectPath>
-    <ExportInfo
-      CreatedDateTime="2017-10-31T06:53:14.4162251Z"
-      Modifier="admin"
-      ModifiedDateTime="2017-11-01T08:23:24.3494315Z">
-      <ID>5</ID>
-      <FileName />
-      <TableName>CommonPresentation</TableName>
-    </ExportInfo>
   </ProjectInfo>
   <ProjectInfo
     CreatedDateTime="2017-10-31T06:53:14.4092194Z"
@@ -91,14 +55,6 @@
     <ProjectType>Library</ProjectType>
     <Name>Ntreev.ModernUI.Framework</Name>
     <ProjectPath>sub-modules/Ntreev.ModernUI.Framework/Ntreev.ModernUI.Framework/Ntreev.ModernUI.Framework.csproj</ProjectPath>
-    <ExportInfo
-      CreatedDateTime="2017-10-31T06:53:14.4162251Z"
-      Modifier="admin"
-      ModifiedDateTime="2017-11-01T08:23:24.3494315Z">
-      <ID>0</ID>
-      <FileName />
-      <TableName>ModernUIFramework</TableName>
-    </ExportInfo>
   </ProjectInfo>
   <ProjectInfo
     CreatedDateTime="2017-10-31T06:53:14.4092194Z"
@@ -109,14 +65,6 @@
     <ProjectType>Library</ProjectType>
     <Name>Ntreev.Crema.Client.Converters</Name>
     <ProjectPath>client/Ntreev.Crema.Client.Converters/Ntreev.Crema.Client.Converters.csproj</ProjectPath>
-    <ExportInfo
-      CreatedDateTime="2017-10-31T06:53:14.4162251Z"
-      Modifier="admin"
-      ModifiedDateTime="2017-11-01T08:23:24.3494315Z">
-      <ID>3</ID>
-      <FileName />
-      <TableName>ClientConverters</TableName>
-    </ExportInfo>
   </ProjectInfo>
   <ProjectInfo
     CreatedDateTime="2017-10-31T06:53:14.4092194Z"
@@ -127,14 +75,6 @@
     <ProjectType>Library</ProjectType>
     <Name>Ntreev.Crema.Client.Types</Name>
     <ProjectPath>client/Ntreev.Crema.Client.Types/Ntreev.Crema.Client.Types.csproj</ProjectPath>
-    <ExportInfo
-      CreatedDateTime="2017-10-31T06:53:14.4162251Z"
-      Modifier="admin"
-      ModifiedDateTime="2017-11-01T08:23:24.3494315Z">
-      <ID>6</ID>
-      <FileName />
-      <TableName>ClientTypes</TableName>
-    </ExportInfo>
   </ProjectInfo>
   <ProjectInfo
     CreatedDateTime="2017-10-31T06:53:14.4092194Z"
@@ -145,14 +85,6 @@
     <ProjectType>Library</ProjectType>
     <Name>Ntreev.Crema.Client.Framework</Name>
     <ProjectPath>client/Ntreev.Crema.Client.Framework/Ntreev.Crema.Client.Framework.csproj</ProjectPath>
-    <ExportInfo
-      CreatedDateTime="2017-10-31T06:53:14.4162251Z"
-      Modifier="admin"
-      ModifiedDateTime="2017-11-01T08:23:24.3494315Z">
-      <ID>7</ID>
-      <FileName />
-      <TableName>ClientFramework</TableName>
-    </ExportInfo>
   </ProjectInfo>
   <ProjectInfo
     Creator="admin"
@@ -164,15 +96,6 @@
     <ProjectType>Library</ProjectType>
     <Name>Ntreev.Crema.Client.Console</Name>
     <ProjectPath>client/Ntreev.Crema.Client.Console/Ntreev.Crema.Client.Console.csproj</ProjectPath>
-    <ExportInfo
-      Creator="admin"
-      CreatedDateTime="2017-10-31T23:56:16.0488323Z"
-      Modifier="admin"
-      ModifiedDateTime="2017-11-01T08:23:24.3494315Z">
-      <ID>8</ID>
-      <FileName />
-      <TableName>ClientConsole</TableName>
-    </ExportInfo>
   </ProjectInfo>
   <ProjectInfo
     Creator="admin"
@@ -184,15 +107,6 @@
     <ProjectType>Library</ProjectType>
     <Name>Ntreev.Crema.Client.Differences</Name>
     <ProjectPath>client/Ntreev.Crema.Client.Differences/Ntreev.Crema.Client.Differences.csproj</ProjectPath>
-    <ExportInfo
-      Creator="admin"
-      CreatedDateTime="2017-11-01T00:02:12.0102575Z"
-      Modifier="admin"
-      ModifiedDateTime="2017-11-01T08:23:24.3494315Z">
-      <ID>9</ID>
-      <FileName />
-      <TableName>ClientDifferences</TableName>
-    </ExportInfo>
   </ProjectInfo>
   <ProjectInfo
     Creator="admin"
@@ -204,15 +118,6 @@
     <ProjectType>Executable</ProjectType>
     <Name>Ntreev.Crema.ApplicationHost</Name>
     <ProjectPath>client/Ntreev.Crema.ApplicationHost/Ntreev.Crema.ApplicationHost.csproj</ProjectPath>
-    <ExportInfo
-      Creator="admin"
-      CreatedDateTime="2017-11-01T08:23:59.1268929Z"
-      Modifier="admin"
-      ModifiedDateTime="2017-11-01T08:23:59.1268929Z">
-      <ID>10</ID>
-      <FileName />
-      <TableName>ClientApplicationHost</TableName>
-    </ExportInfo>
   </ProjectInfo>
   <ProjectInfo
     Creator="admin"
@@ -224,15 +129,6 @@
     <ProjectType>Library</ProjectType>
     <Name>Ntreev.Library</Name>
     <ProjectPath>sub-modules/Ntreev.Library/Ntreev.Library/Ntreev.Library.csproj</ProjectPath>
-    <ExportInfo
-      Creator="admin"
-      CreatedDateTime="2017-11-07T01:07:32.5432493Z"
-      Modifier="admin"
-      ModifiedDateTime="2017-11-07T01:07:32.5432493Z">
-      <ID>11</ID>
-      <FileName />
-      <TableName>NtreevLibrary</TableName>
-    </ExportInfo>
   </ProjectInfo>
   <ProjectInfo
     Creator="admin"
@@ -244,24 +140,6 @@
     <ProjectType>Library</ProjectType>
     <Name>Ntreev.Crema.ServiceModel</Name>
     <ProjectPath>common/Ntreev.Crema.ServiceModel/Ntreev.Crema.ServiceModel.csproj</ProjectPath>
-    <ExportInfo
-      Creator="admin"
-      CreatedDateTime="2017-11-08T02:00:24.1686175Z"
-      Modifier="admin"
-      ModifiedDateTime="2017-11-08T02:00:24.1686175Z">
-      <ID>12</ID>
-      <FileName>Properties/EventResources.resx</FileName>
-      <TableName>CommonServiceModel_Event</TableName>
-    </ExportInfo>
-    <ExportInfo
-      Creator="admin"
-      CreatedDateTime="2017-11-08T02:45:29.3807704Z"
-      Modifier="admin"
-      ModifiedDateTime="2017-11-08T02:45:29.3807704Z">
-      <ID>13</ID>
-      <FileName />
-      <TableName>CommonServiceModel</TableName>
-    </ExportInfo>
   </ProjectInfo>
   <ProjectInfo
     Creator="s2quake"
@@ -273,15 +151,6 @@
     <ProjectType>Library</ProjectType>
     <Name>Ntreev.Crema.ServiceHosts</Name>
     <ProjectPath>server/Ntreev.Crema.ServiceHosts/Ntreev.Crema.ServiceHosts.csproj</ProjectPath>
-    <ExportInfo
-      Creator="s2quake"
-      CreatedDateTime="2017-11-08T08:04:28.5875338Z"
-      Modifier="s2quake"
-      ModifiedDateTime="2017-11-08T08:04:28.5875338Z">
-      <ID>14</ID>
-      <FileName />
-      <TableName>ServerServiceHosts</TableName>
-    </ExportInfo>
   </ProjectInfo>
   <ProjectInfo
     Creator="s2quake"
@@ -293,15 +162,6 @@
     <ProjectType>Library</ProjectType>
     <Name>Ntreev.Crema.Client.Users</Name>
     <ProjectPath>client/Ntreev.Crema.Client.Users/Ntreev.Crema.Client.Users.csproj</ProjectPath>
-    <ExportInfo
-      Creator="s2quake"
-      CreatedDateTime="2018-02-08T08:45:43.0146336Z"
-      Modifier="s2quake"
-      ModifiedDateTime="2018-02-08T08:45:43.0146336Z">
-      <ID>15</ID>
-      <FileName />
-      <TableName>ClientUsers</TableName>
-    </ExportInfo>
   </ProjectInfo>
   <ProjectInfo
     Creator="s2quake"
@@ -313,15 +173,6 @@
     <ProjectType>Library</ProjectType>
     <Name>Ntreev.Crema.Data</Name>
     <ProjectPath>common/Ntreev.Crema.Data/Ntreev.Crema.Data.csproj</ProjectPath>
-    <ExportInfo
-      Creator="s2quake"
-      CreatedDateTime="2018-02-27T00:04:12.1841796Z"
-      Modifier="s2quake"
-      ModifiedDateTime="2018-02-27T00:04:12.1841796Z">
-      <ID>16</ID>
-      <FileName />
-      <TableName>CremaData</TableName>
-    </ExportInfo>
   </ProjectInfo>
   <ProjectInfo
     Creator="s2quake"
@@ -333,15 +184,6 @@
     <ProjectType>Library</ProjectType>
     <Name>Ntreev.Crema.Services</Name>
     <ProjectPath>client/Ntreev.Crema.Services/Ntreev.Crema.Services.csproj</ProjectPath>
-    <ExportInfo
-      Creator="s2quake"
-      CreatedDateTime="2018-03-27T02:09:32.648655Z"
-      Modifier="s2quake"
-      ModifiedDateTime="2018-03-27T02:09:32.648655Z">
-      <ID>17</ID>
-      <FileName />
-      <TableName>ClientServices</TableName>
-    </ExportInfo>
   </ProjectInfo>
   <ProjectInfo
     Creator="s2quake"
@@ -353,14 +195,5 @@
     <ProjectType>Library</ProjectType>
     <Name>Ntreev.Crema.Services</Name>
     <ProjectPath>server/Ntreev.Crema.Services/Ntreev.Crema.Services.csproj</ProjectPath>
-    <ExportInfo
-      Creator="s2quake"
-      CreatedDateTime="2018-04-05T00:43:52.3412033Z"
-      Modifier="s2quake"
-      ModifiedDateTime="2018-04-05T00:43:52.3412033Z">
-      <ID>18</ID>
-      <FileName />
-      <TableName>ServerServices</TableName>
-    </ExportInfo>
   </ProjectInfo>
 </Content>
