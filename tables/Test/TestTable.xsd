@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<xs:schema xmlns:t="http://schemas.ntreev.com/crema/tables/Test/TestTable" xmlns="http://schemas.ntreev.com/crema/tables/Test/TestTable" elementFormDefault="qualified" targetNamespace="http://schemas.ntreev.com/crema/tables/Test/TestTable" version="3.6" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:schema xmlns:t="http://schemas.ntreev.com/crema/tables/Test/TestTable" xmlns="http://schemas.ntreev.com/crema/tables/Test/TestTable" elementFormDefault="qualified" targetNamespace="http://schemas.ntreev.com/crema/tables/Test/TestTable" version="4.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:simpleType name="guid">
     <xs:restriction base="xs:string">
       <xs:pattern value="([0-9a-fA-F]){8}-([0-9a-fA-F]){4}-([0-9a-fA-F]){4}-([0-9a-fA-F]){4}-([0-9a-fA-F]){12}" />
@@ -80,16 +80,6 @@
       <xs:attribute name="TestTable.Modifier" type="xs:string" use="optional" />
       <xs:attribute name="TestTable.Count" type="xs:int" use="optional" />
       <xs:attribute name="TestTable.ID" type="xs:string" use="optional" />
-      <xs:attribute name="Creator" type="xs:string" use="optional">
-        <xs:annotation>
-          <xs:documentation>xml 문서를 생성한 사람의 이름을 설정합니다. 이 값은 선택적입니다.</xs:documentation>
-        </xs:annotation>
-      </xs:attribute>
-      <xs:attribute name="CreatedDateTime" type="xs:dateTime" use="optional">
-        <xs:annotation>
-          <xs:documentation>xml 문서를 생성한 시간을 설정합니다. 이 값은 선택적입니다.</xs:documentation>
-        </xs:annotation>
-      </xs:attribute>
     </xs:complexType>
     <xs:key name="TestTable.Key">
       <xs:selector xpath="t:TestTable" />

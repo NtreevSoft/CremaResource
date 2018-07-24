@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<xs:schema xmlns:t="http://schemas.ntreev.com/crema/types/KindType" xmlns="http://schemas.ntreev.com/crema/types/KindType" elementFormDefault="qualified" targetNamespace="http://schemas.ntreev.com/crema/types/KindType" version="3.5" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:schema xmlns:t="http://schemas.ntreev.com/crema/types/KindType" xmlns="http://schemas.ntreev.com/crema/types/KindType" elementFormDefault="qualified" targetNamespace="http://schemas.ntreev.com/crema/types/KindType" version="4.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:simpleType name="KindType">
     <xs:annotation>
       <xs:appinfo>

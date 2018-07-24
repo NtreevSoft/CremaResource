@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<xs:schema xmlns:t="http://schemas.ntreev.com/crema/types/StringType" xmlns="http://schemas.ntreev.com/crema/types/StringType" elementFormDefault="qualified" targetNamespace="http://schemas.ntreev.com/crema/types/StringType" version="3.5" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:schema xmlns:t="http://schemas.ntreev.com/crema/types/StringType" xmlns="http://schemas.ntreev.com/crema/types/StringType" elementFormDefault="qualified" targetNamespace="http://schemas.ntreev.com/crema/types/StringType" version="4.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:simpleType name="StringType">
     <xs:annotation>
       <xs:appinfo>
