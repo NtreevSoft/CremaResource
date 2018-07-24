@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Content
+  Version="4.0"
+  xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/Test/TestProjectInfo.ExportInfo ../Templates/ProjectInfo.ExportInfo.xsd"
+  ProjectInfo.ExportInfo.CreatedDateTime="2017-10-25T08:34:43.9802704Z"
+  ProjectInfo.ExportInfo.Modifier="s2quake"
+  ProjectInfo.ExportInfo.ModifiedDateTime="2018-01-09T02:27:25.8396096Z"
+  ProjectInfo.ExportInfo.Count="1"
+  ProjectInfo.ExportInfo.ID="22d17431-5075-4aa6-8272-1b4b652c0343" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ntreev.com/crema/tables/Templates/ProjectInfo.ExportInfo">
+  <ProjectInfo.ExportInfo
+    Creator="s2quake"
+    CreatedDateTime="2018-01-09T02:27:25.8396096Z"
+    Modifier="s2quake"
+    ModifiedDateTime="2018-01-09T02:27:25.8396096Z"
+    ParentID="a3eb61aa6b5b34748b709259cff51692">
+    <ID>0</ID>
+    <FileName />
+    <TableName>ConsoleApp1</TableName>
+  </ProjectInfo.ExportInfo>
+</Content>

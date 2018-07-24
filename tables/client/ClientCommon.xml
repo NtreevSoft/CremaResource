@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Content
-  Version="3.5"
+  Version="4.0"
   xsi:schemaLocation="http://schemas.ntreev.com/crema/tables/client/ClientCommon ../Templates/StringTable.xsd"
-  Creator="admin"
-  CreatedDateTime="2017-10-23T07:16:01.2646706Z"
+  StringTable.Creator="admin"
+  StringTable.CreatedDateTime="2017-10-23T07:16:01.2646706Z"
   StringTable.Modifier="s2quake"
   StringTable.ModifiedDateTime="2017-12-11T07:37:29.6771317Z"
   StringTable.Count="64"
